@@ -1,0 +1,84 @@
+{
+  "naver": [
+    {
+      "title": "광마회귀",
+      "url": "https://comic.naver.com/webtoon/list?titleId=776601",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg"
+    },
+    {
+      "title": "외모지상주의",
+      "url": "https://comic.naver.com/webtoon/list?titleId=641253",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg"
+    },
+    {
+      "title": "나 혼자 만렙 뉴비",
+      "url": "https://comic.naver.com/webtoon/list?titleId=773797",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/773797/thumbnail/thumbnail_IMAG21_37c6a85a-d3a6-4afc-909a-420973f63019.jpg"
+    },
+    {
+      "title": "상남자",
+      "url": "https://comic.naver.com/webtoon/list?titleId=751168",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/751168/thumbnail/thumbnail_IMAG21_db791b21-1a43-4a47-bfe4-09f504e0c246.jpg"
+    },
+    {
+      "title": "아카데미에서 살아남기",
+      "url": "https://comic.naver.com/webtoon/list?titleId=820097",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/820097/thumbnail/thumbnail_IMAG21_f453912f-edd5-432c-a4f7-50e4b314ad6c.jpg"
+    }
+  ],
+  "kakao": [
+    {
+      "title": "남편이 최애인데 이혼당할 것 같다",
+      "url": "https://page.kakao.com/content/68099906",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "전 그냥 내 집 마련이 꿈인데요?",
+      "url": "https://page.kakao.com/content/66539896",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
+    },
+    {
+      "title": "호랑이 가문의 아기 살쾡이",
+      "url": "https://page.kakao.com/content/71032383",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
+    },
+    {
+      "title": "백작가의 망나니가 되었다",
+      "url": "https://page.kakao.com/content/55553244",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
+    }
+  ],
+  "ridi": [
+    {
+      "title": "록사나 : 여주인공의 오빠를 지키는 방법",
+      "url": "https://ridibooks.com/books/4921002551",
+      "cover": "https://img.ridicdn.net/cover/4921002604/xxlarge"
+    },
+    {
+      "title": "악인 남편",
+      "url": "https://ridibooks.com/books/6039000001",
+      "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
+    },
+    {
+      "title": "나를 홀린 이웃집 스타",
+      "url": "https://ridibooks.com/books/4895003124",
+      "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
+    },
+    {
+      "title": "던전을 그리는 화가",
+      "url": "https://ridibooks.com/books/6305000001",
+      "cover": "https://img.ridicdn.net/cover/6305000030/xxlarge"
+    },
+    {
+      "title": "상수리나무 아래",
+      "url": "https://ridibooks.com/books/4766000001",
+      "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
+    }
+  ],
+  "updated_at": "2026-10-23T20:19:06+09:00"
+}

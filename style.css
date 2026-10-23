@@ -1,0 +1,115 @@
+/* 기본 */
+body {
+  margin: 0;
+  padding: 24px 40px 60px;
+  font-family: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  color: #111;
+  background: #fff;
+}
+
+h1 {
+  margin: 8px 0 32px;
+  font-size: 28px;
+}
+
+/* 상단 우측: 날짜/시간 + 새로고침 버튼 */
+header {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 12px;
+  font-size: 14px;
+  color: #666;
+}
+
+header button {
+  padding: 6px 12px;
+  font: inherit;
+  color: #111;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+header button:hover {
+  background: #f5f5f5;
+}
+
+/* 섹션: 한 행씩, 웹툰은 가로 배치 */
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 24px 0;
+  border-top: 1px solid #eee;
+}
+
+section h2 {
+  width: 100%;
+  margin: 0;
+  font-size: 20px;
+}
+
+/* 웹툰 카드 */
+section a {
+  width: 200px;
+  color: #000;
+  text-decoration: none;
+}
+
+section img {
+  display: block;
+  width: 200px;
+  height: 270px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #f2f2f2;
+}
+
+/* 제목: 볼드, 검정, 표지 기준 가운데 정렬 */
+section p {
+  margin: 10px 0 0;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* 제목 오른쪽 링크 아이콘 */
+section p::after {
+  content: "↗";
+  margin-left: 4px;
+  font-size: 0.9em;
+  color: #888;
+}
+
+section a:hover img {
+  opacity: 0.85;
+}
+
+header button:disabled {
+  color: #aaa;
+  cursor: default;
+}
+
+/* 새로고침 버튼 아래 안내 문장: 평소엔 숨기고 .show일 때 서서히 나타남 */
+#message {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin: 8px 0 0;
+  padding: 6px 12px;
+  font-size: 13px;
+  color: #333;
+  background: #f0f0f0;
+  border-radius: 6px;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.4s, visibility 0.4s;
+}
+
+#message.show {
+  opacity: 1;
+  visibility: visible;
+}

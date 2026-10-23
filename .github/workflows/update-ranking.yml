@@ -1,0 +1,30 @@
+# 1시간마다 update_ranking.py를 실행해 ranking.json을 최신 순위로 갱신한다.
+name: Update ranking
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # 매시 정각 (GitHub 사정에 따라 몇 분~수십 분 늦을 수 있음)
+  workflow_dispatch:       # Actions 탭에서 직접 실행할 수 있게
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update ranking.json
+        run: python update_ranking.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ranking.json
+          git diff --cached --quiet || (git commit -m "Update ranking" && git push)
