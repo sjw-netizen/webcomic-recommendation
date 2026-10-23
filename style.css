@@ -83,6 +83,15 @@ section h2 img {
   background: none;
 }
 
+/* 플랫폼 로고 링크: 로고 크기만큼만 클릭되게 */
+section h2 a {
+  display: inline-block;
+}
+
+section h2 a:hover {
+  opacity: 0.7;
+}
+
 /* 웹툰 카드 */
 section a {
   flex: 0 0 200px;
