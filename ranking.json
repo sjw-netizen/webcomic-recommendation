@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
     },
     {
-      "title": "던전 견문록",
-      "url": "https://page.kakao.com/content/60241259",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cjFlrL/dJMb8XYzKNC/TlFfn6MRkVBXuwinbRGZik&filename=th3"
-    },
-    {
       "title": "전 그냥 내 집 마련이 꿈인데요?",
       "url": "https://page.kakao.com/content/66539896",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
+    },
+    {
+      "title": "악역에 빙의했지만, 고양이나 키울래요",
+      "url": "https://page.kakao.com/content/64378065",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T02:27:19+09:00",
+  "updated_at": "2026-10-24T03:28:00+09:00",
   "lezhin": [
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "강이세의 해피엔딩",
-      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "흑랑 : 검은이리의 신부",
+      "url": "https://www.lezhin.com/ko/comic/blackwolf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6445166738866176/images/tall.jpg"
+    },
+    {
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
     },
     {
       "title": "안개 바다 위의 샤베트",
@@ -178,34 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "새디스틱 뷰티:외전B [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/sadi_bt_b",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4777537292140544/images/tall.jpg"
     },
     {
-      "title": "아름다운 초저녁달",
-      "url": "https://www.lezhin.com/ko/comic/clear_moonlit_dusk",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942943809863680/images/tall.jpg"
+      "title": "내가 아닌 연애 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/not_me_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "미치도록 찬란하게",
+      "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.jpg"
     },
     {
       "title": "광안 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/madeye_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+    },
+    {
+      "title": "허들 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/hurdle_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.jpg"
     }
   ]
 }
