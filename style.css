@@ -14,7 +14,7 @@ h1 {
   font-size: 44px;
   font-weight: 400;
   letter-spacing: 1px;
-  text-shadow: 3px 3px 0 #39ff14, 6px 6px 0 #ff2bd6;
+  text-shadow: 3px 3px 0 #39ff14;
 }
 
 /* 상단 우측: 날짜/시간 + 새로고침 버튼 */
