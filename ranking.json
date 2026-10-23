@@ -24,6 +24,31 @@
       "title": "아카데미에서 살아남기",
       "url": "https://comic.naver.com/webtoon/list?titleId=820097",
       "cover": "https://shared-comic.pstatic.net/thumb/webtoon/820097/thumbnail/thumbnail_IMAG21_f453912f-edd5-432c-a4f7-50e4b314ad6c.jpg"
+    },
+    {
+      "title": "나 혼자 탑에서 농사",
+      "url": "https://comic.naver.com/webtoon/list?titleId=808389",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/808389/thumbnail/thumbnail_IMAG21_b429c638-a6df-470d-bbb0-7c6dce13813b.jpg"
+    },
+    {
+      "title": "악당들의 후원자가 되었다",
+      "url": "https://comic.naver.com/webtoon/list?titleId=844063",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/844063/thumbnail/thumbnail_IMAG21_176f0c83-c66b-465d-85bd-faab1c753be2.jpg"
+    },
+    {
+      "title": "A.I. 닥터",
+      "url": "https://comic.naver.com/webtoon/list?titleId=765804",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/765804/thumbnail/thumbnail_IMAG21_bca18580-e6e1-42d8-8e89-1b496c00ebf7.jpg"
+    },
+    {
+      "title": "천하제일 대사형",
+      "url": "https://comic.naver.com/webtoon/list?titleId=802278",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/802278/thumbnail/thumbnail_IMAG21_5966f77c-52d8-4504-8bd7-e8565f623bbe.jpg"
+    },
+    {
+      "title": "신마 환생",
+      "url": "https://comic.naver.com/webtoon/list?titleId=843194",
+      "cover": "https://shared-comic.pstatic.net/thumb/webtoon/843194/thumbnail/thumbnail_IMAG21_14b78509-ced4-4e4f-9cda-f50b89383c24.jpg"
     }
   ],
   "kakao": [
@@ -51,6 +76,31 @@
       "title": "백작가의 망나니가 되었다",
       "url": "https://page.kakao.com/content/55553244",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
+    },
+    {
+      "title": "천재 궁수의 스트리밍",
+      "url": "https://page.kakao.com/content/64007563",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
+    },
+    {
+      "title": "SSS급 죽어야 사는 헌터",
+      "url": "https://page.kakao.com/content/56243215",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
+    },
+    {
+      "title": "픽 미 업!",
+      "url": "https://page.kakao.com/content/60914825",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+    },
+    {
+      "title": "환생한 암살자는 검술 천재",
+      "url": "https://page.kakao.com/content/62263340",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=tFtUb/dJMcahp122Z/MFKfqwdAawIydqfbpR2q40&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     }
   ],
   "ridi": [
@@ -78,7 +128,32 @@
       "title": "상수리나무 아래",
       "url": "https://ridibooks.com/books/4766000001",
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
+    },
+    {
+      "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
+      "url": "https://ridibooks.com/books/4158001245",
+      "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
+    },
+    {
+      "title": "세상만 구하고 은퇴하겠습니다",
+      "url": "https://ridibooks.com/books/1746023143",
+      "cover": "https://img.ridicdn.net/cover/1746036771/xxlarge"
+    },
+    {
+      "title": "러브:제로(Love:Zero) [개정판]",
+      "url": "https://ridibooks.com/books/5103000638",
+      "cover": "https://img.ridicdn.net/cover/5103000794/xxlarge"
+    },
+    {
+      "title": "내게 빌어봐",
+      "url": "https://ridibooks.com/books/1746023794",
+      "cover": "https://img.ridicdn.net/cover/1746036878/xxlarge"
+    },
+    {
+      "title": "남편 대신 먹었습니다 [개정판]",
+      "url": "https://ridibooks.com/books/2968009885",
+      "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
     }
   ],
-  "updated_at": "2026-10-23T20:47:10+09:00"
+  "updated_at": "2026-10-23T21:03:35+09:00"
 }

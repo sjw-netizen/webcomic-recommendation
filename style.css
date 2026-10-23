@@ -42,19 +42,26 @@ header button:hover {
   background: #f5f5f5;
 }
 
-/* 섹션: 한 행씩, 웹툰은 가로 배치 */
+/* 섹션: 한 행씩 */
 section {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
   padding: 24px 0;
   border-top: 1px solid #eee;
 }
 
 section h2 {
-  width: 100%;
-  margin: 0;
+  margin: 0 0 24px;
   font-size: 20px;
+}
+
+/* 웹툰 목록: 한 줄로 늘어놓고 가로 스크롤 */
+.row {
+  display: flex;
+  gap: 24px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  scroll-snap-type: x proximity;
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
 }
 
 /* 플랫폼 로고: 웹툰 표지용 img 스타일이 적용되지 않게 되돌린다 */
@@ -78,7 +85,8 @@ section h2 img {
 
 /* 웹툰 카드 */
 section a {
-  width: 200px;
+  flex: 0 0 200px;
+  scroll-snap-align: start;
   color: #000;
   text-decoration: none;
 }

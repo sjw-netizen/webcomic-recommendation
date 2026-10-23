@@ -11,7 +11,7 @@ import re
 import urllib.request
 from datetime import datetime, timedelta, timezone
 
-TOP_N = 5
+TOP_N = 10
 KST = timezone(timedelta(hours=9))
 UA = "Mozilla/5.0"
 OUTPUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ranking.json")

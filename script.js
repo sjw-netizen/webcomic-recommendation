@@ -41,11 +41,10 @@ function createItem(item) {
   return a;
 }
 
-// 섹션의 제목(h2)은 남기고 웹툰 목록만 교체한다
+// 섹션의 가로 스크롤 행(.row) 안 웹툰 목록만 교체한다
 function renderSection(id, items) {
-  const section = document.getElementById(id);
-  section.querySelectorAll("a").forEach((a) => a.remove());
-  items.forEach((item) => section.append(createItem(item)));
+  const row = document.querySelector(`#${id} .row`);
+  row.replaceChildren(...items.map(createItem));
 }
 
 // ranking.json(update_ranking.py가 만든 순위 파일)을 읽어 각 섹션을 상위 5개로 바꾼다
