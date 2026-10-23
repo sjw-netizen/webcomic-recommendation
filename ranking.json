@@ -155,17 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
     }
   ],
-  "updated_at": "2026-10-23T21:10:11+09:00",
+  "updated_at": "2026-10-23T21:30:11+09:00",
   "lezhin": [
     {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
-    },
-    {
-      "title": "던전 속 사정[개정판]",
-      "url": "https://www.lezhin.com/ko/comic/dungeon_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5145070025637888/images/tall.jpg"
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,14 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "강이세의 해피엔딩",
+      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+    },
+    {
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
       "title": "블랙보이",
       "url": "https://www.lezhin.com/ko/comic/blackboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "테디베어",
+      "url": "https://www.lezhin.com/ko/comic/teddybear_for_you",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6419563368218624/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "남편 대신 먹었습니다 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/instead_husband_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011790667171033/images/tall.jpg"
     }
   ]
 }
