@@ -21,6 +21,7 @@ h1 {
 header {
   position: relative;
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
   align-items: center;
   gap: 12px;
@@ -153,4 +154,28 @@ header button:disabled {
 #message.show {
   opacity: 1;
   visibility: visible;
+}
+
+/* 휴대폰 화면: 좌우 여백과 제목 크기를 줄인다 */
+@media (max-width: 480px) {
+  body {
+    padding: 16px 16px 40px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .row {
+    gap: 16px;
+  }
+
+  section a {
+    flex-basis: 160px;
+  }
+
+  section img {
+    width: 160px;
+    height: 216px;
+  }
 }
