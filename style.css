@@ -52,6 +52,25 @@ section h2 {
   font-size: 20px;
 }
 
+/* 플랫폼 로고: 웹툰 표지용 img 스타일이 적용되지 않게 되돌린다 */
+section h2 svg,
+section h2 img {
+  display: block;
+}
+
+section h2 span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+section h2 img {
+  width: auto;
+  height: 24px;
+  border-radius: 0;
+  background: none;
+}
+
 /* 웹툰 카드 */
 section a {
   width: 200px;
