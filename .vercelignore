@@ -1,0 +1,6 @@
+# Vercel에는 웹사이트 파일(index.html, style.css, script.js, ranking.json)만 올린다.
+# 순위 갱신용 Python 파일과 GitHub Actions 설정은 GitHub에서만 쓰인다.
+.github
+update_ranking.py
+README.md
+*.txt
