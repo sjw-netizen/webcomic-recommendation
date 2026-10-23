@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
     },
     {
-      "title": "백작가의 망나니가 되었다",
-      "url": "https://page.kakao.com/content/55553244",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
+      "title": "호랑이 가문의 아기 살쾡이",
+      "url": "https://page.kakao.com/content/71032383",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
     },
     {
-      "title": "전 그냥 내 집 마련이 꿈인데요?",
-      "url": "https://page.kakao.com/content/66539896",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
+      "title": "천재 대장장이의 게임",
+      "url": "https://page.kakao.com/content/67696572",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
     }
   ],
   "ridi": [
@@ -135,42 +135,32 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     },
     {
-      "title": "세상만 구하고 은퇴하겠습니다",
-      "url": "https://ridibooks.com/books/1746023143",
-      "cover": "https://img.ridicdn.net/cover/1746036771/xxlarge"
-    },
-    {
       "title": "러브:제로(Love:Zero) [개정판]",
       "url": "https://ridibooks.com/books/5103000638",
       "cover": "https://img.ridicdn.net/cover/5103000794/xxlarge"
     },
     {
-      "title": "내게 빌어봐",
-      "url": "https://ridibooks.com/books/1746023794",
-      "cover": "https://img.ridicdn.net/cover/1746036878/xxlarge"
+      "title": "세상만 구하고 은퇴하겠습니다",
+      "url": "https://ridibooks.com/books/1746023143",
+      "cover": "https://img.ridicdn.net/cover/1746036771/xxlarge"
     },
     {
-      "title": "남편 대신 먹었습니다 [개정판]",
-      "url": "https://ridibooks.com/books/2968009885",
-      "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
+      "title": "적국의 왕자로 사는 법",
+      "url": "https://ridibooks.com/books/5337000001",
+      "cover": "https://img.ridicdn.net/cover/5337000124/xxlarge"
+    },
+    {
+      "title": "국경의 아샤",
+      "url": "https://ridibooks.com/books/4158001267",
+      "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T04:30:24+09:00",
+  "updated_at": "2026-10-24T05:24:21+09:00",
   "lezhin": [
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "박한후의 매니저",
@@ -178,34 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
-      "title": "이혼신청",
-      "url": "https://www.lezhin.com/ko/comic/application_for_divorce",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5469854076567552/images/tall.jpg"
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "광안 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/madeye_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+      "title": "불멸의 날들",
+      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "최면 어플을 사용하는 학생회장과 최면에 걸린 척하는 양키",
+      "url": "https://www.lezhin.com/ko/comic/hypno_yankee",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787732489557/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "악역, 나 못 하겠어 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/cant_be_a_villain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011768810151294/images/tall.jpg"
+    },
+    {
+      "title": "루시드 드림",
+      "url": "https://www.lezhin.com/ko/comic/lucid_dream",
+      "cover": "https://ccdn.lezhin.com/v2/comics/368/images/tall.jpg"
+    },
+    {
+      "title": "용애어부가",
+      "url": "https://www.lezhin.com/ko/comic/dragonlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777526215706/images/tall.jpg"
     }
   ]
 }
