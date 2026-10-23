@@ -7,13 +7,14 @@ body {
   background: #fff;
 }
 
-/* 페이지 제목: 키치한 포스터 느낌의 굵은 글꼴 */
+/* 페이지 제목: 동글동글한 글꼴 + 형광색 그림자로 키치하게 */
 h1 {
   margin: 8px 0 32px;
-  font-family: "Black Han Sans", sans-serif;
-  font-size: 40px;
+  font-family: "Jua", sans-serif;
+  font-size: 44px;
   font-weight: 400;
   letter-spacing: 1px;
+  text-shadow: 3px 3px 0 #39ff14, 6px 6px 0 #ff2bd6;
 }
 
 /* 상단 우측: 날짜/시간 + 새로고침 버튼 */
