@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
     },
     {
-      "title": "남편은 분명 성기사였는데",
-      "url": "https://page.kakao.com/content/69490752",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bhFoex/dJMcadbyZ0x/K4PY81ZFxykM32AoVq8ah0&filename=th3"
-    },
-    {
       "title": "악역에 빙의했지만, 고양이나 키울래요",
       "url": "https://page.kakao.com/content/64378065",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
     },
     {
-      "title": "호랑이 가문의 아기 살쾡이",
-      "url": "https://page.kakao.com/content/71032383",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
-    },
-    {
       "title": "천재 대장장이의 게임",
       "url": "https://page.kakao.com/content/67696572",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
+    },
+    {
+      "title": "백작가의 망나니가 되었다",
+      "url": "https://page.kakao.com/content/55553244",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T05:24:21+09:00",
+  "updated_at": "2026-10-24T06:26:14+09:00",
   "lezhin": [
+    {
+      "title": "남주를 입양합니다",
+      "url": "https://www.lezhin.com/ko/comic/adopting_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5339483771043840/images/tall.jpg"
+    },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
-    },
-    {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
       "title": "불멸의 날들",
@@ -183,29 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "레이디 셜록",
+      "url": "https://www.lezhin.com/ko/comic/lady_sherlock",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5033976744640512/images/tall.jpg"
     },
     {
-      "title": "최면 어플을 사용하는 학생회장과 최면에 걸린 척하는 양키",
-      "url": "https://www.lezhin.com/ko/comic/hypno_yankee",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787732489557/images/tall.jpg"
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
     },
     {
-      "title": "악역, 나 못 하겠어 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/cant_be_a_villain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768810151294/images/tall.jpg"
+      "title": "죽기 싫어서 영웅을 키우기로 했습니다",
+      "url": "https://www.lezhin.com/ko/comic/hero_maker",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011767747700482/images/tall.jpg"
     },
     {
-      "title": "루시드 드림",
-      "url": "https://www.lezhin.com/ko/comic/lucid_dream",
-      "cover": "https://ccdn.lezhin.com/v2/comics/368/images/tall.jpg"
+      "title": "남주와 파혼하겠습니다",
+      "url": "https://www.lezhin.com/ko/comic/male_main_broken_marriage",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011739327639940/images/tall.jpg"
     },
     {
-      "title": "용애어부가",
-      "url": "https://www.lezhin.com/ko/comic/dragonlove",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777526215706/images/tall.jpg"
+      "title": "후궁도 두 번째라면 ~백돼지비 재래전~",
+      "url": "https://www.lezhin.com/ko/comic/second_concubine",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011740730865358/images/tall.jpg"
+    },
+    {
+      "title": "원수를 사랑하라 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/love_enemy_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785222798848/images/tall.jpg"
     }
   ]
 }
