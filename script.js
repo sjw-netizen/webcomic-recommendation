@@ -47,14 +47,14 @@ function renderSection(id, items) {
   row.replaceChildren(...items.map(createItem));
 }
 
-// ranking.json(update_ranking.py가 만든 순위 파일)을 읽어 각 섹션을 상위 5개로 바꾼다
+// ranking.json(update_ranking.py가 만든 순위 파일)을 읽어 각 섹션을 상위 10개로 바꾼다
 async function loadRanking() {
   // 브라우저가 예전 파일을 재사용하지 않도록 주소 뒤에 시각을 붙인다
   const res = await fetch(`ranking.json?t=${Date.now()}`);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const data = await res.json();
 
-  for (const id of ["naver", "kakao", "ridi"]) {
+  for (const id of ["naver", "kakao", "ridi", "lezhin"]) {
     if (Array.isArray(data[id])) renderSection(id, data[id]);
   }
 }

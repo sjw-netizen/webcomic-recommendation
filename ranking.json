@@ -58,19 +58,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "전 그냥 내 집 마련이 꿈인데요?",
       "url": "https://page.kakao.com/content/66539896",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
-    },
-    {
-      "title": "호랑이 가문의 아기 살쾡이",
-      "url": "https://page.kakao.com/content/71032383",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
     },
     {
       "title": "백작가의 망나니가 되었다",
@@ -83,6 +73,21 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "호랑이 가문의 아기 살쾡이",
+      "url": "https://page.kakao.com/content/71032383",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
+    },
+    {
+      "title": "환생한 암살자는 검술 천재",
+      "url": "https://page.kakao.com/content/62263340",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=tFtUb/dJMcahp122Z/MFKfqwdAawIydqfbpR2q40&filename=th3"
+    },
+    {
       "title": "SSS급 죽어야 사는 헌터",
       "url": "https://page.kakao.com/content/56243215",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
@@ -91,11 +96,6 @@
       "title": "픽 미 업!",
       "url": "https://page.kakao.com/content/60914825",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
-    },
-    {
-      "title": "환생한 암살자는 검술 천재",
-      "url": "https://page.kakao.com/content/62263340",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=tFtUb/dJMcahp122Z/MFKfqwdAawIydqfbpR2q40&filename=th3"
     },
     {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
@@ -155,5 +155,57 @@
       "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
     }
   ],
-  "updated_at": "2026-10-23T21:03:35+09:00"
+  "updated_at": "2026-10-23T21:09:22+09:00",
+  "lezhin": [
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "던전 속 사정[개정판]",
+      "url": "https://www.lezhin.com/ko/comic/dungeon_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5145070025637888/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+    },
+    {
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    }
+  ]
 }

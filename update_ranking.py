@@ -1,4 +1,4 @@
-"""세 플랫폼의 웹툰 순위 상위 5개를 받아 ranking.json으로 저장한다.
+"""네 플랫폼의 웹툰 순위 상위 10개를 받아 ranking.json으로 저장한다.
 
 실행: python update_ranking.py
 GitHub에 올리면 GitHub Actions가 1시간마다 자동으로 실행한다.
@@ -79,6 +79,28 @@ def ridi_top():
     ]
 
 
+def lezhin_top():
+    """레진: 실시간 랭킹 (비로그인 기본 모드라 성인 작품 제외)"""
+    html = fetch("https://www.lezhin.com/ko/ranking")
+    # 페이지에 조각조각 나뉘어 들어 있는 데이터(self.__next_f.push)를 이어 붙여 해석한다
+    chunks = re.findall(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', html)
+    text = "".join(json.loads(f'"{c}"') for c in chunks)
+    start = text.find('{"state":{"mutations"')
+    state, _ = json.JSONDecoder().raw_decode(text[start:])
+    ranking = next(q for q in state["state"]["queries"]
+                   if q["queryKey"][0] == "/v2/content-list/ranking"
+                   and q["queryKey"][2]["rankType"] == "realtime")
+    items = ranking["state"]["data"]["data"]["data"][:TOP_N]
+    return [
+        {
+            "title": t["title"],
+            "url": f"https://www.lezhin.com/ko/comic/{t['alias']}",
+            "cover": f"https://ccdn.lezhin.com/v2/comics/{t['id']}/images/tall.jpg",
+        }
+        for t in items
+    ]
+
+
 def main():
     # 이전 결과가 있으면 불러온다 (한 플랫폼이 실패하면 그 플랫폼은 이전 순위를 유지)
     try:
@@ -87,7 +109,8 @@ def main():
     except (FileNotFoundError, json.JSONDecodeError):
         result = {}
 
-    for name, func in [("naver", naver_top), ("kakao", kakao_top), ("ridi", ridi_top)]:
+    platforms = [("naver", naver_top), ("kakao", kakao_top), ("ridi", ridi_top), ("lezhin", lezhin_top)]
+    for name, func in platforms:
         try:
             result[name] = func()
             print(f"{name}: {len(result[name])}개")
