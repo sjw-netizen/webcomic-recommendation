@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
-      "title": "샤크",
-      "url": "https://page.kakao.com/content/48990437",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "샤크",
+      "url": "https://page.kakao.com/content/48990437",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
       "title": "흑표 가문의 설표 아기님",
@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
     },
     {
-      "title": "전 그냥 내 집 마련이 꿈인데요?",
-      "url": "https://page.kakao.com/content/66539896",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
+      "title": "남편은 분명 성기사였는데",
+      "url": "https://page.kakao.com/content/69490752",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bhFoex/dJMcadbyZ0x/K4PY81ZFxykM32AoVq8ah0&filename=th3"
     },
     {
-      "title": "백작가의 망나니가 되었다",
-      "url": "https://page.kakao.com/content/55553244",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
-    },
-    {
-      "title": "호랑이 가문의 아기 살쾡이",
-      "url": "https://page.kakao.com/content/71032383",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
+      "title": "천재 대장장이의 게임",
+      "url": "https://page.kakao.com/content/67696572",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
     },
     {
       "title": "던전 견문록",
       "url": "https://page.kakao.com/content/60241259",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cjFlrL/dJMb8XYzKNC/TlFfn6MRkVBXuwinbRGZik&filename=th3"
+    },
+    {
+      "title": "전 그냥 내 집 마련이 꿈인데요?",
+      "url": "https://page.kakao.com/content/66539896",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/2968010882/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T01:32:06+09:00",
+  "updated_at": "2026-10-24T02:27:19+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -163,34 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
-    },
-    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "강이세의 해피엔딩",
+      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
     },
     {
       "title": "안개 바다 위의 샤베트",
@@ -198,14 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
     },
     {
-      "title": "내가 아닌 연애 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/not_me_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "이웃집 길드원",
-      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
+      "title": "아름다운 초저녁달",
+      "url": "https://www.lezhin.com/ko/comic/clear_moonlit_dusk",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942943809863680/images/tall.jpg"
+    },
+    {
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+    },
+    {
+      "title": "광안 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/madeye_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
     }
   ]
 }
