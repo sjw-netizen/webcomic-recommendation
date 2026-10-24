@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
-      "title": "남편이 최애인데 이혼당할 것 같다",
-      "url": "https://page.kakao.com/content/68099906",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "남편이 최애인데 이혼당할 것 같다",
+      "url": "https://page.kakao.com/content/68099906",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
       "title": "샤크",
@@ -78,14 +78,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
+      "title": "흑표 가문의 설표 아기님",
+      "url": "https://page.kakao.com/content/65913268",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
+    },
+    {
       "title": "천재 대장장이의 게임",
       "url": "https://page.kakao.com/content/67696572",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
     },
     {
-      "title": "흑표 가문의 설표 아기님",
-      "url": "https://page.kakao.com/content/65913268",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
+      "title": "SSS급 죽어야 사는 헌터",
+      "url": "https://page.kakao.com/content/56243215",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
     },
     {
       "title": "악역에 빙의했지만, 고양이나 키울래요",
@@ -96,11 +101,6 @@
       "title": "남편은 분명 성기사였는데",
       "url": "https://page.kakao.com/content/69490752",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bhFoex/dJMcadbyZ0x/K4PY81ZFxykM32AoVq8ah0&filename=th3"
-    },
-    {
-      "title": "전 그냥 내 집 마련이 꿈인데요?",
-      "url": "https://page.kakao.com/content/66539896",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T13:25:14+09:00",
+  "updated_at": "2026-10-24T14:24:15+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -168,44 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
       "title": "캔디 윰윰 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     },
     {
-      "title": "낙제 현자의 학원 무쌍",
-      "url": "https://www.lezhin.com/ko/comic/rakudai_kenja",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6531924771536896/images/tall.jpg"
+      "title": "허들 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/hurdle_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.jpg"
     },
     {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
     },
     {
-      "title": "적반하장의 허슬플레이",
-      "url": "https://www.lezhin.com/ko/comic/hustleplay",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011736835202719/images/tall.jpg"
+      "title": "이림이야기",
+      "url": "https://www.lezhin.com/ko/comic/ilimstory",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.jpg"
     },
     {
-      "title": "전생했더니 검이었습니다 Another Wish (코믹스)",
-      "url": "https://www.lezhin.com/ko/comic/another_wish",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4864772251385856/images/tall.jpg"
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+    },
+    {
+      "title": "집착공의 인형놀이",
+      "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.jpg"
     },
     {
       "title": "너를 찾는 파도 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/surge_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/6329970682167296/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "이 무슨 대자연인가",
-      "url": "https://www.lezhin.com/ko/comic/mothernature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
     }
   ]
 }
