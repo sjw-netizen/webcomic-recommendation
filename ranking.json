@@ -78,19 +78,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
-      "title": "천재 대장장이의 게임",
-      "url": "https://page.kakao.com/content/67696572",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
-    },
-    {
       "title": "흑표 가문의 설표 아기님",
       "url": "https://page.kakao.com/content/65913268",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+      "title": "천재 대장장이의 게임",
+      "url": "https://page.kakao.com/content/67696572",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
+    },
+    {
+      "title": "호랑이 가문의 아기 살쾡이",
+      "url": "https://page.kakao.com/content/71032383",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
     },
     {
       "title": "남편은 분명 성기사였는데",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bhFoex/dJMcadbyZ0x/K4PY81ZFxykM32AoVq8ah0&filename=th3"
     },
     {
-      "title": "호랑이 가문의 아기 살쾡이",
-      "url": "https://page.kakao.com/content/71032383",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvi7Gy/dJMcah7quqy/54ZX1GkRzLcRgGSRIAkmek&filename=th3"
+      "title": "악역에 빙의했지만, 고양이나 키울래요",
+      "url": "https://page.kakao.com/content/64378065",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T09:38:02+09:00",
+  "updated_at": "2026-10-24T10:37:10+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -163,39 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "하루종일 조아영",
-      "url": "https://www.lezhin.com/ko/comic/joayoung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4537933260652544/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
-    },
-    {
-      "title": "불멸의 날들",
-      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
-    },
-    {
-      "title": "레이디 셜록",
-      "url": "https://www.lezhin.com/ko/comic/lady_sherlock",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5033976744640512/images/tall.jpg"
-    },
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "해후 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/haehwu_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011779866867962/images/tall.jpg"
     },
     {
       "title": "석류를 삼킨 뱀 [개정판][연재]",
@@ -203,9 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011767074341653/images/tall.jpg"
     },
     {
-      "title": "진솔한 세계",
-      "url": "https://www.lezhin.com/ko/comic/honest",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4620840541224960/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "내가 아닌 연애 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/not_me_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
+    {
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+    },
+    {
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+    },
+    {
+      "title": "허들 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/hurdle_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.jpg"
     }
   ]
 }
