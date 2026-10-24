@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
-      "title": "남편이 최애인데 이혼당할 것 같다",
-      "url": "https://page.kakao.com/content/68099906",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "남편이 최애인데 이혼당할 것 같다",
+      "url": "https://page.kakao.com/content/68099906",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
       "title": "샤크",
@@ -155,22 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T10:37:10+09:00",
+  "updated_at": "2026-10-24T11:25:32+09:00",
   "lezhin": [
+    {
+      "title": "폭군 남편이 어쩐지 조신해졌다",
+      "url": "https://www.lezhin.com/ko/comic/husband_became_gentle",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011783063988628/images/tall.jpg"
+    },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "해후 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/haehwu_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011779866867962/images/tall.jpg"
-    },
-    {
-      "title": "석류를 삼킨 뱀 [개정판][연재]",
-      "url": "https://www.lezhin.com/ko/comic/seokryu_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011767074341653/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -178,9 +173,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "내가 아닌 연애 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/not_me_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
+      "title": "작전본부: 우리 집",
+      "url": "https://www.lezhin.com/ko/comic/our_home",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6013643236114432/images/tall.jpg"
+    },
+    {
+      "title": "투 마이 위시",
+      "url": "https://www.lezhin.com/ko/comic/to_my_wish",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6477028835262464/images/tall.jpg"
+    },
+    {
+      "title": "지친 직장인은 악역 영애님을 모시고 싶어",
+      "url": "https://www.lezhin.com/ko/comic/tired_officeworker_villainess",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4524450821898240/images/tall.jpg"
+    },
+    {
+      "title": "후궁도 두 번째라면 ~백돼지비 재래전~",
+      "url": "https://www.lezhin.com/ko/comic/second_concubine",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011740730865358/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -188,24 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "복학생",
+      "url": "https://www.lezhin.com/ko/comic/return",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5319225323683840/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
-    },
-    {
-      "title": "허들 [개정판][연재]",
-      "url": "https://www.lezhin.com/ko/comic/hurdle_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.jpg"
+      "title": "석류를 삼킨 뱀 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/seokryu_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011767074341653/images/tall.jpg"
     }
   ]
 }
