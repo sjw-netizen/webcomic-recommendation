@@ -68,16 +68,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "검술명가 막내아들",
       "url": "https://page.kakao.com/content/59264548",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
@@ -88,9 +78,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+    },
+    {
       "title": "남편이 최애인데 이혼당할 것 같다",
       "url": "https://page.kakao.com/content/68099906",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "점괘보는 공녀님",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
     },
     {
-      "title": "아빠가 힘을 숨김",
-      "url": "https://page.kakao.com/content/65504205",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dpurRu/dJMcagZRQB3/Fho06yRCWVdZGzxZir4ZG0&filename=th3"
+      "title": "갓 오브 블랙필드",
+      "url": "https://page.kakao.com/content/54498159",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,57 +155,57 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T05:20:05+09:00",
+  "updated_at": "2026-10-25T06:21:53+09:00",
   "lezhin": [
+    {
+      "title": "광안 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/madeye_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+    },
+    {
+      "title": "끊을 수 없는 나쁜 짓 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/bad_habit_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762394684455/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "환관제조일기",
+      "url": "https://www.lezhin.com/ko/comic/castration",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "키스톤 로맨틱 콤비",
+      "url": "https://www.lezhin.com/ko/comic/keyrocom",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5712657892048896/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "국제결혼 절대로 하지 마라",
-      "url": "https://www.lezhin.com/ko/comic/never_marry_a_foreigner",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6631616049119232/images/tall.jpg"
+      "title": "달의 상자",
+      "url": "https://www.lezhin.com/ko/comic/dalbox",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.jpg"
     },
     {
-      "title": "좋아한다는 걸 잊지마",
-      "url": "https://www.lezhin.com/ko/comic/dont_forget",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5635590376259584/images/tall.jpg"
+      "title": "너를 찾는 파도 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/surge_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6329970682167296/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+      "title": "별의 아이, 센츄리온!",
+      "url": "https://www.lezhin.com/ko/comic/centurion",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5901351032979456/images/tall.jpg"
     },
     {
-      "title": "박씨유대기",
-      "url": "https://www.lezhin.com/ko/comic/waitmrpark",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6727405857669120/images/tall.jpg"
-    },
-    {
-      "title": "백억년을 자는 남자",
-      "url": "https://www.lezhin.com/ko/comic/sleepingman",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     }
   ]
 }
