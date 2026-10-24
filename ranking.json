@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
     },
     {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
-    },
-    {
       "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
       "url": "https://page.kakao.com/content/60800000",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     },
     {
+      "title": "악역에 빙의했지만, 고양이나 키울래요",
+      "url": "https://page.kakao.com/content/64378065",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
+    },
+    {
+      "title": "버린 쓰레기는 다시 줍지 않는다",
+      "url": "https://page.kakao.com/content/59987426",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=blDnP5/dJMb99ZCDhb/v9FUqFlJAIAAwBOlaf6eGK&filename=th3"
+    },
+    {
       "title": "샤크",
       "url": "https://page.kakao.com/content/48990437",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
-      "title": "아무튼 로판 맞습니다",
-      "url": "https://page.kakao.com/content/62323050",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cpFkcH/dJMcagMFaBD/lKBlKZK9fPbEoZpKEioOD0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,27 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T22:28:13+09:00",
+  "updated_at": "2026-10-24T23:22:13+09:00",
   "lezhin": [
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
-    },
-    {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -183,24 +168,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+    },
+    {
+      "title": "소라의 눈",
+      "url": "https://www.lezhin.com/ko/comic/eyes_of_sora_",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5582295969628160/images/tall.jpg"
+    },
+    {
+      "title": "안개 바다 위의 샤베트",
+      "url": "https://www.lezhin.com/ko/comic/shabetsea",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
+    },
+    {
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+    },
+    {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "환관제조일기",
-      "url": "https://www.lezhin.com/ko/comic/castration",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
-      "title": "불사의 저주",
-      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
-    },
-    {
-      "title": "사실, 그들은 오직 그녀만을 기억하고 있었습니다",
-      "url": "https://www.lezhin.com/ko/comic/they_only",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734594781422/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "캔디 윰윰 [개정판]",
