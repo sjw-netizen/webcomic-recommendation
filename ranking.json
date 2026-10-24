@@ -78,29 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cOCv7/dJMcaffejAH/90rbHzZcCgFQK5PFA2H9gk&filename=th3"
     },
     {
-      "title": "흑표 가문의 설표 아기님",
-      "url": "https://page.kakao.com/content/65913268",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
-    },
-    {
-      "title": "샤크",
-      "url": "https://page.kakao.com/content/48990437",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
       "title": "전 그냥 내 집 마련이 꿈인데요?",
       "url": "https://page.kakao.com/content/66539896",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cVF8eZ/dJMcaikV4XC/s3XuWynRVjcck6S9bNj2w1&filename=th3"
     },
     {
-      "title": "SSS급 죽어야 사는 헌터",
-      "url": "https://page.kakao.com/content/56243215",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
+      "title": "흑표 가문의 설표 아기님",
+      "url": "https://page.kakao.com/content/65913268",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bls86v/dJMcahy6lt7/9UC7YwPfvtOrGanSGwVkB0&filename=th3"
     },
     {
       "title": "악역에 빙의했지만, 고양이나 키울래요",
       "url": "https://page.kakao.com/content/64378065",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=2zanK/dJMcahk7Zcj/vtnPei2xBSkQggaMl5n4M1&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+    },
+    {
+      "title": "샤크",
+      "url": "https://page.kakao.com/content/48990437",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-24T18:23:53+09:00",
+  "updated_at": "2026-10-24T19:23:12+09:00",
   "lezhin": [
     {
       "title": "오류탐구영역",
@@ -163,29 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "박배우 X 김남팬",
-      "url": "https://www.lezhin.com/ko/comic/parkxkim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
-    },
-    {
-      "title": "알고 보니 찐 댕댕남",
-      "url": "https://www.lezhin.com/ko/comic/jjin_daengdaeng",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011750655818974/images/tall.jpg"
+      "title": "백도사",
+      "url": "https://www.lezhin.com/ko/comic/thewizard",
+      "cover": "https://ccdn.lezhin.com/v2/comics/208/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -193,14 +173,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
       "title": "미치도록 찬란하게",
       "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.jpg"
+    },
+    {
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
     },
     {
       "title": "소꿉친구의 가이드가 되었다 [연재]",
