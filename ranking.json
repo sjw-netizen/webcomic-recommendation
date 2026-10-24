@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
       "title": "데뷔 못 하면 죽는 병 걸림",
       "url": "https://page.kakao.com/content/59782511",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
-    },
-    {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
       "title": "점괘보는 공녀님",
@@ -78,14 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
     },
     {
-      "title": "남편이 최애인데 이혼당할 것 같다",
-      "url": "https://page.kakao.com/content/68099906",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
-    },
-    {
       "title": "검술명가 막내아들",
       "url": "https://page.kakao.com/content/59264548",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+    },
+    {
+      "title": "남편이 최애인데 이혼당할 것 같다",
+      "url": "https://page.kakao.com/content/68099906",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
       "title": "아빠가 힘을 숨김",
@@ -93,9 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dpurRu/dJMcagZRQB3/Fho06yRCWVdZGzxZir4ZG0&filename=th3"
     },
     {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
       "title": "갓 오브 블랙필드",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4158001306/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T01:23:15+09:00",
+  "updated_at": "2026-10-25T02:21:27+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,19 +163,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
-    },
-    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "강이세의 해피엔딩",
+      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "이성연애박사",
+      "url": "https://www.lezhin.com/ko/comic/master_of_love",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4535001206489088/images/tall.jpg"
+    },
+    {
+      "title": "이 결혼에 의미 부여를 하지 마세요",
+      "url": "https://www.lezhin.com/ko/comic/no_meaning_marriage",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4507600793960448/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -183,29 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+      "title": "알고 보니 찐 댕댕남",
+      "url": "https://www.lezhin.com/ko/comic/jjin_daengdaeng",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011750655818974/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
-    },
-    {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
     }
   ]
 }
