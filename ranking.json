@@ -73,24 +73,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
     },
     {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
-    },
-    {
       "title": "철혈검가 사냥개의 회귀",
       "url": "https://page.kakao.com/content/61614855",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
     },
     {
       "title": "만 년 만에 귀환한 플레이어",
@@ -155,32 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T05:19:38+09:00",
+  "updated_at": "2026-10-26T06:22:09+09:00",
   "lezhin": [
+    {
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "레가스 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/regas",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     },
     {
-      "title": "그림자의 영역 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
-    },
-    {
-      "title": "그 끝에 있는 것",
-      "url": "https://www.lezhin.com/ko/comic/end",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
-    },
-    {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+      "title": "시크릿 동맹",
+      "url": "https://www.lezhin.com/ko/comic/secretcontract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6406678520922112/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -188,9 +183,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "백억년을 자는 남자",
-      "url": "https://www.lezhin.com/ko/comic/sleepingman",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
+      "title": "그 끝에 있는 것",
+      "url": "https://www.lezhin.com/ko/comic/end",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
+    },
+    {
+      "title": "삼국지 가후전 R",
+      "url": "https://www.lezhin.com/ko/comic/gahu_r",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.jpg"
+    },
+    {
+      "title": "불멸의 날들",
+      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -198,14 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
-    },
-    {
-      "title": "피장파장의 오류",
-      "url": "https://www.lezhin.com/ko/comic/you_too",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6399994036813824/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     }
   ]
 }
