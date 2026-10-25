@@ -68,19 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
       "title": "데뷔 못 하면 죽는 병 걸림",
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+    },
+    {
       "title": "점괘보는 공녀님",
       "url": "https://page.kakao.com/content/62596697",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
     },
     {
-      "title": "갓 오브 블랙필드",
-      "url": "https://page.kakao.com/content/54498159",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+      "title": "신마대제",
+      "url": "https://page.kakao.com/content/67556014",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RMwSr/dJMcabxzXKW/3A5F9Co19JFFh4gZtb8w6K&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T14:25:29+09:00",
+  "updated_at": "2026-10-25T15:29:47+09:00",
   "lezhin": [
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -168,9 +173,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "방황하는 신",
-      "url": "https://www.lezhin.com/ko/comic/lostgod",
-      "cover": "https://ccdn.lezhin.com/v2/comics/413/images/tall.jpg"
+      "title": "도우미 여우 센코 씨",
+      "url": "https://www.lezhin.com/ko/comic/helpful_fox_senko",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5465780586610688/images/tall.jpg"
+    },
+    {
+      "title": "무명의 등불",
+      "url": "https://www.lezhin.com/ko/comic/from_nothing",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4593648627417088/images/tall.jpg"
+    },
+    {
+      "title": "멸망한 세계의 신이 되다",
+      "url": "https://www.lezhin.com/ko/comic/god_of_ruin",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011758594641614/images/tall.jpg"
     },
     {
       "title": "광안 [개정판]",
@@ -178,19 +193,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
     },
     {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
-    },
-    {
-      "title": "비상! 청춘기록부",
-      "url": "https://www.lezhin.com/ko/comic/bisang_cheongchun",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011747637118433/images/tall.jpg"
-    },
-    {
-      "title": "매드 독",
-      "url": "https://www.lezhin.com/ko/comic/mad_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -198,14 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "달의 상자",
-      "url": "https://www.lezhin.com/ko/comic/dalbox",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     }
   ]
 }
