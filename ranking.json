@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     },
     {
-      "title": "점괘보는 공녀님",
-      "url": "https://page.kakao.com/content/62596697",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
-    },
-    {
       "title": "검술명가 막내아들",
       "url": "https://page.kakao.com/content/59264548",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+      "title": "점괘보는 공녀님",
+      "url": "https://page.kakao.com/content/62596697",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
+    },
+    {
+      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+      "url": "https://page.kakao.com/content/64380474",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T20:22:27+09:00",
+  "updated_at": "2026-10-25T21:27:11+09:00",
   "lezhin": [
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
-    },
-    {
-      "title": "이세계 삼촌",
-      "url": "https://www.lezhin.com/ko/comic/anotherworld_uncle",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6491769883394048/images/tall.jpg"
     },
     {
       "title": "나우이",
@@ -178,34 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
-      "title": "미치도록 찬란하게",
-      "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.jpg"
-    },
-    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "도깨비도 수풀이 있어야 모인다[개정판]",
-      "url": "https://www.lezhin.com/ko/comic/bush_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5612748599263232/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
       "title": "음지탐구보고서",
       "url": "https://www.lezhin.com/ko/comic/shady_research_report",
       "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
+      "title": "세상에 없는 이웃",
+      "url": "https://www.lezhin.com/ko/comic/neighbor",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6424482819211264/images/tall.jpg"
+    },
+    {
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+    },
+    {
+      "title": "매드 독",
+      "url": "https://www.lezhin.com/ko/comic/mad_dog",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
+    },
+    {
+      "title": "흉악범과의 면담",
+      "url": "https://www.lezhin.com/ko/comic/interview_with_felon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5325316639752192/images/tall.jpg"
     }
   ]
 }
