@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bKwnNn/dJMcaci53hX/PkEEn8Djdyk48d0Ql2JBp0&filename=th3"
     },
     {
-      "title": "신마대제",
-      "url": "https://page.kakao.com/content/67556014",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RMwSr/dJMcabxzXKW/3A5F9Co19JFFh4gZtb8w6K&filename=th3"
+      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+      "url": "https://page.kakao.com/content/64380474",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,47 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T15:29:47+09:00",
+  "updated_at": "2026-10-25T16:33:38+09:00",
   "lezhin": [
-    {
-      "title": "나우이",
-      "url": "https://www.lezhin.com/ko/comic/naui",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "도우미 여우 센코 씨",
-      "url": "https://www.lezhin.com/ko/comic/helpful_fox_senko",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5465780586610688/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
-      "title": "무명의 등불",
-      "url": "https://www.lezhin.com/ko/comic/from_nothing",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4593648627417088/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "멸망한 세계의 신이 되다",
-      "url": "https://www.lezhin.com/ko/comic/god_of_ruin",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011758594641614/images/tall.jpg"
-    },
-    {
-      "title": "광안 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/madeye_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
-    },
-    {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "악역, 나 못 하겠어 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/cant_be_a_villain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011768810151294/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -203,9 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "레바툰",
+      "url": "https://www.lezhin.com/ko/comic/revatoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     }
   ]
 }
