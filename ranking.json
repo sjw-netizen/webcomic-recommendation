@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "검을 든 꽃",
       "url": "https://page.kakao.com/content/66783957",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
     },
     {
-      "title": "흑막 범고래 아기님",
-      "url": "https://page.kakao.com/content/64409505",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3"
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     },
     {
       "title": "남편이 최애인데 이혼당할 것 같다",
       "url": "https://page.kakao.com/content/68099906",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T00:23:09+09:00",
+  "updated_at": "2026-10-26T01:23:50+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -168,24 +168,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
-      "title": "그 비스크 돌은 사랑을 한다",
-      "url": "https://www.lezhin.com/ko/comic/bisque_doll",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5491321637240832/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "강이세의 해피엔딩",
-      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
+      "title": "하프 오브 미",
+      "url": "https://www.lezhin.com/ko/comic/half_of_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5367505697964032/images/tall.jpg"
     },
     {
       "title": "캔디 윰윰 [개정판]",
@@ -193,19 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     },
     {
-      "title": "내 마음의 위험한 녀석",
-      "url": "https://www.lezhin.com/ko/comic/dangerous_fellow",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4805507536191488/images/tall.jpg"
+      "title": "광안 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/madeye_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
     },
     {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+      "title": "레가스 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/regas",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
     },
     {
       "title": "클라우드",
       "url": "https://www.lezhin.com/ko/comic/cloud",
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "까마귀 기사",
+      "url": "https://www.lezhin.com/ko/comic/crowknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
     }
   ]
 }
