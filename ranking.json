@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
       "url": "https://page.kakao.com/content/66264838",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
       "title": "남편이 최애인데 이혼당할 것 같다",
@@ -78,14 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
       "title": "점괘보는 공녀님",
@@ -96,6 +91,11 @@
       "title": "갓 오브 블랙필드",
       "url": "https://page.kakao.com/content/54498159",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+    },
+    {
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     },
     {
       "title": "신마대제",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/1746036881/xxlarge"
     }
   ],
-  "updated_at": "2026-10-25T08:19:16+09:00",
+  "updated_at": "2026-10-25T09:28:09+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,24 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "광안 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/madeye_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -188,9 +173,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+    },
+    {
+      "title": "광안 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/madeye_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "내가 아닌 연애 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/not_me_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
     },
     {
       "title": "이웃집 길드원",
@@ -198,14 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     },
     {
-      "title": "깽값 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/ggaeng_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011772774466830/images/tall.jpg"
+      "title": "집착공의 인형놀이",
+      "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.jpg"
     },
     {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     }
   ]
 }
