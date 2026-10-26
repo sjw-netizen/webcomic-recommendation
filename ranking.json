@@ -73,6 +73,16 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
+      "title": "철혈검가 사냥개의 회귀",
+      "url": "https://page.kakao.com/content/61614855",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
+    },
+    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
@@ -83,24 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
-    },
-    {
-      "title": "철혈검가 사냥개의 회귀",
-      "url": "https://page.kakao.com/content/61614855",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
-    },
-    {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
       "url": "https://page.kakao.com/content/66264838",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T19:35:41+09:00",
+  "updated_at": "2026-10-26T20:36:36+09:00",
   "lezhin": [
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "안녕, 나의 폐하",
-      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -178,34 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "타치바나 백작",
+      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
     },
     {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+      "title": "강이세의 해피엔딩",
+      "url": "https://www.lezhin.com/ko/comic/kangyise_happyending",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5719225849937920/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
-      "title": "자존감 없는 소선화양",
-      "url": "https://www.lezhin.com/ko/comic/sosunhwa",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4719049832202240/images/tall.jpg"
+      "title": "완벽한 덫 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "가면 부부",
+      "url": "https://www.lezhin.com/ko/comic/masked_couple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948966486376448/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     }
   ]
 }
