@@ -73,11 +73,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "금빛 슈발리에",
       "url": "https://page.kakao.com/content/68063460",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
@@ -88,9 +83,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
     },
     {
-      "title": "만 년 만에 귀환한 플레이어",
-      "url": "https://page.kakao.com/content/59883324",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -98,9 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "남편이 최애인데 이혼당할 것 같다",
-      "url": "https://page.kakao.com/content/68099906",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
+      "title": "만 년 만에 귀환한 플레이어",
+      "url": "https://page.kakao.com/content/59883324",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
+    },
+    {
+      "title": "킹덤",
+      "url": "https://page.kakao.com/content/47736136",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bgOyyu/dJMcadQ3oZ4/z5MkpKLZUUE2k8LioW19wk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,27 +155,32 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T08:19:48+09:00",
+  "updated_at": "2026-10-26T09:40:15+09:00",
   "lezhin": [
+    {
+      "title": "작전본부: 우리 집",
+      "url": "https://www.lezhin.com/ko/comic/our_home",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6013643236114432/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "레인보우 도넛 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/rainbow_donut_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011730423376428/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "삼국지 가후전 R",
-      "url": "https://www.lezhin.com/ko/comic/gahu_r",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+      "title": "오디세이",
+      "url": "https://www.lezhin.com/ko/comic/odyssey_",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.jpg"
     },
     {
-      "title": "커튼콜 아래그랑",
-      "url": "https://www.lezhin.com/ko/comic/curtain_call",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5/images/tall.jpg"
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "봄불은 여우불이어라",
+      "url": "https://www.lezhin.com/ko/comic/fox_fire",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.jpg"
     },
     {
-      "title": "우울한 사기꾼 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/depressed_swindler_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6704245366784000/images/tall.jpg"
-    },
-    {
-      "title": "표준규격전사",
-      "url": "https://www.lezhin.com/ko/comic/standardheroes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     }
   ]
 }
