@@ -73,14 +73,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
     },
     {
+      "title": "금빛 슈발리에",
+      "url": "https://page.kakao.com/content/68063460",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
+    },
+    {
       "title": "황태자의 약혼녀",
       "url": "https://page.kakao.com/content/60511921",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
     },
     {
-      "title": "금빛 슈발리에",
-      "url": "https://page.kakao.com/content/68063460",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "아기는 악당을 키운다",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=3vJyi/dJMcaazEgGb/3X4lpeQOFuidQ50dMedaVK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "너에게 빼앗을 왕관",
       "url": "https://page.kakao.com/content/68369749",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8QMuq/dJMcagNYr3B/EUdaFhmOqAnD0iEzELXSS1&filename=th3"
     },
     {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+      "title": "만 년 만에 귀환한 플레이어",
+      "url": "https://page.kakao.com/content/59883324",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T03:39:24+09:00",
+  "updated_at": "2026-10-27T04:37:53+09:00",
   "lezhin": [
+    {
+      "title": "목소리를 못 내는 소녀는 그녀가 너무 착하다고 생각한다",
+      "url": "https://www.lezhin.com/ko/comic/voiceless_girl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5256115748929536/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "새벽을 지나 아침으로",
+      "url": "https://www.lezhin.com/ko/comic/past_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+    },
+    {
+      "title": "짝꿍이랑 나눠먹는 만화",
+      "url": "https://www.lezhin.com/ko/comic/minhee",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5013322411081728/images/tall.jpg"
+    },
+    {
+      "title": "새디스틱 뷰티:외전B [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/sadi_bt_b",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4777537292140544/images/tall.jpg"
+    },
+    {
+      "title": "불사의 저주",
+      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -173,39 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
+      "title": "만년 후 미래에서 레벨업 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/levelup_in_future",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011758603458010/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "레가스 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/regas",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
-    },
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
-    },
-    {
-      "title": "이혼신청",
-      "url": "https://www.lezhin.com/ko/comic/application_for_divorce",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5469854076567552/images/tall.jpg"
-    },
-    {
-      "title": "화폭의 계절",
-      "url": "https://www.lezhin.com/ko/comic/season_of_canvas",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5570283523080192/images/tall.jpg"
-    },
-    {
-      "title": "마력이 없는 영애와 냉혹한 영웅의 결혼",
-      "url": "https://www.lezhin.com/ko/comic/wedding_with_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011758873988909/images/tall.jpg"
+      "title": "남보다 못한 사이 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/old_picture_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744182538244/images/tall.jpg"
     }
   ]
 }
