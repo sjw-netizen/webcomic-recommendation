@@ -78,24 +78,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "결혼 장사2 ~잊히지 않을 노래~",
-      "url": "https://page.kakao.com/content/67242927",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
-    },
-    {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
       "title": "만 년 만에 귀환한 플레이어",
       "url": "https://page.kakao.com/content/59883324",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
     },
     {
-      "title": "금빛 슈발리에",
-      "url": "https://page.kakao.com/content/68063460",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
+      "title": "결혼 장사2 ~잊히지 않을 노래~",
+      "url": "https://page.kakao.com/content/67242927",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+    },
+    {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "능력 먹고 레벨업하는 영주님",
@@ -155,27 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T05:27:52+09:00",
+  "updated_at": "2026-10-27T06:29:37+09:00",
   "lezhin": [
     {
-      "title": "시크릿 동맹",
-      "url": "https://www.lezhin.com/ko/comic/secretcontract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6406678520922112/images/tall.jpg"
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
-      "title": "나우이",
-      "url": "https://www.lezhin.com/ko/comic/naui",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
-    },
-    {
-      "title": "이웃집 길드원",
-      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
-    },
-    {
-      "title": "불사의 저주",
-      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
+      "title": "오디세이",
+      "url": "https://www.lezhin.com/ko/comic/odyssey_",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -183,9 +173,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "캠퍼스 진실게임",
+      "url": "https://www.lezhin.com/ko/comic/campus_truth_game",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4772929777893376/images/tall.jpg"
+    },
+    {
+      "title": "불사의 저주",
+      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -193,19 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
-    },
-    {
       "title": "내게 게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/naegamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/5660040028815360/images/tall.jpg"
     },
     {
-      "title": "짝꿍이랑 나눠먹는 만화",
-      "url": "https://www.lezhin.com/ko/comic/minhee",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5013322411081728/images/tall.jpg"
+      "title": "완벽한 덫 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     }
   ]
 }
