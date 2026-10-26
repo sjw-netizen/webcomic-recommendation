@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     },
     {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
       "title": "철혈검가 사냥개의 회귀",
       "url": "https://page.kakao.com/content/61614855",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
-      "title": "남편이 최애인데 이혼당할 것 같다",
-      "url": "https://page.kakao.com/content/68099906",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=B2iiE/dJMcacyhHLq/rkWGoftmXrmfy50OFYx3nk&filename=th3"
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     }
   ],
   "ridi": [
@@ -155,32 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T18:36:58+09:00",
+  "updated_at": "2026-10-26T19:35:41+09:00",
   "lezhin": [
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "안녕, 나의 폐하",
+      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
-    },
-    {
-      "title": "그저 여명일 뿐",
-      "url": "https://www.lezhin.com/ko/comic/just_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5880496104734720/images/tall.jpg"
-    },
-    {
-      "title": "천상의 마이로드",
-      "url": "https://www.lezhin.com/ko/comic/heaven",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5350855902822400/images/tall.jpg"
-    },
-    {
-      "title": "완벽한 덫 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -188,14 +178,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "향기로운 꽃은 늠름하게 핀다",
-      "url": "https://www.lezhin.com/ko/comic/fragrant_flowers",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4916337098686464/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -203,9 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+      "title": "자존감 없는 소선화양",
+      "url": "https://www.lezhin.com/ko/comic/sosunhwa",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4719049832202240/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
+    {
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     }
   ]
 }
