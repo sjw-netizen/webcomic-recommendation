@@ -58,6 +58,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
     },
     {
+      "title": "금빛 슈발리에",
+      "url": "https://page.kakao.com/content/68063460",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
+    },
+    {
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
@@ -68,9 +73,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
-      "title": "금빛 슈발리에",
-      "url": "https://page.kakao.com/content/68063460",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
+      "title": "철혈검가 사냥개의 회귀",
+      "url": "https://page.kakao.com/content/61614855",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
       "title": "만 년 만에 귀환한 플레이어",
@@ -78,19 +83,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
     },
     {
-      "title": "철혈검가 사냥개의 회귀",
-      "url": "https://page.kakao.com/content/61614855",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -98,9 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "묵향 다크레이디",
-      "url": "https://page.kakao.com/content/53216022",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bt3Ep9/dJMcah454Q3/GcFqj7yipgyYo4um9vW6P1&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bvVT6Z/dJMb997rnux/YsN5lB4v9qASTU8DqmTpI0&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-26T13:30:56+09:00",
+  "updated_at": "2026-10-26T14:29:38+09:00",
   "lezhin": [
     {
-      "title": "안녕, 나의 폐하",
-      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+      "title": "구름을 비추는 새벽",
+      "url": "https://www.lezhin.com/ko/comic/cloud_lit_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6288849046405120/images/tall.jpg"
     },
     {
       "title": "새벽을 지나 아침으로",
@@ -173,39 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     },
     {
-      "title": "내게 게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/naegamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5660040028815360/images/tall.jpg"
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+      "title": "오디세이",
+      "url": "https://www.lezhin.com/ko/comic/odyssey_",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.jpg"
     },
     {
-      "title": "이웃집 길드원",
-      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
+      "title": "사랑은 환상! ~슈퍼스타~",
+      "url": "https://www.lezhin.com/ko/comic/superstar",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.jpg"
     },
     {
-      "title": "익애계약 -짓궂은 그이의 사랑법-",
-      "url": "https://www.lezhin.com/ko/comic/beloved_contract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011747902425581/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "완벽한 덫 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
     },
     {
-      "title": "집착당하면 파멸합니다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/jipchak_pamyeol",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011742860988834/images/tall.jpg"
+      "title": "우울한 사기꾼 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/depressed_swindler_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6704245366784000/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     }
   ]
 }
