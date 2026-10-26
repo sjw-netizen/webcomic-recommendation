@@ -73,14 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
     },
     {
+      "title": "황태자의 약혼녀",
+      "url": "https://page.kakao.com/content/60511921",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
+    },
+    {
       "title": "금빛 슈발리에",
       "url": "https://page.kakao.com/content/68063460",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "아기는 악당을 키운다",
@@ -88,9 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=3vJyi/dJMcaazEgGb/3X4lpeQOFuidQ50dMedaVK&filename=th3"
     },
     {
-      "title": "황태자의 약혼녀",
-      "url": "https://page.kakao.com/content/60511921",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "너에게 빼앗을 왕관",
@@ -155,32 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T02:34:07+09:00",
+  "updated_at": "2026-10-27T03:39:24+09:00",
   "lezhin": [
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "완벽한 덫 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+      "title": "여자 제갈량",
+      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
+      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "레가스 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/regas",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
     },
     {
       "title": "천지해",
@@ -188,24 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
-      "title": "나우이",
-      "url": "https://www.lezhin.com/ko/comic/naui",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+      "title": "이혼신청",
+      "url": "https://www.lezhin.com/ko/comic/application_for_divorce",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5469854076567552/images/tall.jpg"
     },
     {
-      "title": "악역, 나 못 하겠어 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/cant_be_a_villain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768810151294/images/tall.jpg"
+      "title": "화폭의 계절",
+      "url": "https://www.lezhin.com/ko/comic/season_of_canvas",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5570283523080192/images/tall.jpg"
     },
     {
-      "title": "오모와 위르시스",
-      "url": "https://www.lezhin.com/ko/comic/homo_ursus",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4514052671012864/images/tall.jpg"
-    },
-    {
-      "title": "오디세이",
-      "url": "https://www.lezhin.com/ko/comic/odyssey_",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.jpg"
+      "title": "마력이 없는 영애와 냉혹한 영웅의 결혼",
+      "url": "https://www.lezhin.com/ko/comic/wedding_with_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011758873988909/images/tall.jpg"
     }
   ]
 }
