@@ -78,29 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
     },
     {
-      "title": "결혼 장사2 ~잊히지 않을 노래~",
-      "url": "https://page.kakao.com/content/67242927",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "2레벨로 회귀한 무신",
-      "url": "https://page.kakao.com/content/62302584",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dVlQj0/dJMcai52cGs/d66aM4dQ5DdRbIKecbY6eK&filename=th3"
-    },
-    {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
-    },
-    {
       "title": "만 년 만에 귀환한 플레이어",
       "url": "https://page.kakao.com/content/59883324",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
+    },
+    {
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+    },
+    {
+      "title": "아기는 악당을 키운다",
+      "url": "https://page.kakao.com/content/68276174",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=3vJyi/dJMcaazEgGb/3X4lpeQOFuidQ50dMedaVK&filename=th3"
+    },
+    {
+      "title": "결혼 장사2 ~잊히지 않을 노래~",
+      "url": "https://page.kakao.com/content/67242927",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,42 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T08:25:14+09:00",
+  "updated_at": "2026-10-27T09:32:49+09:00",
   "lezhin": [
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
-    },
-    {
-      "title": "완벽한 덫 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
     {
       "title": "아가씨와 우렁총각",
       "url": "https://www.lezhin.com/ko/comic/snail",
       "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
     },
     {
-      "title": "여친만(여자친구만들고파)",
-      "url": "https://www.lezhin.com/ko/comic/iwannagirlfriend",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4646149695209472/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
       "title": "라온의 남자",
@@ -198,14 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
       "title": "캔디 윰윰 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+    },
+    {
+      "title": "이상한 너를 맞이하며 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/strange_you_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4954362357284864/images/tall.jpg"
+    },
+    {
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+    },
+    {
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     }
   ]
 }
