@@ -53,14 +53,19 @@
   ],
   "kakao": [
     {
+      "title": "착한 며느리는 이제 없습니다",
+      "url": "https://page.kakao.com/content/71143668",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3"
+    },
+    {
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
-      "title": "착한 며느리는 이제 없습니다",
-      "url": "https://page.kakao.com/content/71143668",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3"
+      "title": "인소의 법칙",
+      "url": "https://page.kakao.com/content/52610652",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
     },
     {
       "title": "잊혀진 들판",
@@ -73,19 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     },
     {
-      "title": "인소의 법칙",
-      "url": "https://page.kakao.com/content/52610652",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
+      "title": "미친 빌런이 정신을 되찾음",
+      "url": "https://page.kakao.com/content/70776768",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
-    },
-    {
-      "title": "미친 빌런이 정신을 되찾음",
-      "url": "https://page.kakao.com/content/70776768",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
       "title": "세이렌: 악당과 계약 가족이 되었다",
@@ -155,8 +155,18 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-28T02:40:49+09:00",
+  "updated_at": "2026-10-28T03:38:08+09:00",
   "lezhin": [
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
     {
       "title": "타치바나 백작",
       "url": "https://www.lezhin.com/ko/comic/tachibanabl",
@@ -168,44 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
       "title": "나우이",
       "url": "https://www.lezhin.com/ko/comic/naui",
       "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "이렇게 귀여운 간첩은 어디에 신고하나요?",
+      "url": "https://www.lezhin.com/ko/comic/cute_spy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5768553949691904/images/tall.jpg"
     },
     {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+      "title": "당신이 나를 가지려 하신다면 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/you_got_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "던전 속 사정[개정판]",
+      "url": "https://www.lezhin.com/ko/comic/dungeon_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5145070025637888/images/tall.jpg"
     },
     {
-      "title": "사랑은 환상! ~슈퍼스타~",
-      "url": "https://www.lezhin.com/ko/comic/superstar",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     }
   ]
 }
