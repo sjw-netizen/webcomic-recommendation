@@ -78,11 +78,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "흑막 범고래 아기님",
       "url": "https://page.kakao.com/content/64409505",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3"
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
-      "title": "능력 먹고 레벨업하는 영주님",
-      "url": "https://page.kakao.com/content/70274422",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1iTth/dJMcafVefan/kCQlNRK0ck3ziEZGFfhkSk&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "황태자의 약혼녀",
       "url": "https://page.kakao.com/content/60511921",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
+    },
+    {
+      "title": "능력 먹고 레벨업하는 영주님",
+      "url": "https://page.kakao.com/content/70274422",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1iTth/dJMcafVefan/kCQlNRK0ck3ziEZGFfhkSk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,27 +155,32 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T16:42:49+09:00",
+  "updated_at": "2026-10-27T17:36:24+09:00",
   "lezhin": [
     {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
     },
     {
-      "title": "메탈하트[컬러]",
-      "url": "https://www.lezhin.com/ko/comic/metal_heart",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5915562804903936/images/tall.jpg"
+      "title": "타치바나 백작",
+      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
     },
     {
-      "title": "히어로 왈츠",
-      "url": "https://www.lezhin.com/ko/comic/hero_waltz",
-      "cover": "https://ccdn.lezhin.com/v2/comics/158/images/tall.jpg"
+      "title": "피장파장의 오류",
+      "url": "https://www.lezhin.com/ko/comic/you_too",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6399994036813824/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+    },
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,9 +188,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "오디세이",
-      "url": "https://www.lezhin.com/ko/comic/odyssey_",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792397480318/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
       "title": "클라우드",
@@ -193,19 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "이 무슨 대자연인가",
-      "url": "https://www.lezhin.com/ko/comic/mothernature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
-    },
-    {
-      "title": "4컷용사",
-      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     }
   ]
 }
