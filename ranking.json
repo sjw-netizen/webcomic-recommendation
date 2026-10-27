@@ -63,6 +63,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "그 공작의 아내 집착",
       "url": "https://page.kakao.com/content/66133946",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
@@ -73,14 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
     },
     {
-      "title": "금빛 슈발리에",
-      "url": "https://page.kakao.com/content/68063460",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "만렙 영웅님께서 귀환하신다!",
+      "url": "https://page.kakao.com/content/55775689",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=92IML/dJMcah4frkd/8k51MNWuDiRNxfXbW0ewv0&filename=th3"
     },
     {
       "title": "만 년 만에 귀환한 플레이어",
@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gKHys/dJMcafOxAq2/lwrddoRNnYJdgL2xv30it1&filename=th3"
     },
     {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
-    },
-    {
-      "title": "아기는 악당을 키운다",
-      "url": "https://page.kakao.com/content/68276174",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=3vJyi/dJMcaazEgGb/3X4lpeQOFuidQ50dMedaVK&filename=th3"
+      "title": "금빛 슈발리에",
+      "url": "https://page.kakao.com/content/68063460",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b8v1Mu/dJMcahzCs0C/eRXAjzTgKWcREEpaE4ewnK&filename=th3"
     },
     {
       "title": "결혼 장사2 ~잊히지 않을 노래~",
       "url": "https://page.kakao.com/content/67242927",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1i8xz/dJMcadKlxD9/5yhbaLTO4o7rneJuH57qu1&filename=th3"
+    },
+    {
+      "title": "아기는 악당을 키운다",
+      "url": "https://page.kakao.com/content/68276174",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=3vJyi/dJMcaazEgGb/3X4lpeQOFuidQ50dMedaVK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T09:32:49+09:00",
+  "updated_at": "2026-10-27T10:38:45+09:00",
   "lezhin": [
     {
-      "title": "아가씨와 우렁총각",
-      "url": "https://www.lezhin.com/ko/comic/snail",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
-    },
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -178,34 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
       "title": "캔디 윰윰 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     },
     {
-      "title": "이상한 너를 맞이하며 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/strange_you_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4954362357284864/images/tall.jpg"
+      "title": "타치바나 백작",
+      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
     },
     {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "할배툰",
+      "url": "https://www.lezhin.com/ko/comic/ggftoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4524665480740864/images/tall.jpg"
     },
     {
-      "title": "표준규격전사",
-      "url": "https://www.lezhin.com/ko/comic/standardheroes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "남의 BL만화",
+      "url": "https://www.lezhin.com/ko/comic/others_bl_comic",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4519516459565056/images/tall.jpg"
+    },
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "그 남자가 대신 시집간 사정 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/reason_of_marriage",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5254360371363840/images/tall.jpg"
     }
   ]
 }
