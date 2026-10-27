@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "황태자의 약혼녀",
       "url": "https://page.kakao.com/content/60511921",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bc8n5m/dJMcaaApqqI/PHkvPoqmUzFtETW9h25cHK&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "능력 먹고 레벨업하는 영주님",
@@ -155,32 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/6039000051/xxlarge"
     }
   ],
-  "updated_at": "2026-10-27T12:29:55+09:00",
+  "updated_at": "2026-10-27T13:29:52+09:00",
   "lezhin": [
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
     {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
-    },
-    {
-      "title": "홀딩룸 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/holding_room_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5694477051428864/images/tall.jpg"
-    },
-    {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
       "title": "남의 BL만화",
@@ -188,24 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4519516459565056/images/tall.jpg"
     },
     {
-      "title": "별의 아이, 센츄리온!",
-      "url": "https://www.lezhin.com/ko/comic/centurion",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5901351032979456/images/tall.jpg"
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     },
     {
-      "title": "메리 마블링",
-      "url": "https://www.lezhin.com/ko/comic/merry_marbling",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6594651053424640/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
     },
     {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "삼국지 가후전 R",
-      "url": "https://www.lezhin.com/ko/comic/gahu_r",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.jpg"
+      "title": "지상낙원의 부적응자",
+      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
+    },
+    {
+      "title": "역살 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/yeoksal_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011758600588694/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     }
   ]
 }
