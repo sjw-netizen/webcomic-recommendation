@@ -58,24 +58,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3"
     },
     {
-      "title": "미친 빌런이 정신을 되찾음",
-      "url": "https://page.kakao.com/content/70776768",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
-    },
-    {
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
+      "title": "미친 빌런이 정신을 되찾음",
+      "url": "https://page.kakao.com/content/70776768",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
     },
     {
       "title": "세이렌: 악당과 계약 가족이 되었다",
@@ -88,9 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     },
     {
-      "title": "잊혀진 들판",
-      "url": "https://page.kakao.com/content/69141031",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
+      "title": "그 공작의 아내 집착",
+      "url": "https://page.kakao.com/content/66133946",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
       "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
+      "title": "잊혀진 들판",
+      "url": "https://page.kakao.com/content/69141031",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
     }
   ],
   "ridi": [
@@ -147,7 +147,7 @@
     {
       "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
       "url": "https://ridibooks.com/books/4158001245",
-      "cover": "https://img.ridicdn.net/cover/4158001303/xxlarge"
+      "cover": "https://img.ridicdn.net/cover/4158001304/xxlarge"
     },
     {
       "title": "나를 홀린 이웃집 스타",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
     }
   ],
-  "updated_at": "2026-10-28T21:42:42+09:00",
+  "updated_at": "2026-10-28T22:52:56+09:00",
   "lezhin": [
     {
       "title": "문학소년",
@@ -163,49 +163,49 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
+      "title": "박씨유대기",
+      "url": "https://www.lezhin.com/ko/comic/waitmrpark",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6727405857669120/images/tall.jpg"
+    },
+    {
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "미치도록 찬란하게",
-      "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
-      "title": "작전본부: 우리 집",
-      "url": "https://www.lezhin.com/ko/comic/our_home",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6013643236114432/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
     },
     {
-      "title": "자취요리왕",
-      "url": "https://www.lezhin.com/ko/comic/homecooking",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
-    },
-    {
-      "title": "매드 독",
-      "url": "https://www.lezhin.com/ko/comic/mad_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
-    },
-    {
-      "title": "같이 야근하실래요, 황태자님 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/overtime_crown_prince",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790607464062/images/tall.jpg"
-    },
-    {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
       "url": "https://www.lezhin.com/ko/comic/goldpixinema",
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "소년을 위로해줘",
+      "url": "https://www.lezhin.com/ko/comic/cheerup_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5058505603678208/images/tall.jpg"
     }
   ]
 }
