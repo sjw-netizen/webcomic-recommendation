@@ -53,19 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
       "title": "복숭아 심장",
       "url": "https://page.kakao.com/content/71055406",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RVuau/dJMcab68hYS/oToASkyhXdhCnKu7c6PLtK&filename=th3"
     },
     {
-      "title": "착한 며느리는 이제 없습니다",
-      "url": "https://page.kakao.com/content/71143668",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3"
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
       "title": "픽 미 업!",
@@ -73,9 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     },
     {
-      "title": "마론 후작",
-      "url": "https://page.kakao.com/content/67280468",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bInrLr/dJMcaiw4z5q/0sdDHzyRAKbUfS9qrVoiS1&filename=th3"
+      "title": "아기님 캐시로 로판 달린다",
+      "url": "https://page.kakao.com/content/62118739",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
+    },
+    {
+      "title": "착한 며느리는 이제 없습니다",
+      "url": "https://page.kakao.com/content/71143668",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=7vLQL/dJMcafIDgib/G8GfkChKzPRjsxjjZH9jt1&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -88,14 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
-      "title": "아기님 캐시로 로판 달린다",
-      "url": "https://page.kakao.com/content/62118739",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
+      "title": "마론 후작",
+      "url": "https://page.kakao.com/content/67280468",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bInrLr/dJMcaiw4z5q/0sdDHzyRAKbUfS9qrVoiS1&filename=th3"
     },
     {
-      "title": "세이렌: 악당과 계약 가족이 되었다",
-      "url": "https://page.kakao.com/content/57860238",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "남편이 최애인데 이혼당할 것 같다",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
     }
   ],
-  "updated_at": "2026-10-29T01:44:07+09:00",
+  "updated_at": "2026-10-29T02:40:25+09:00",
   "lezhin": [
     {
       "title": "문학소년",
@@ -163,9 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "영원한 계약 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011791872227564/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "안녕, 나의 폐하",
+      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
     },
     {
-      "title": "미치도록 찬란하게",
-      "url": "https://www.lezhin.com/ko/comic/madly_brilliant",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790818765618/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "달의 상자",
-      "url": "https://www.lezhin.com/ko/comic/dalbox",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.jpg"
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "BJ 알렉스[개정판]",
+      "url": "https://www.lezhin.com/ko/comic/bjalex_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5367962326859776/images/tall.jpg"
     }
   ]
 }
