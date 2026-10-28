@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
-      "title": "무한의 마법사",
-      "url": "https://page.kakao.com/content/60910969",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -78,19 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "무한의 마법사",
+      "url": "https://page.kakao.com/content/60910969",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
-    },
-    {
-      "title": "망나니 1왕자가 되었다",
-      "url": "https://page.kakao.com/content/68486653",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3"
+      "title": "세이렌: 악당과 계약 가족이 되었다",
+      "url": "https://page.kakao.com/content/57860238",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
       "title": "멸망급 데스나이트가 회귀함",
@@ -98,9 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=LMUz6/dJMcaflVHnk/qKvapkXDoowxKGjRqDgxzK&filename=th3"
     },
     {
-      "title": "그 공작의 아내 집착",
-      "url": "https://page.kakao.com/content/66133946",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
+      "title": "잊혀진 들판",
+      "url": "https://page.kakao.com/content/69141031",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=I2P6R/dJMcafIswFV/A5c0rrsWEKDBOKtYiBMZg0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
     }
   ],
-  "updated_at": "2026-10-28T19:40:24+09:00",
+  "updated_at": "2026-10-28T20:36:50+09:00",
   "lezhin": [
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
     {
       "title": "문학소년",
       "url": "https://www.lezhin.com/ko/comic/literary_boy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "흑랑 : 검은이리의 신부",
+      "url": "https://www.lezhin.com/ko/comic/blackwolf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6445166738866176/images/tall.jpg"
+    },
+    {
+      "title": "타치바나 백작",
+      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -173,14 +178,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "왓치가이",
-      "url": "https://www.lezhin.com/ko/comic/watchguy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4625200343023616/images/tall.jpg"
+      "title": "사야",
+      "url": "https://www.lezhin.com/ko/comic/saya",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5139586949644288/images/tall.jpg"
     },
     {
-      "title": "나와 그녀와 그녀와 그녀의 건전하지 못한 관계",
-      "url": "https://www.lezhin.com/ko/comic/threegirlfriends",
-      "cover": "https://ccdn.lezhin.com/v2/comics/392/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "캔디 윰윰 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+    },
+    {
+      "title": "아늑한 집착 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/cozy_obsession_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011784865703129/images/tall.jpg"
     },
     {
       "title": "이웃집 길드원",
@@ -191,21 +206,6 @@
       "title": "천지해",
       "url": "https://www.lezhin.com/ko/comic/cheonjihae",
       "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
-    },
-    {
-      "title": "못 다 핀",
-      "url": "https://www.lezhin.com/ko/comic/not_blossom",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5101128959983616/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
     }
   ]
 }
