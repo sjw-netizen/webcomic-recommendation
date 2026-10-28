@@ -88,9 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
-      "title": "잊혀진 들판",
-      "url": "https://page.kakao.com/content/69141031",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "인소의 법칙",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+      "title": "잊혀진 들판",
+      "url": "https://page.kakao.com/content/69141031",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
     }
   ],
-  "updated_at": "2026-10-28T09:42:29+09:00",
+  "updated_at": "2026-10-28T10:50:08+09:00",
   "lezhin": [
     {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
+      "title": "히어로즈 플랜비",
+      "url": "https://www.lezhin.com/ko/comic/planb",
+      "cover": "https://ccdn.lezhin.com/v2/comics/312/images/tall.jpg"
     },
     {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
     },
     {
       "title": "문학소년",
@@ -178,19 +183,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+    },
+    {
       "title": "금요정의 금요극장",
       "url": "https://www.lezhin.com/ko/comic/goldpixinema",
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "사장님은 이웃사촌",
-      "url": "https://www.lezhin.com/ko/comic/boss_neighbor",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5744074253533184/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -198,14 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
     },
     {
-      "title": "무책임 공주는 힘들어!",
-      "url": "https://www.lezhin.com/ko/comic/irresponsible_princess",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4686578887491584/images/tall.jpg"
+      "title": "소꿉친구에게서 도망치고 싶어",
+      "url": "https://www.lezhin.com/ko/comic/runaway_from_friend",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011760581743590/images/tall.jpg"
     }
   ]
 }
