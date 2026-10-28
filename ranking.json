@@ -63,6 +63,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
+    },
+    {
       "title": "미친 빌런이 정신을 되찾음",
       "url": "https://page.kakao.com/content/70776768",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
@@ -73,19 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bUpyjK/dJMcagYIkvS/2JkDCGHTnspcqHCRMWFGR1&filename=th3"
-    },
-    {
       "title": "세이렌: 악당과 계약 가족이 되었다",
       "url": "https://page.kakao.com/content/57860238",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
-      "title": "무한의 마법사",
-      "url": "https://page.kakao.com/content/60910969",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     },
     {
       "title": "그 공작의 아내 집착",
@@ -93,9 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
+      "title": "무한의 마법사",
+      "url": "https://page.kakao.com/content/60910969",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     },
     {
       "title": "잊혀진 들판",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4895004141/xxlarge"
     }
   ],
-  "updated_at": "2026-10-28T22:52:56+09:00",
+  "updated_at": "2026-10-28T23:48:26+09:00",
   "lezhin": [
     {
       "title": "문학소년",
@@ -163,19 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "박씨유대기",
-      "url": "https://www.lezhin.com/ko/comic/waitmrpark",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6727405857669120/images/tall.jpg"
-    },
-    {
-      "title": "이웃집 길드원",
-      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
-    },
-    {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+      "title": "안녕, 나의 폐하",
+      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,29 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "징벌 소녀",
+      "url": "https://www.lezhin.com/ko/comic/miss_guillotine",
+      "cover": "https://ccdn.lezhin.com/v2/comics/318/images/tall.jpg"
     },
     {
-      "title": "소년을 위로해줘",
-      "url": "https://www.lezhin.com/ko/comic/cheerup_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5058505603678208/images/tall.jpg"
+      "title": "넷카마 펀치!!!",
+      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
+    },
+    {
+      "title": "봄불은 여우불이어라",
+      "url": "https://www.lezhin.com/ko/comic/fox_fire",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.jpg"
+    },
+    {
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     }
   ]
 }
