@@ -63,6 +63,16 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dckHdb/dJMcah4Ii3h/cxQcIq8QsPvB8GmmfE8quk&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "천재 궁수의 스트리밍",
+      "url": "https://page.kakao.com/content/64007563",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
+    },
+    {
       "title": "남주가 제 건강에 집착합니다",
       "url": "https://page.kakao.com/content/66974798",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c2kaOA/dJMcaaUw4lO/i3KI35QWPatxSK6KBthUo0&filename=th3"
@@ -78,14 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "복숭아 심장",
-      "url": "https://page.kakao.com/content/71055406",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RVuau/dJMcab68hYS/oToASkyhXdhCnKu7c6PLtK&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
       "title": "네 목을 비트는 새벽",
@@ -93,14 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
-      "title": "천재 궁수의 스트리밍",
-      "url": "https://page.kakao.com/content/64007563",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
-    },
-    {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+      "title": "복숭아 심장",
+      "url": "https://page.kakao.com/content/71055406",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RVuau/dJMcab68hYS/oToASkyhXdhCnKu7c6PLtK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,47 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/4800000391/xxlarge"
     }
   ],
-  "updated_at": "2026-10-30T05:37:58+09:00",
+  "updated_at": "2026-10-30T06:35:03+09:00",
   "lezhin": [
+    {
+      "title": "흑집사",
+      "url": "https://www.lezhin.com/ko/comic/black_butler",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6649704469364736/images/tall.jpg"
+    },
+    {
+      "title": "비의도적 연애담 [일반판]",
+      "url": "https://www.lezhin.com/ko/comic/luvdam",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6422634807033856/images/tall.jpg"
+    },
     {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+      "title": "오크의 포로가 된 엘프 여사령관",
+      "url": "https://www.lezhin.com/ko/comic/totokkan",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.jpg"
     },
     {
-      "title": "신들에게 키워진 자, 최강이 된다",
-      "url": "https://www.lezhin.com/ko/comic/raised_by_gods",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5441021040459776/images/tall.jpg"
+      "title": "백억년을 자는 남자",
+      "url": "https://www.lezhin.com/ko/comic/sleepingman",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
     },
     {
-      "title": "라스트 보스, 그만둬 보았다",
-      "url": "https://www.lezhin.com/ko/comic/last_boss_yametemita",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6344602268532736/images/tall.jpg"
-    },
-    {
-      "title": "모험에 따라오지 마요, 엄마!",
-      "url": "https://www.lezhin.com/ko/comic/tsuitekonaide_mama",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011754350388465/images/tall.jpg"
-    },
-    {
-      "title": "버려진 가짜가 돌아온 이유 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/fake_return",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792127759428/images/tall.jpg"
-    },
-    {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
-    },
-    {
-      "title": "불멸의 날들",
-      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
+      "title": "인간이 없는 나라",
+      "url": "https://www.lezhin.com/ko/comic/ningenno_inai_kuni",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6755113583837184/images/tall.jpg"
     },
     {
       "title": "발화",
@@ -203,9 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "연애경험없는 여기사에게 들이대 보았다",
+      "url": "https://www.lezhin.com/ko/comic/femaleknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4506351437676544/images/tall.jpg"
+    },
+    {
+      "title": "변변치 못한 공주들",
+      "url": "https://www.lezhin.com/ko/comic/dekisokonai_himegimi",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744249398806/images/tall.jpg"
+    },
+    {
+      "title": "이 용사 실화냐",
+      "url": "https://www.lezhin.com/ko/comic/warrior_real",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011748245448103/images/tall.jpg"
     }
   ]
 }
