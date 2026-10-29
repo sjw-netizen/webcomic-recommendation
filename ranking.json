@@ -83,6 +83,16 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "환생 공녀님",
+      "url": "https://page.kakao.com/content/65237169",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1H1o1/dJMcaieeBzh/qCLVQIxoBvHBsZt0fTeMz0&filename=th3"
+    },
+    {
       "title": "재앙급 영웅님이 귀환하셨다",
       "url": "https://page.kakao.com/content/58474045",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3"
@@ -91,16 +101,6 @@
       "title": "남편이 최애인데 이혼당할 것 같다",
       "url": "https://page.kakao.com/content/68099906",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=p70sW/dJMcaiL1MmT/W0KfQiUxSjofCzruz80CW0&filename=th3"
-    },
-    {
-      "title": "환생 공녀님",
-      "url": "https://page.kakao.com/content/65237169",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1H1o1/dJMcaieeBzh/qCLVQIxoBvHBsZt0fTeMz0&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4800000391/xxlarge"
     }
   ],
-  "updated_at": "2026-10-29T14:39:25+09:00",
+  "updated_at": "2026-10-29T15:44:31+09:00",
   "lezhin": [
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "적반하장의 허슬플레이",
+      "url": "https://www.lezhin.com/ko/comic/hustleplay",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011736835202719/images/tall.jpg"
     },
     {
       "title": "클라우드",
@@ -183,19 +183,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "이웃집 길드원",
-      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
-    },
-    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "홍차와 범자 [개정판][연재]",
-      "url": "https://www.lezhin.com/ko/comic/hongcha_and_beomja_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011786335504772/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "사랑은 환상! ~슈퍼스타~",
+      "url": "https://www.lezhin.com/ko/comic/superstar",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.jpg"
     },
     {
       "title": "문학소년",
@@ -203,9 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+      "title": "봄불은 여우불이어라",
+      "url": "https://www.lezhin.com/ko/comic/fox_fire",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.jpg"
     }
   ]
 }
