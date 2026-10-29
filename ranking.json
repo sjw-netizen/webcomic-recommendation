@@ -58,11 +58,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=RVuau/dJMcab68hYS/oToASkyhXdhCnKu7c6PLtK&filename=th3"
     },
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
@@ -71,6 +66,16 @@
       "title": "픽 미 업!",
       "url": "https://page.kakao.com/content/60914825",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+    },
+    {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
       "title": "미친 빌런이 정신을 되찾음",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b1H1o1/dJMcaieeBzh/qCLVQIxoBvHBsZt0fTeMz0&filename=th3"
     },
     {
-      "title": "무한의 마법사",
-      "url": "https://page.kakao.com/content/60910969",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "남편이 최애인데 이혼당할 것 같다",
       "url": "https://page.kakao.com/content/68099906",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=p70sW/dJMcaiL1MmT/W0KfQiUxSjofCzruz80CW0&filename=th3"
+    },
+    {
+      "title": "무한의 마법사",
+      "url": "https://page.kakao.com/content/60910969",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cNhKYM/dJMcahYguRL/Xy09IDArkxRt3TFyVefvGK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,32 @@
       "cover": "https://img.ridicdn.net/cover/4800000391/xxlarge"
     }
   ],
-  "updated_at": "2026-10-29T20:37:36+09:00",
+  "updated_at": "2026-10-29T21:43:58+09:00",
   "lezhin": [
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
     {
       "title": "발화",
       "url": "https://www.lezhin.com/ko/comic/inflame",
       "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+    },
+    {
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+    },
+    {
+      "title": "수상한 레시피",
+      "url": "https://www.lezhin.com/ko/comic/suspicious_recipe",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5067261427318784/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -168,44 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "백억년을 자는 남자",
-      "url": "https://www.lezhin.com/ko/comic/sleepingman",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
       "title": "매운맛 커플",
       "url": "https://www.lezhin.com/ko/comic/hotcouple",
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "하루종일 조아영",
-      "url": "https://www.lezhin.com/ko/comic/joayoung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4537933260652544/images/tall.jpg"
-    },
-    {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+      "title": "데우스 바드 마키나",
+      "url": "https://www.lezhin.com/ko/comic/bard",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5544547320922112/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
       "url": "https://www.lezhin.com/ko/comic/goldpixinema",
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "연애경험없는 여기사에게 들이대 보았다",
+      "url": "https://www.lezhin.com/ko/comic/femaleknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4506351437676544/images/tall.jpg"
     }
   ]
 }
