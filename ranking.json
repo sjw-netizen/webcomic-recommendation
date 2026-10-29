@@ -78,11 +78,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "천재 궁수의 스트리밍",
       "url": "https://page.kakao.com/content/64007563",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
@@ -96,6 +91,11 @@
       "title": "아기님 캐시로 로판 달린다",
       "url": "https://page.kakao.com/content/62118739",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "나 혼자 EX급 소환수",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000391/xxlarge"
     }
   ],
-  "updated_at": "2026-10-30T00:46:41+09:00",
+  "updated_at": "2026-10-30T01:46:58+09:00",
   "lezhin": [
     {
       "title": "오류탐구영역",
@@ -168,29 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
-    },
-    {
       "title": "문학소년",
       "url": "https://www.lezhin.com/ko/comic/literary_boy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "천상의 마이로드",
-      "url": "https://www.lezhin.com/ko/comic/heaven",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5350855902822400/images/tall.jpg"
-    },
-    {
-      "title": "소꿉친구의 가이드가 되었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -198,14 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "불멸의 날들",
-      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "레플리카 전처의 복수",
+      "url": "https://www.lezhin.com/ko/comic/replica_revenge",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789546288773/images/tall.jpg"
+    },
+    {
+      "title": "내가 아닌 연애 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/not_me_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011763536149978/images/tall.jpg"
     }
   ]
 }
