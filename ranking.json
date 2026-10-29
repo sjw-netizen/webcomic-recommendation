@@ -78,24 +78,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "네 목을 비트는 새벽",
-      "url": "https://page.kakao.com/content/67971553",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
-    },
-    {
       "title": "열혈강호",
       "url": "https://page.kakao.com/content/46304288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cnSoLS/hyVkJAwFSm/RkHi8oWekz9KAOcQW88q9K&filename=th3"
     },
     {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+      "title": "엄마가 계약결혼 했다",
+      "url": "https://page.kakao.com/content/59882406",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cghIe/dJMcahq5WHs/KlrvESJCKfabEnneMgoJEK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "그 공작의 아내 집착",
+      "url": "https://page.kakao.com/content/66133946",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=F7iIb/dJMcadDKMfJ/g3fdBLLuyJf2PCnhESkUMk&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     },
     {
       "title": "복숭아 심장",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000391/xxlarge"
     }
   ],
-  "updated_at": "2026-10-30T07:35:15+09:00",
+  "updated_at": "2026-10-30T08:30:33+09:00",
   "lezhin": [
     {
       "title": "오류탐구영역",
@@ -163,34 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+      "title": "수상한 레시피",
+      "url": "https://www.lezhin.com/ko/comic/suspicious_recipe",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5067261427318784/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "소꿉친구의 가이드가 되었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
-    },
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
-    },
-    {
-      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
-      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
+      "title": "나와 호랑이님",
+      "url": "https://www.lezhin.com/ko/comic/mylovetiger",
+      "cover": "https://ccdn.lezhin.com/v2/comics/277/images/tall.jpg"
     },
     {
       "title": "돌아와줘",
@@ -198,14 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011775616993163/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
-    },
-    {
       "title": "문학소년",
       "url": "https://www.lezhin.com/ko/comic/literary_boy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
+    },
+    {
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+    },
+    {
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     }
   ]
 }
