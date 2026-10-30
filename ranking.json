@@ -58,24 +58,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
       "title": "샤크",
       "url": "https://page.kakao.com/content/48990437",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
+    },
+    {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
       "title": "이 나라를 없앨 예정인데요",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
-      "title": "흑표 가문의 설표 아기님",
-      "url": "https://page.kakao.com/content/65913268",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
+      "title": "의원, 다시 살다",
+      "url": "https://page.kakao.com/content/55989064",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doFkXK/dJMcafBAFUE/kCYMcQRzVbxJjZVL5c0tAk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,42 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/6344000024/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T06:30:43+09:00",
+  "updated_at": "2026-10-31T07:33:40+09:00",
   "lezhin": [
+    {
+      "title": "도망칠수록 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/domangchil_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011768352789262/images/tall.jpg"
+    },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "사랑은 환상! ~슈퍼스타~",
-      "url": "https://www.lezhin.com/ko/comic/superstar",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.jpg"
-    },
-    {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "최면 어플을 사용하는 학생회장과 최면에 걸린 척하는 양키",
-      "url": "https://www.lezhin.com/ko/comic/hypno_yankee",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787732489557/images/tall.jpg"
-    },
-    {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
-    },
-    {
-      "title": "늑대가 날 책임지겠대 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
     },
     {
       "title": "문학소년",
@@ -198,14 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "오늘도 쿄우 군은 너무 달콤해",
-      "url": "https://www.lezhin.com/ko/comic/sweet_kyo_kun",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011767664007479/images/tall.jpg"
+      "title": "새벽을 지나 아침으로",
+      "url": "https://www.lezhin.com/ko/comic/past_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     },
     {
       "title": "블랙보이",
       "url": "https://www.lezhin.com/ko/comic/blackboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+    },
+    {
+      "title": "오빠 남편 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/oppa_husband_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011729649965800/images/tall.jpg"
+    },
+    {
+      "title": "늑대가 날 책임지겠대 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "당신이 나를 가지려 하신다면 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/you_got_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     }
   ]
 }
