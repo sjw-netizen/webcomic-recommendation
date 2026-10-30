@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dckHdb/dJMcah4Ii3h/cxQcIq8QsPvB8GmmfE8quk&filename=th3"
     },
     {
-      "title": "던전 견문록",
-      "url": "https://page.kakao.com/content/60241259",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cjFlrL/dJMb8XYzKNC/TlFfn6MRkVBXuwinbRGZik&filename=th3"
+      "title": "아기님 캐시로 로판 달린다",
+      "url": "https://page.kakao.com/content/62118739",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/6344000024/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T00:44:05+09:00",
+  "updated_at": "2026-10-31T01:41:57+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,14 +168,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "백도사",
-      "url": "https://www.lezhin.com/ko/comic/thewizard",
-      "cover": "https://ccdn.lezhin.com/v2/comics/208/images/tall.jpg"
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
+      "title": "하테마테",
+      "url": "https://www.lezhin.com/ko/comic/hate_mate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
+    },
+    {
+      "title": "추위타는 북부대공",
+      "url": "https://www.lezhin.com/ko/comic/cold_duke",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791872227564/images/tall.jpg"
+    },
+    {
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -183,29 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+      "title": "물드는 시간",
+      "url": "https://www.lezhin.com/ko/comic/time_dye",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011735283773266/images/tall.jpg"
     },
     {
-      "title": "황후궁 체대생 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/hwanghugung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4748784599629824/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "지상낙원의 부적응자",
-      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
-    },
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     }
   ]
 }
