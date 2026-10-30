@@ -63,14 +63,34 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dckHdb/dJMcah4Ii3h/cxQcIq8QsPvB8GmmfE8quk&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "네 목을 비트는 새벽",
+      "url": "https://page.kakao.com/content/67971553",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
+    },
+    {
       "title": "천재 궁수의 스트리밍",
       "url": "https://page.kakao.com/content/64007563",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b7VGG9/dJMcag0hLan/NOt2DSKgohz271Sq9aXuaK&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "엄마가 계약결혼 했다",
+      "url": "https://page.kakao.com/content/59882406",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cghIe/dJMcahq5WHs/KlrvESJCKfabEnneMgoJEK&filename=th3"
     },
     {
       "title": "야수의 전부인이 되겠습니다",
@@ -81,26 +101,6 @@
       "title": "남주가 제 건강에 집착합니다",
       "url": "https://page.kakao.com/content/66974798",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cp3pUq/dJMcacFjoJS/flJ3uBaZ8v5uqEiktTDOFK&filename=th3"
-    },
-    {
-      "title": "네 목을 비트는 새벽",
-      "url": "https://page.kakao.com/content/67971553",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "엄마가 계약결혼 했다",
-      "url": "https://page.kakao.com/content/59882406",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cghIe/dJMcahq5WHs/KlrvESJCKfabEnneMgoJEK&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,42 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/6344000024/xxlarge"
     }
   ],
-  "updated_at": "2026-10-30T11:43:05+09:00",
+  "updated_at": "2026-10-30T12:42:22+09:00",
   "lezhin": [
-    {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
-    },
-    {
-      "title": "덫에 걸린 짐승",
-      "url": "https://www.lezhin.com/ko/comic/beast_caught_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011742773440942/images/tall.jpg"
-    },
-    {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "남편 대신 먹었습니다 [개정판][연재]",
-      "url": "https://www.lezhin.com/ko/comic/instead_husband_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790667171033/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -198,14 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
       "title": "악역은 곱게 죽고 싶다",
       "url": "https://www.lezhin.com/ko/comic/villain_death",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
     },
     {
-      "title": "불사의 저주",
-      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
+      "title": "버려진 가짜가 돌아온 이유 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/fake_return",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792127759428/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     }
   ]
 }
