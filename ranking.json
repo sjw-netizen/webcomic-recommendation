@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
-      "title": "던전 견문록",
-      "url": "https://page.kakao.com/content/60241259",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cjFlrL/dJMb8XYzKNC/TlFfn6MRkVBXuwinbRGZik&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "치트라",
-      "url": "https://page.kakao.com/content/52044069",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=KxkVs/dJMcabTLqRE/Lt1TmztMLkRK8L322WNbYk&filename=th3"
+      "title": "황자의 보모, 특기는 암살입니다",
+      "url": "https://page.kakao.com/content/69276368",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
+    },
+    {
+      "title": "우리 아빠는 천하제일인",
+      "url": "https://page.kakao.com/content/70160326",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=46Q95/dJMcahZCE0n/koNBIH7aVRy8WkhFx532d0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/6344000024/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T02:36:55+09:00",
+  "updated_at": "2026-10-31T03:39:51+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,29 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "각설탕 소리",
-      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
-    },
-    {
-      "title": "천상의 마이로드",
-      "url": "https://www.lezhin.com/ko/comic/heaven",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5350855902822400/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "새벽을 지나 아침으로",
+      "url": "https://www.lezhin.com/ko/comic/past_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     },
     {
       "title": "블랙보이",
@@ -198,14 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+      "title": "집착공의 인형놀이",
+      "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.jpg"
+    },
+    {
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
+      "title": "하라는 공부는 안하고",
+      "url": "https://www.lezhin.com/ko/comic/academy_of_card",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6210470602932224/images/tall.jpg"
+    },
+    {
+      "title": "천상의 마이로드",
+      "url": "https://www.lezhin.com/ko/comic/heaven",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5350855902822400/images/tall.jpg"
     }
   ]
 }
