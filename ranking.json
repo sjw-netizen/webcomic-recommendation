@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
       "title": "0골드로 시작하는 악녀 생활",
       "url": "https://page.kakao.com/content/70831982",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
+    },
+    {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
       "title": "템빨",
@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
+      "title": "아기님 캐시로 로판 달린다",
+      "url": "https://page.kakao.com/content/62118739",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
+    },
+    {
       "title": "네 목을 비트는 새벽",
       "url": "https://page.kakao.com/content/67971553",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
-    },
-    {
-      "title": "의원, 다시 살다",
-      "url": "https://page.kakao.com/content/55989064",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doFkXK/dJMcafBAFUE/kCYMcQRzVbxJjZVL5c0tAk&filename=th3"
     }
   ],
   "ridi": [
@@ -122,7 +122,7 @@
     {
       "title": "던전을 그리는 화가",
       "url": "https://ridibooks.com/books/6305000001",
-      "cover": "https://img.ridicdn.net/cover/6305000031/xxlarge"
+      "cover": "https://img.ridicdn.net/cover/6305000032/xxlarge"
     },
     {
       "title": "러브:제로(Love:Zero) [개정판]",
@@ -155,42 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T21:39:33+09:00",
+  "updated_at": "2026-10-31T22:40:57+09:00",
   "lezhin": [
     {
-      "title": "부랄친구",
-      "url": "https://www.lezhin.com/ko/comic/bff",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.jpg"
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "빛과 그림자",
+      "url": "https://www.lezhin.com/ko/comic/light_n_shadow",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5774371166420992/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "미성년",
-      "url": "https://www.lezhin.com/ko/comic/immature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
-    },
-    {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -198,14 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+      "title": "오늘도 쿄우 군은 너무 달콤해",
+      "url": "https://www.lezhin.com/ko/comic/sweet_kyo_kun",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011767664007479/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "이 무슨 대자연인가",
+      "url": "https://www.lezhin.com/ko/comic/mothernature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
+    {
+      "title": "당신이 나를 가지려 하신다면 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/you_got_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
     }
   ]
 }
