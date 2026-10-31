@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
-      "title": "0골드로 시작하는 악녀 생활",
-      "url": "https://page.kakao.com/content/70831982",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
-    },
-    {
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
+    },
+    {
+      "title": "0골드로 시작하는 악녀 생활",
+      "url": "https://page.kakao.com/content/70831982",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
     },
     {
       "title": "템빨",
@@ -78,9 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+      "title": "황자의 보모, 특기는 암살입니다",
+      "url": "https://page.kakao.com/content/69276368",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
     },
     {
       "title": "이 나라를 없앨 예정인데요",
@@ -88,9 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
     },
     {
-      "title": "황자의 보모, 특기는 암살입니다",
-      "url": "https://page.kakao.com/content/69276368",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "샤크",
@@ -155,17 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T16:46:32+09:00",
+  "updated_at": "2026-10-31T17:38:51+09:00",
   "lezhin": [
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "왓치가이",
+      "url": "https://www.lezhin.com/ko/comic/watchguy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4625200343023616/images/tall.jpg"
     },
     {
       "title": "안녕, 나의 폐하",
@@ -173,14 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
     },
     {
-      "title": "마법사와 춤을",
-      "url": "https://www.lezhin.com/ko/comic/dance_with_wizard",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6005406548426752/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
+      "title": "별과 하나의 시",
+      "url": "https://www.lezhin.com/ko/comic/sparrow",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5791250995609600/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "짝꿍이랑 나눠먹는 만화",
+      "url": "https://www.lezhin.com/ko/comic/minhee",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5013322411081728/images/tall.jpg"
+    },
+    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "남사친의 아찔한 청혼",
-      "url": "https://www.lezhin.com/ko/comic/namsachin_propose",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5359560102313984/images/tall.jpg"
+      "title": "레바툰",
+      "url": "https://www.lezhin.com/ko/comic/revatoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
     },
     {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
-    },
-    {
-      "title": "흑막 남편과의 이혼에 실패한 것 같다",
-      "url": "https://www.lezhin.com/ko/comic/yihonsilpae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011760430200983/images/tall.jpg"
+      "title": "숙부는 무너뜨리고 싶었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/uncle_ruin",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787714028631/images/tall.jpg"
     }
   ]
 }
