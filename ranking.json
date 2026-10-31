@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "야수의 전부인이 되겠습니다",
@@ -78,14 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "흑표 가문의 설표 아기님",
       "url": "https://page.kakao.com/content/65913268",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
       "title": "황자의 보모, 특기는 암살입니다",
@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
     },
     {
-      "title": "이 나라를 없앨 예정인데요",
-      "url": "https://page.kakao.com/content/65947762",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
-    },
-    {
       "title": "우리 아빠는 천하제일인",
       "url": "https://page.kakao.com/content/70160326",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=46Q95/dJMcahZCE0n/koNBIH7aVRy8WkhFx532d0&filename=th3"
+    },
+    {
+      "title": "이 나라를 없앨 예정인데요",
+      "url": "https://page.kakao.com/content/65947762",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T09:49:29+09:00",
+  "updated_at": "2026-10-31T10:51:35+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -163,14 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
-    },
-    {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -178,9 +173,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "새벽을 지나 아침으로",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     },
     {
-      "title": "늑대가 날 책임지겠대 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
+      "title": "허들 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/hurdle_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792050456907/images/tall.jpg"
     },
     {
-      "title": "도망칠수록 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/domangchil_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768352789262/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "이 무슨 대자연인가",
+      "url": "https://www.lezhin.com/ko/comic/mothernature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
     }
   ]
 }
