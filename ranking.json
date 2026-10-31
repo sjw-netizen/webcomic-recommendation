@@ -78,16 +78,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
-      "title": "흑표 가문의 설표 아기님",
-      "url": "https://page.kakao.com/content/65913268",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "이 나라를 없앨 예정인데요",
       "url": "https://page.kakao.com/content/65947762",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
@@ -96,6 +86,16 @@
       "title": "황자의 보모, 특기는 암살입니다",
       "url": "https://page.kakao.com/content/69276368",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "흑표 가문의 설표 아기님",
+      "url": "https://page.kakao.com/content/65913268",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
     },
     {
       "title": "아기님 캐시로 로판 달린다",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T12:38:51+09:00",
+  "updated_at": "2026-10-31T13:37:48+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,29 +168,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "홀딩룸 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/holding_room_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5694477051428864/images/tall.jpg"
     },
     {
-      "title": "복수하려다 남편을 꼬셔버렸다",
-      "url": "https://www.lezhin.com/ko/comic/revenge_husband_flirting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6163779083763712/images/tall.jpg"
+      "title": "매드 독",
+      "url": "https://www.lezhin.com/ko/comic/mad_dog",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
       "title": "클라우드",
@@ -198,14 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "그랑블루",
-      "url": "https://www.lezhin.com/ko/comic/grandblue",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5906423429332992/images/tall.jpg"
+      "title": "이 무슨 대자연인가",
+      "url": "https://www.lezhin.com/ko/comic/mothernature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     }
   ]
 }
