@@ -68,11 +68,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "네 목을 비트는 새벽",
+      "url": "https://page.kakao.com/content/67971553",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
+    },
+    {
       "title": "의원, 다시 살다",
       "url": "https://page.kakao.com/content/55989064",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doFkXK/dJMcafBAFUE/kCYMcQRzVbxJjZVL5c0tAk&filename=th3"
-    },
-    {
-      "title": "아기님 캐시로 로판 달린다",
-      "url": "https://page.kakao.com/content/62118739",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T20:28:46+09:00",
+  "updated_at": "2026-10-31T21:39:33+09:00",
   "lezhin": [
     {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+      "title": "부랄친구",
+      "url": "https://www.lezhin.com/ko/comic/bff",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.jpg"
     },
     {
-      "title": "4컷용사",
-      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+    },
+    {
+      "title": "타치바나 백작",
+      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "미성년",
+      "url": "https://www.lezhin.com/ko/comic/immature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
+    },
+    {
+      "title": "여자 제갈량",
+      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
+      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -173,24 +193,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "안녕, 나의 폐하",
-      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
-    },
-    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "잠들지 않은 바다",
-      "url": "https://www.lezhin.com/ko/comic/unsleeping_sea",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011748220607009/images/tall.jpg"
-    },
-    {
-      "title": "이 무슨 대자연인가",
-      "url": "https://www.lezhin.com/ko/comic/mothernature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
     },
     {
       "title": "발화",
@@ -201,11 +206,6 @@
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "안개 바다 위의 샤베트",
-      "url": "https://www.lezhin.com/ko/comic/shabetsea",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
     }
   ]
 }
