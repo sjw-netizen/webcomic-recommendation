@@ -73,19 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
-      "title": "이 나라를 없앨 예정인데요",
-      "url": "https://page.kakao.com/content/65947762",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
-    },
-    {
-      "title": "샤크",
-      "url": "https://page.kakao.com/content/48990437",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "이 나라를 없앨 예정인데요",
+      "url": "https://page.kakao.com/content/65947762",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lQ0T5/dJMcaiwaDek/OYkuxCrsIaKtmbCI79kqB0&filename=th3"
     },
     {
       "title": "황자의 보모, 특기는 암살입니다",
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b2inOD/dJMcad20OBY/2QJJfxFBgwTqsqq9MHjHb0&filename=th3"
     },
     {
+      "title": "샤크",
+      "url": "https://page.kakao.com/content/48990437",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
+    },
+    {
       "title": "흑표 가문의 설표 아기님",
       "url": "https://page.kakao.com/content/65913268",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+      "title": "아기님 캐시로 로판 달린다",
+      "url": "https://page.kakao.com/content/62118739",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bE1OOE/dJMcaf2PLmF/2IQVN5BAVgkxBx98JwxGQ0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-10-31T14:34:29+09:00",
+  "updated_at": "2026-10-31T15:42:32+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,19 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "문학소년",
-      "url": "https://www.lezhin.com/ko/comic/literary_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
-    },
-    {
-      "title": "사랑은 환상! ~슈퍼스타~",
-      "url": "https://www.lezhin.com/ko/comic/superstar",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011729836488210/images/tall.jpg"
-    },
-    {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -183,9 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "악역은 곱게 죽고 싶다",
-      "url": "https://www.lezhin.com/ko/comic/villain_death",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+    },
+    {
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -193,19 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "복수하려다 남편을 꼬셔버렸다",
-      "url": "https://www.lezhin.com/ko/comic/revenge_husband_flirting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6163779083763712/images/tall.jpg"
+      "title": "자두사탕러브",
+      "url": "https://www.lezhin.com/ko/comic/jadusatang_love",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5447026838667264/images/tall.jpg"
     },
     {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "새벽을 지나 아침으로",
+      "url": "https://www.lezhin.com/ko/comic/past_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     },
     {
-      "title": "매드 독",
-      "url": "https://www.lezhin.com/ko/comic/mad_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
+      "title": "나는 너의 귀여운 카피캣!",
+      "url": "https://www.lezhin.com/ko/comic/copycat",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5305536612728832/images/tall.jpg"
+    },
+    {
+      "title": "좀먹는 괴물",
+      "url": "https://www.lezhin.com/ko/comic/jommokneun_goemul",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011757988091938/images/tall.jpg"
     }
   ]
 }
