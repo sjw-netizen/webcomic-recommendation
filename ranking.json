@@ -68,19 +68,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
     },
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
       "title": "0골드로 시작하는 악녀 생활",
       "url": "https://page.kakao.com/content/70831982",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
-    },
-    {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
@@ -88,19 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
+    },
+    {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
       "title": "검술명가 막내아들",
       "url": "https://page.kakao.com/content/59264548",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "갓 오브 블랙필드",
       "url": "https://page.kakao.com/content/54498159",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5337000125/xxlarge"
     }
   ],
-  "updated_at": "2026-11-01T00:28:55+09:00",
+  "updated_at": "2026-11-01T01:30:21+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,24 +163,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "4컷용사",
-      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
       "title": "나의 천사를 찾아서 [연재]",
       "url": "https://www.lezhin.com/ko/comic/find_angel",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+    },
+    {
+      "title": "추위타는 북부대공",
+      "url": "https://www.lezhin.com/ko/comic/cold_duke",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791872227564/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "악역은 곱게 죽고 싶다",
-      "url": "https://www.lezhin.com/ko/comic/villain_death",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
-    },
-    {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
-    },
-    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "인조체온 36.7도 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/temp_36_7",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011779434667582/images/tall.jpg"
+      "title": "집착공의 인형놀이",
+      "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     }
   ]
 }
