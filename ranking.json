@@ -78,6 +78,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=4e1DU/dJMb99VU8Kw/PpTA45QpzoQEBaurJcDN10&filename=th3"
     },
     {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
@@ -88,14 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
-    },
-    {
-      "title": "흑막 범고래 아기님",
-      "url": "https://page.kakao.com/content/64409505",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "점괘보는 공녀님",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/3776004072/xxlarge"
     }
   ],
-  "updated_at": "2026-11-02T00:29:08+09:00",
+  "updated_at": "2026-11-02T01:31:09+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,14 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "집착공의 인형놀이",
+      "url": "https://www.lezhin.com/ko/comic/playing_with_doll",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.jpg"
     },
     {
-      "title": "살신성인",
-      "url": "https://www.lezhin.com/ko/comic/sacrifice",
-      "cover": "https://ccdn.lezhin.com/v2/comics/285/images/tall.jpg"
+      "title": "안녕, 나의 폐하",
+      "url": "https://www.lezhin.com/ko/comic/hello_majesty",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.jpg"
     },
     {
       "title": "타치바나 백작",
@@ -178,34 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "불멸의 날들",
-      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
-    },
-    {
-      "title": "레가스 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/regas",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
-    },
-    {
-      "title": "라온의 남자",
-      "url": "https://www.lezhin.com/ko/comic/raon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
-    },
-    {
       "title": "문학소년",
       "url": "https://www.lezhin.com/ko/comic/literary_boy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
     },
     {
-      "title": "소꿉친구의 가이드가 되었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
+      "title": "은밀하게 레디 액션!",
+      "url": "https://www.lezhin.com/ko/comic/readyaction",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4682784482590720/images/tall.jpg"
+    },
+    {
+      "title": "각설탕 소리",
+      "url": "https://www.lezhin.com/ko/comic/sound_of_sugar_cubes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6747681568391168/images/tall.jpg"
+    },
+    {
+      "title": "페로몬 샤워",
+      "url": "https://www.lezhin.com/ko/comic/pheromoneshower",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5833497235881984/images/tall.jpg"
+    },
+    {
+      "title": "넷카마 펀치!!!",
+      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
+    },
+    {
+      "title": "새벽을 지나 아침으로",
+      "url": "https://www.lezhin.com/ko/comic/past_dawn",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
     }
   ]
 }
