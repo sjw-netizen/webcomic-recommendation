@@ -68,6 +68,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
     },
     {
+      "title": "검을 든 꽃",
+      "url": "https://page.kakao.com/content/66783957",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
+    },
+    {
       "title": "철혈검가 사냥개의 회귀",
       "url": "https://page.kakao.com/content/61614855",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
@@ -76,11 +81,6 @@
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "검을 든 꽃",
-      "url": "https://page.kakao.com/content/66783957",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
     },
     {
       "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
-    },
-    {
       "title": "0골드로 시작하는 악녀 생활",
       "url": "https://page.kakao.com/content/70831982",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
+    },
+    {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/3776004072/xxlarge"
     }
   ],
-  "updated_at": "2026-11-02T03:35:38+09:00",
+  "updated_at": "2026-11-02T04:34:34+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,29 +163,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
-    },
-    {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "표준규격전사",
-      "url": "https://www.lezhin.com/ko/comic/standardheroes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
-    },
-    {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
+      "title": "매드 독",
+      "url": "https://www.lezhin.com/ko/comic/mad_dog",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
     },
     {
       "title": "안개 바다 위의 샤베트",
@@ -193,19 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
     },
     {
-      "title": "커튼콜 아래그랑",
-      "url": "https://www.lezhin.com/ko/comic/curtain_call",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5/images/tall.jpg"
+      "title": "당신이 나를 가지려 하신다면 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/you_got_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
     },
     {
-      "title": "옆자리 짝꿍의 비밀",
-      "url": "https://www.lezhin.com/ko/comic/secretofjjak",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "몸캠 BJ의 이중생활 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/momcam_bj",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.jpg"
+    },
+    {
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     }
   ]
 }
