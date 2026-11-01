@@ -63,24 +63,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "0골드로 시작하는 악녀 생활",
       "url": "https://page.kakao.com/content/70831982",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=mz9Ur/dJMcafVRzX9/pAHw23PHh7oqF7EkACkb80&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -96,6 +91,11 @@
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "검술명가 막내아들",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/3776004072/xxlarge"
     }
   ],
-  "updated_at": "2026-11-01T16:53:10+09:00",
+  "updated_at": "2026-11-01T17:42:38+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,34 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "타치바나 백작",
-      "url": "https://www.lezhin.com/ko/comic/tachibanabl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.jpg"
-    },
-    {
-      "title": "악역은 곱게 죽고 싶다",
-      "url": "https://www.lezhin.com/ko/comic/villain_death",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "매드 독",
-      "url": "https://www.lezhin.com/ko/comic/mad_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
-    },
-    {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
-    },
-    {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
       "title": "클라우드",
@@ -198,14 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+      "title": "까마귀 기사",
+      "url": "https://www.lezhin.com/ko/comic/crowknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
     },
     {
-      "title": "봄불은 여우불이어라",
-      "url": "https://www.lezhin.com/ko/comic/fox_fire",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777373973626/images/tall.jpg"
+      "title": "용애어부가",
+      "url": "https://www.lezhin.com/ko/comic/dragonlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777526215706/images/tall.jpg"
+    },
+    {
+      "title": "문학소년",
+      "url": "https://www.lezhin.com/ko/comic/literary_boy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.jpg"
+    },
+    {
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+    },
+    {
+      "title": "스키드마크 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/skid_mark_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6356921666568192/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "나는 에이미를 사랑해",
+      "url": "https://www.lezhin.com/ko/comic/i_love_amy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011746156679469/images/tall.jpg"
     }
   ]
 }
