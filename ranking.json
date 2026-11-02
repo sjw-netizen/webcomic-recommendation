@@ -78,14 +78,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
       "title": "검을 든 꽃",
       "url": "https://page.kakao.com/content/66783957",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
     },
     {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=4e1DU/dJMb99VU8Kw/PpTA45QpzoQEBaurJcDN10&filename=th3"
+      "title": "천하제일인의 소꿉친구",
+      "url": "https://page.kakao.com/content/64688681",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cnImpG/dJMcacxTNrZ/eO952UwZx1DHN7wAK7jKj0&filename=th3"
     },
     {
       "title": "흑막 범고래 아기님",
@@ -93,14 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
-      "title": "점괘보는 공녀님",
-      "url": "https://page.kakao.com/content/62596697",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=4e1DU/dJMb99VU8Kw/PpTA45QpzoQEBaurJcDN10&filename=th3"
     }
   ],
   "ridi": [
@@ -155,27 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-02T09:51:16+09:00",
+  "updated_at": "2026-11-02T10:56:50+09:00",
   "lezhin": [
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "내게 게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/naegamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5660040028815360/images/tall.jpg"
-    },
-    {
-      "title": "환관제조일기",
-      "url": "https://www.lezhin.com/ko/comic/castration",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
+      "title": "라온의 남자",
+      "url": "https://www.lezhin.com/ko/comic/raon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6430757328846848/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -183,29 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
+      "title": "나와 호랑이님",
+      "url": "https://www.lezhin.com/ko/comic/mylovetiger",
+      "cover": "https://ccdn.lezhin.com/v2/comics/277/images/tall.jpg"
+    },
+    {
+      "title": "해피 버스데이",
+      "url": "https://www.lezhin.com/ko/comic/happy_birthday_re",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5472207904768000/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+    },
+    {
+      "title": "완벽한 덫 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
+    },
+    {
+      "title": "억만 개의 별보다 너",
+      "url": "https://www.lezhin.com/ko/comic/billion_stars_you",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011756880599679/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
       "title": "당신이 나를 가지려 하신다면 [연재]",
       "url": "https://www.lezhin.com/ko/comic/you_got_me",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "지상낙원의 부적응자",
-      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
-    },
-    {
-      "title": "도망칠수록 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/domangchil_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768352789262/images/tall.jpg"
     }
   ]
 }
