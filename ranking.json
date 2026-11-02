@@ -63,6 +63,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "중세 판타지의 마법사가 되었다",
       "url": "https://page.kakao.com/content/70874414",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
@@ -76,11 +81,6 @@
       "title": "아기는 악당을 키운다",
       "url": "https://page.kakao.com/content/68276174",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DX7oR/dJMcabTKJ03/vFukBJ3kjomnRFVy9G3uEK&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=boEYaz/dJMcahs3gnu/M1mEX2GH1vU393gQngKjg1&filename=th3"
     },
     {
-      "title": "너에게 빼앗을 왕관",
-      "url": "https://page.kakao.com/content/68369749",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cqgeop/dJMcaa8xZiB/woScvM4cWl44w2cjk2syVK&filename=th3"
+      "title": "시한부 아기 의원이 천재인 걸 안 숨김",
+      "url": "https://page.kakao.com/content/67544967",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=embM7L/dJMcaff8fJr/tHKSVmFgD4AsnUAWslnT20&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-03T00:54:59+09:00",
+  "updated_at": "2026-11-03T01:57:00+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,24 +163,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "이림이야기",
-      "url": "https://www.lezhin.com/ko/comic/ilimstory",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
-    {
-      "title": "씨앗 유치원 호떡반 친구들",
-      "url": "https://www.lezhin.com/ko/comic/seed_hotteok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011778226127253/images/tall.jpg"
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
     },
     {
       "title": "애증의 밤",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "짝꿍이랑 나눠먹는 만화",
+      "url": "https://www.lezhin.com/ko/comic/minhee",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5013322411081728/images/tall.jpg"
     },
     {
-      "title": "그 끝에 있는 것",
-      "url": "https://www.lezhin.com/ko/comic/end",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "시선 끝, 30도",
-      "url": "https://www.lezhin.com/ko/comic/stare",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5073458287935488/images/tall.jpg"
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "불사의 저주",
+      "url": "https://www.lezhin.com/ko/comic/curse_of_immortality",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     }
   ]
 }
