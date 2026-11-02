@@ -68,6 +68,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "메카닉: 슬레이어",
+      "url": "https://page.kakao.com/content/71253376",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1U21y/dJMcacrIjdW/UG6sZZBZMBkBzihO8UdzdK&filename=th3"
+    },
+    {
       "title": "아기 호랑이는 다람쥐가 키우겠습니다",
       "url": "https://page.kakao.com/content/71056968",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lyM1e/dJMcaikTQZQ/h6gaZ4pbwokTdhThH5djKK&filename=th3"
@@ -78,9 +83,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
     },
     {
-      "title": "메카닉: 슬레이어",
-      "url": "https://page.kakao.com/content/71253376",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1U21y/dJMcacrIjdW/UG6sZZBZMBkBzihO8UdzdK&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "아기는 악당을 키운다",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DX7oR/dJMcabTKJ03/vFukBJ3kjomnRFVy9G3uEK&filename=th3"
     },
     {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
-    },
-    {
-      "title": "시한부 아기 의원이 천재인 걸 안 숨김",
-      "url": "https://page.kakao.com/content/67544967",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=embM7L/dJMcaff8fJr/tHKSVmFgD4AsnUAWslnT20&filename=th3"
-    },
-    {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-03T03:49:43+09:00",
+  "updated_at": "2026-11-03T04:48:31+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,34 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "탈격소년",
-      "url": "https://www.lezhin.com/ko/comic/undressingpunchboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6190538380541952/images/tall.jpg"
-    },
-    {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
-    },
-    {
-      "title": "별과 하나의 시",
-      "url": "https://www.lezhin.com/ko/comic/sparrow",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5791250995609600/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "미성년",
-      "url": "https://www.lezhin.com/ko/comic/immature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
-    },
-    {
-      "title": "나와 호랑이님",
-      "url": "https://www.lezhin.com/ko/comic/mylovetiger",
-      "cover": "https://ccdn.lezhin.com/v2/comics/277/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
       "title": "이름 없는 가게",
@@ -198,14 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5967542155214848/images/tall.jpg"
     },
     {
+      "title": "미성년",
+      "url": "https://www.lezhin.com/ko/comic/immature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
+    },
+    {
+      "title": "도원암귀",
+      "url": "https://www.lezhin.com/ko/comic/tougen_anki",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6222265342820352/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "연애편지 대신 써드릴까요?",
+      "url": "https://www.lezhin.com/ko/comic/write_loveletter_instead",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011748599270451/images/tall.jpg"
+    },
+    {
       "title": "금요정의 금요극장",
       "url": "https://www.lezhin.com/ko/comic/goldpixinema",
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "얽힌 가지 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/eol_kin_geo_ji",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357856381/images/tall.jpg"
+      "title": "해후 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/haehwu_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011779866867962/images/tall.jpg"
+    },
+    {
+      "title": "나와 호랑이님",
+      "url": "https://www.lezhin.com/ko/comic/mylovetiger",
+      "cover": "https://ccdn.lezhin.com/v2/comics/277/images/tall.jpg"
     }
   ]
 }
