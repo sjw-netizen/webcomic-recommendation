@@ -63,11 +63,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "중세 판타지의 마법사가 되었다",
       "url": "https://page.kakao.com/content/70874414",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
@@ -78,14 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=lyM1e/dJMcaikTQZQ/h6gaZ4pbwokTdhThH5djKK&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "아기는 악당을 키운다",
       "url": "https://page.kakao.com/content/68276174",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DX7oR/dJMcabTKJ03/vFukBJ3kjomnRFVy9G3uEK&filename=th3"
-    },
-    {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
       "title": "검을 든 꽃",
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cblR3v/dJMcahKEo7G/gYEsXjVIzbagl6Hg2VMK1K&filename=th3"
     },
     {
-      "title": "결혼 장사2 ~잊히지 않을 노래~",
-      "url": "https://page.kakao.com/content/67242927",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=boEYaz/dJMcahs3gnu/M1mEX2GH1vU393gQngKjg1&filename=th3"
-    },
-    {
       "title": "시한부 아기 의원이 천재인 걸 안 숨김",
       "url": "https://page.kakao.com/content/67544967",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=embM7L/dJMcaff8fJr/tHKSVmFgD4AsnUAWslnT20&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "너에게 빼앗을 왕관",
+      "url": "https://page.kakao.com/content/68369749",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cqgeop/dJMcaa8xZiB/woScvM4cWl44w2cjk2syVK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-03T01:57:00+09:00",
+  "updated_at": "2026-11-03T02:53:55+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,9 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "클라우드",
-      "url": "https://www.lezhin.com/ko/comic/cloud",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+      "title": "삼국지 가후전 R",
+      "url": "https://www.lezhin.com/ko/comic/gahu_r",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -173,29 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "박한후의 매니저",
-      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+      "title": "인 마이 클로젯",
+      "url": "https://www.lezhin.com/ko/comic/in_my_closet",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4577344495091712/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
-    },
-    {
-      "title": "짝꿍이랑 나눠먹는 만화",
-      "url": "https://www.lezhin.com/ko/comic/minhee",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5013322411081728/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
-    },
-    {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "불사의 저주",
@@ -203,9 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011789965480378/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "바른쀼생활",
+      "url": "https://www.lezhin.com/ko/comic/20_nov",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4566161041522688/images/tall.jpg"
+    },
+    {
+      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
+    },
+    {
+      "title": "박한후의 매니저",
+      "url": "https://www.lezhin.com/ko/comic/parkhanhus_manager",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4605673158279168/images/tall.jpg"
+    },
+    {
+      "title": "레가스 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/regas",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4926773083701248/images/tall.jpg"
     }
   ]
 }
