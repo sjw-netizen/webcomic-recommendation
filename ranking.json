@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
     },
     {
-      "title": "잊혀진 들판",
-      "url": "https://page.kakao.com/content/69141031",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
-    },
-    {
       "title": "파멸의 잔, 돌려 드리겠습니다",
       "url": "https://page.kakao.com/content/70934512",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
+    },
+    {
+      "title": "잊혀진 들판",
+      "url": "https://page.kakao.com/content/69141031",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -73,14 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "세이렌: 악당과 계약 가족이 되었다",
-      "url": "https://page.kakao.com/content/57860238",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
-    },
-    {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
+    },
+    {
+      "title": "세이렌: 악당과 계약 가족이 되었다",
+      "url": "https://page.kakao.com/content/57860238",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
       "title": "인소의 법칙",
@@ -88,14 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "계모인데, 딸이 너무 귀여워",
       "url": "https://page.kakao.com/content/56714856",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "악녀라서 편하고 좋은데요?",
@@ -155,32 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T02:44:29+09:00",
+  "updated_at": "2026-11-04T03:43:57+09:00",
   "lezhin": [
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
-    },
-    {
-      "title": "복학생",
-      "url": "https://www.lezhin.com/ko/comic/return",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5319225323683840/images/tall.jpg"
-    },
-    {
-      "title": "그런 게 아닙니다만 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/not_saying_that_rd",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5602008464687104/images/tall.jpg"
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -188,24 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "몸캠 BJ의 이중생활 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/momcam_bj",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.jpg"
+    },
+    {
+      "title": "안개 바다 위의 샤베트",
+      "url": "https://www.lezhin.com/ko/comic/shabetsea",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
+    },
+    {
+      "title": "광안 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/madeye_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "악역은 곱게 죽고 싶다",
+      "url": "https://www.lezhin.com/ko/comic/villain_death",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
+    },
+    {
       "title": "그림자의 영역 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
     },
     {
-      "title": "결혼시차 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/marriage_jet_lag_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790062669091/images/tall.jpg"
-    },
-    {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "완벽한 덫 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
     }
   ]
 }
