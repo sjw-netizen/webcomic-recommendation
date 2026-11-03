@@ -53,14 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "서브 남주네 기사단장입니다",
-      "url": "https://page.kakao.com/content/68234732",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
-    },
-    {
       "title": "파멸의 잔, 돌려 드리겠습니다",
       "url": "https://page.kakao.com/content/70934512",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
+    },
+    {
+      "title": "서브 남주네 기사단장입니다",
+      "url": "https://page.kakao.com/content/68234732",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
     },
     {
       "title": "잊혀진 들판",
@@ -78,6 +78,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
     },
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "세이렌: 악당과 계약 가족이 되었다",
       "url": "https://page.kakao.com/content/57860238",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
@@ -93,14 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "악녀라서 편하고 좋은데요?",
-      "url": "https://page.kakao.com/content/60728286",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3"
+      "title": "망나니 1왕자가 되었다",
+      "url": "https://page.kakao.com/content/68486653",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,42 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/4928005697/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T03:43:57+09:00",
+  "updated_at": "2026-11-04T04:46:36+09:00",
   "lezhin": [
-    {
-      "title": "4컷용사",
-      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "몸캠 BJ의 이중생활 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/momcam_bj",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.jpg"
+      "title": "하늘의 가녘",
+      "url": "https://www.lezhin.com/ko/comic/edge_of_sky",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5154622728896512/images/tall.jpg"
     },
     {
-      "title": "안개 바다 위의 샤베트",
-      "url": "https://www.lezhin.com/ko/comic/shabetsea",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
+      "title": "지젤 씨의 피[개정판]",
+      "url": "https://www.lezhin.com/ko/comic/giselle_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6607767147184128/images/tall.jpg"
     },
     {
-      "title": "광안 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/madeye_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "파라노이드 안드로이드",
+      "url": "https://www.lezhin.com/ko/comic/pa",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5756808370585600/images/tall.jpg"
+    },
+    {
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
       "title": "악역은 곱게 죽고 싶다",
@@ -198,14 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011791785893452/images/tall.jpg"
     },
     {
-      "title": "그림자의 영역 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "완벽한 덫 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
+      "title": "괴기 클럽",
+      "url": "https://www.lezhin.com/ko/comic/mysteryclub",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011779236002657/images/tall.jpg"
     }
   ]
 }
