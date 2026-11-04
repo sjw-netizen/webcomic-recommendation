@@ -73,6 +73,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
@@ -83,14 +88,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZUdAc/dJMcahFXe6c/sp20WK7oc0fftBk5A2HkkK&filename=th3"
     },
     {
-      "title": "잊혀진 들판",
-      "url": "https://page.kakao.com/content/69141031",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "악녀라서 편하고 좋은데요?",
+      "url": "https://page.kakao.com/content/60728286",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3"
     },
     {
       "title": "세이렌: 악당과 계약 가족이 되었다",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
-      "title": "망나니 1왕자가 되었다",
-      "url": "https://page.kakao.com/content/68486653",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3"
+      "title": "중세 판타지의 마법사가 되었다",
+      "url": "https://page.kakao.com/content/70874414",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T12:46:52+09:00",
+  "updated_at": "2026-11-04T13:51:36+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,14 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "그 끝에 있는 것",
-      "url": "https://www.lezhin.com/ko/comic/end",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "달의 상자",
+      "url": "https://www.lezhin.com/ko/comic/dalbox",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.jpg"
     },
     {
       "title": "이웃집 길드원",
@@ -178,19 +173,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     },
     {
-      "title": "끊을 수 없는 나쁜 짓 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/bad_habit_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011762394684455/images/tall.jpg"
+      "title": "Day Off(데이 오프)",
+      "url": "https://www.lezhin.com/ko/comic/dayoff",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6621816780816384/images/tall.jpg"
     },
     {
-      "title": "지젤 씨의 피[개정판]",
-      "url": "https://www.lezhin.com/ko/comic/giselle_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6607767147184128/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "인조체온 36.7도 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/temp_36_7",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011779434667582/images/tall.jpg"
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+    },
+    {
+      "title": "A와 B의 초상",
+      "url": "https://www.lezhin.com/ko/comic/portrait",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6735413248917504/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "레바툰",
@@ -198,14 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
     },
     {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "끊을 수 없는 나쁜 짓 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/bad_habit_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762394684455/images/tall.jpg"
     }
   ]
 }
