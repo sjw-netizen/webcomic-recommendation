@@ -68,9 +68,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
       "title": "서브 남주네 기사단장입니다",
       "url": "https://page.kakao.com/content/68234732",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
       "title": "템빨",
@@ -91,16 +101,6 @@
       "title": "오작교는 싫습니다",
       "url": "https://page.kakao.com/content/60720041",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
-      "title": "막내가 뭔갈 많이 숨김",
-      "url": "https://page.kakao.com/content/68042237",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-05T04:53:25+09:00",
+  "updated_at": "2026-11-05T05:47:27+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,19 +163,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+    },
+    {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "부랄친구",
-      "url": "https://www.lezhin.com/ko/comic/bff",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "우주의 별",
-      "url": "https://www.lezhin.com/ko/comic/woojoo_star",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785132418055/images/tall.jpg"
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "매운맛 커플",
@@ -183,29 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "인조체온 36.7도 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/temp_36_7",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011779434667582/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     },
     {
       "title": "발화",
       "url": "https://www.lezhin.com/ko/comic/inflame",
       "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
-    },
-    {
-      "title": "메이드 인 어비스",
-      "url": "https://www.lezhin.com/ko/comic/made_in_abyss",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6076731264663552/images/tall.jpg"
-    },
-    {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
     }
   ]
 }
