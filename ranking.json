@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "잊혀진 들판",
-      "url": "https://page.kakao.com/content/69141031",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
-    },
-    {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
+    },
+    {
+      "title": "잊혀진 들판",
+      "url": "https://page.kakao.com/content/69141031",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
     },
     {
       "title": "세이렌: 악당과 계약 가족이 되었다",
@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     },
     {
-      "title": "악녀라서 편하고 좋은데요?",
-      "url": "https://page.kakao.com/content/60728286",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3"
-    },
-    {
       "title": "계모인데, 딸이 너무 귀여워",
       "url": "https://page.kakao.com/content/56714856",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "중세 판타지의 마법사가 되었다",
       "url": "https://page.kakao.com/content/70874414",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
+    },
+    {
+      "title": "인소의 법칙",
+      "url": "https://page.kakao.com/content/52610652",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
+    },
+    {
+      "title": "악녀라서 편하고 좋은데요?",
+      "url": "https://page.kakao.com/content/60728286",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T09:51:54+09:00",
+  "updated_at": "2026-11-04T10:53:48+09:00",
   "lezhin": [
     {
-      "title": "가십(gossip)",
-      "url": "https://www.lezhin.com/ko/comic/gossip",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
-    },
-    {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
       "title": "소꿉친구의 가이드가 되었다 [연재]",
@@ -173,39 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
     },
     {
-      "title": "소년을 위로해줘",
-      "url": "https://www.lezhin.com/ko/comic/cheerup_boy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5058505603678208/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "결벽증 동기의 망상익애",
-      "url": "https://www.lezhin.com/ko/comic/mysophobia_delusion_love",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5031096327798784/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
       "title": "블랙보이",
       "url": "https://www.lezhin.com/ko/comic/blackboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "매운맛 커플",
+      "url": "https://www.lezhin.com/ko/comic/hotcouple",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
+    },
+    {
+      "title": "너드 프로젝트(Nerd Project) [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/nerd_project_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5280450204205056/images/tall.jpg"
+    },
+    {
+      "title": "이림이야기",
+      "url": "https://www.lezhin.com/ko/comic/ilimstory",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.jpg"
+    },
+    {
+      "title": "비하인드 스캔들",
+      "url": "https://www.lezhin.com/ko/comic/behind_scandal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6520515475996672/images/tall.jpg"
+    },
+    {
+      "title": "마도조사",
+      "url": "https://www.lezhin.com/ko/comic/modaozushi",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5778025909125120/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     }
   ]
 }
