@@ -53,24 +53,24 @@
   ],
   "kakao": [
     {
-      "title": "나 혼자만 레벨업 : 라그나로크",
-      "url": "https://page.kakao.com/content/64612703",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
-    },
-    {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
-      "title": "파멸의 잔, 돌려 드리겠습니다",
-      "url": "https://page.kakao.com/content/70934512",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
+      "title": "나 혼자만 레벨업 : 라그나로크",
+      "url": "https://page.kakao.com/content/64612703",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
       "title": "픽 미 업!",
       "url": "https://page.kakao.com/content/60914825",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+    },
+    {
+      "title": "파멸의 잔, 돌려 드리겠습니다",
+      "url": "https://page.kakao.com/content/70934512",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
     },
     {
       "title": "서브 남주네 기사단장입니다",
@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "계모인데, 딸이 너무 귀여워",
+      "url": "https://page.kakao.com/content/56714856",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
+    },
+    {
+      "title": "관존 이강진",
+      "url": "https://page.kakao.com/content/60105861",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eVV1V/hAJmzJdgCL/Rk8Qte6RhKT6Y9huBxLy8K&filename=th3"
+    },
+    {
       "title": "힘숨찐 어린이가 아빠를 찾습니다",
       "url": "https://page.kakao.com/content/68288343",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
-    },
-    {
-      "title": "막내가 뭔갈 많이 숨김",
-      "url": "https://page.kakao.com/content/68042237",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-05T00:50:33+09:00",
+  "updated_at": "2026-11-05T01:51:19+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,9 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "고백 상대를 잘못 골랐습니다",
+      "url": "https://www.lezhin.com/ko/comic/confession_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011741670675572/images/tall.jpg"
     },
     {
       "title": "매운맛 커플",
@@ -173,14 +173,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
+    },
+    {
       "title": "발화",
       "url": "https://www.lezhin.com/ko/comic/inflame",
       "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
-      "title": "당신이 나를 가지려 하신다면 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/you_got_me",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399448974/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -188,24 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "옆자리 짝꿍의 비밀",
-      "url": "https://www.lezhin.com/ko/comic/secretofjjak",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
       "title": "복수하려다 남편을 꼬셔버렸다",
       "url": "https://www.lezhin.com/ko/comic/revenge_husband_flirting",
       "cover": "https://ccdn.lezhin.com/v2/comics/6163779083763712/images/tall.jpg"
-    },
-    {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
     }
   ]
 }
