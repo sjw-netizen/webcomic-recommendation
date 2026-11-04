@@ -73,9 +73,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
-      "title": "나 혼자 소드 마스터",
-      "url": "https://page.kakao.com/content/70835584",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZUdAc/dJMcahFXe6c/sp20WK7oc0fftBk5A2HkkK&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "막내가 뭔갈 많이 숨김",
@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "망나니 1왕자가 되었다",
       "url": "https://page.kakao.com/content/68486653",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3"
     },
     {
-      "title": "중세 판타지의 마법사가 되었다",
-      "url": "https://page.kakao.com/content/70874414",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=f3Vp8/dJMcadjuGeM/Rivu8kOpJhoIe4s6RZu7Lk&filename=th3"
+      "title": "나 혼자 소드 마스터",
+      "url": "https://page.kakao.com/content/70835584",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZUdAc/dJMcahFXe6c/sp20WK7oc0fftBk5A2HkkK&filename=th3"
+    },
+    {
+      "title": "세이렌: 악당과 계약 가족이 되었다",
+      "url": "https://page.kakao.com/content/57860238",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T14:52:48+09:00",
+  "updated_at": "2026-11-04T16:00:22+09:00",
   "lezhin": [
     {
-      "title": "커튼콜 아래그랑",
-      "url": "https://www.lezhin.com/ko/comic/curtain_call",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5/images/tall.jpg"
-    },
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,14 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "강하다! 이서영",
-      "url": "https://www.lezhin.com/ko/comic/strong",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4842032246620160/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "이윽고 네가 된다",
+      "url": "https://www.lezhin.com/ko/comic/bloom_into_you",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5249977139068928/images/tall.jpg"
     },
     {
       "title": "블랙보이",
@@ -188,9 +183,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "영원한 계약 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
+    },
+    {
+      "title": "불멸의 날들",
+      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
     },
     {
       "title": "달의 상자",
@@ -198,14 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.jpg"
     },
     {
-      "title": "영원한 계약 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
+      "title": "비하인드 스캔들",
+      "url": "https://www.lezhin.com/ko/comic/behind_scandal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6520515475996672/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "A와 B의 초상",
+      "url": "https://www.lezhin.com/ko/comic/portrait",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6735413248917504/images/tall.jpg"
     }
   ]
 }
