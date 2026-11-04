@@ -73,11 +73,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
       "title": "힘숨찐 어린이가 아빠를 찾습니다",
       "url": "https://page.kakao.com/content/68288343",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
@@ -88,14 +83,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
       "title": "계모인데, 딸이 너무 귀여워",
       "url": "https://page.kakao.com/content/56714856",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "막내가 뭔갈 많이 숨김",
@@ -155,32 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T17:51:30+09:00",
+  "updated_at": "2026-11-04T18:56:13+09:00",
   "lezhin": [
-    {
-      "title": "강하다! 이서영",
-      "url": "https://www.lezhin.com/ko/comic/strong",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4842032246620160/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "킬링서클",
-      "url": "https://www.lezhin.com/ko/comic/killing_circle",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4623518973820928/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "도리도심",
-      "url": "https://www.lezhin.com/ko/comic/doridosim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6404357085200384/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
-      "title": "매치스틱 트웬티",
-      "url": "https://www.lezhin.com/ko/comic/matchstick20",
-      "cover": "https://ccdn.lezhin.com/v2/comics/64/images/tall.jpg"
+      "title": "영원한 계약 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -188,24 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "완벽한 덫 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_trap",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011791424202924/images/tall.jpg"
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "미성년",
-      "url": "https://www.lezhin.com/ko/comic/immature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "내세에는 남남이 좋겠어",
+      "url": "https://www.lezhin.com/ko/comic/each_other",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5185174595764224/images/tall.jpg"
     },
     {
-      "title": "영원한 계약 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
+    },
+    {
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
     }
   ]
 }
