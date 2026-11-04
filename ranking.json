@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "서브 남주네 기사단장입니다",
       "url": "https://page.kakao.com/content/68234732",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
       "title": "힘숨찐 어린이가 아빠를 찾습니다",
@@ -73,24 +73,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
     },
     {
-      "title": "메카닉: 슬레이어",
-      "url": "https://page.kakao.com/content/71253376",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1U21y/dJMcacrIjdW/UG6sZZBZMBkBzihO8UdzdK&filename=th3"
-    },
-    {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DHNpT/dJMcabF8GSj/MFLZL1iC6U6Sz6mcSXhnkK&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "계모인데, 딸이 너무 귀여워",
@@ -98,9 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=DnQOs/dJMcabqfReY/zzTAUd7fjRoVSD1upiOdE0&filename=th3"
     },
     {
-      "title": "망나니 1왕자가 되었다",
-      "url": "https://page.kakao.com/content/68486653",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsInVE/dJMcaaNJLLg/AZ81Cyh9AtYh4Jm0naschk&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "악녀라서 편하고 좋은데요?",
+      "url": "https://page.kakao.com/content/60728286",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=l0XA3/dJMcafGm4Gv/bTK9hRj7Wf6VYZWBqL7df0&filename=th3"
+    },
+    {
+      "title": "세이렌: 악당과 계약 가족이 되었다",
+      "url": "https://page.kakao.com/content/57860238",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
+    },
+    {
+      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
+      "url": "https://page.kakao.com/content/60800000",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-04T21:54:14+09:00",
+  "updated_at": "2026-11-04T23:07:40+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,24 +163,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "불멸의 날들",
+      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
     },
     {
-      "title": "하라는 공부는 안하고",
-      "url": "https://www.lezhin.com/ko/comic/academy_of_card",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6210470602932224/images/tall.jpg"
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "알아채기 쉬운",
-      "url": "https://www.lezhin.com/ko/comic/easy_to_notice",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132276032929792/images/tall.jpg"
+      "title": "황후 애첩 스캔들 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/empress_scandal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399287469/images/tall.jpg"
     },
     {
-      "title": "사랑스런 쿠니타마",
-      "url": "https://www.lezhin.com/ko/comic/lovely_kunitama",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6015646648041472/images/tall.jpg"
+      "title": "복수하려다 남편을 꼬셔버렸다",
+      "url": "https://www.lezhin.com/ko/comic/revenge_husband_flirting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6163779083763712/images/tall.jpg"
     },
     {
       "title": "블랙보이",
@@ -188,14 +188,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "타몬 군 지금 어느 쪽?!",
-      "url": "https://www.lezhin.com/ko/comic/tamonkun_dochi",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5676468246740992/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -203,9 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
     }
   ]
 }
