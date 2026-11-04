@@ -63,11 +63,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "픽 미 업!",
       "url": "https://page.kakao.com/content/60914825",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
@@ -78,9 +73,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
     },
     {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
       "title": "오작교는 싫습니다",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3"
     },
     {
-      "title": "힘숨찐 어린이가 아빠를 찾습니다",
-      "url": "https://page.kakao.com/content/68288343",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
-    },
-    {
-      "title": "재앙급 영웅님이 귀환하셨다",
-      "url": "https://page.kakao.com/content/58474045",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3"
-    },
-    {
       "title": "파멸의 잔, 돌려 드리겠습니다",
       "url": "https://page.kakao.com/content/70934512",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=e6daY/dJMcafIsJ2x/Ct7sKJR38PpPkeJRv1z0cK&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4800000397/xxlarge"
     }
   ],
-  "updated_at": "2026-11-05T07:42:15+09:00",
+  "updated_at": "2026-11-05T08:38:54+09:00",
   "lezhin": [
     {
-      "title": "소꿉 오빠 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/sokkup_oppa_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011757401992902/images/tall.jpg"
+      "title": "흑집사",
+      "url": "https://www.lezhin.com/ko/comic/black_butler",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6649704469364736/images/tall.jpg"
     },
     {
-      "title": "백 스트리트 걸스",
-      "url": "https://www.lezhin.com/ko/comic/backstreetgirls",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5515862393618432/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+      "title": "금복이 이야기",
+      "url": "https://www.lezhin.com/ko/comic/kumbok_story",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011779872563197/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -183,14 +178,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "일하지 않는 두 사람",
-      "url": "https://www.lezhin.com/ko/comic/dont_work",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5909171953401856/images/tall.jpg"
+      "title": "오! 나의 여신님(신장판)",
+      "url": "https://www.lezhin.com/ko/comic/ohmygoddess",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4743383766335488/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "까마귀 기사",
+      "url": "https://www.lezhin.com/ko/comic/crowknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
       "title": "매운맛 커플",
@@ -198,14 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
-    },
-    {
-      "title": "금복이 이야기",
-      "url": "https://www.lezhin.com/ko/comic/kumbok_story",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011779872563197/images/tall.jpg"
+      "title": "하테마테",
+      "url": "https://www.lezhin.com/ko/comic/hate_mate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
     }
   ]
 }
