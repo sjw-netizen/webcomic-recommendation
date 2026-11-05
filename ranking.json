@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "서브 남주네 기사단장입니다",
-      "url": "https://page.kakao.com/content/68234732",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
-    },
-    {
       "title": "힘숨찐 어린이가 아빠를 찾습니다",
       "url": "https://page.kakao.com/content/68288343",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
     },
     {
-      "title": "오작교는 싫습니다",
-      "url": "https://page.kakao.com/content/60720041",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3"
+      "title": "서브 남주네 기사단장입니다",
+      "url": "https://page.kakao.com/content/68234732",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
     },
     {
       "title": "재앙급 영웅님이 귀환하셨다",
       "url": "https://page.kakao.com/content/58474045",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3"
+    },
+    {
+      "title": "오작교는 싫습니다",
+      "url": "https://page.kakao.com/content/60720041",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cpMlEa/dJMcabsKeZU/YgyvUE9XVImZUTzA7K3cC0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,42 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/3543003682/xxlarge"
     }
   ],
-  "updated_at": "2026-11-05T13:53:38+09:00",
+  "updated_at": "2026-11-05T14:55:19+09:00",
   "lezhin": [
     {
-      "title": "메디컬 환생",
-      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
-    },
-    {
-      "title": "면사포를 쓰고픈 남자",
-      "url": "https://www.lezhin.com/ko/comic/man_in_a_veil",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6277832487534592/images/tall.jpg"
-    },
-    {
-      "title": "너의 돈이 보여",
-      "url": "https://www.lezhin.com/ko/comic/moneylover",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
-    },
-    {
-      "title": "그녀의 암캐",
-      "url": "https://www.lezhin.com/ko/comic/her_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/376/images/tall.jpg"
-    },
-    {
-      "title": "최강의 냄새",
-      "url": "https://www.lezhin.com/ko/comic/the_strongest_smell",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5318548228997120/images/tall.jpg"
-    },
-    {
-      "title": "노아의 숲",
-      "url": "https://www.lezhin.com/ko/comic/noahs_forest",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5166215985299456/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -198,14 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "너의 돈이 보여",
+      "url": "https://www.lezhin.com/ko/comic/moneylover",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
+    },
+    {
+      "title": "뉴바이블",
+      "url": "https://www.lezhin.com/ko/comic/new_bible",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011740482792763/images/tall.jpg"
+    },
+    {
+      "title": "최강의 냄새",
+      "url": "https://www.lezhin.com/ko/comic/the_strongest_smell",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5318548228997120/images/tall.jpg"
+    },
+    {
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
+    },
+    {
+      "title": "2주간 재워주세요",
+      "url": "https://www.lezhin.com/ko/comic/2weeks",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5053488885465088/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     }
   ]
 }
