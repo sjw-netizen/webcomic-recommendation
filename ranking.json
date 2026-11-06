@@ -68,16 +68,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "보답은 결혼으로 부탁할게요!",
-      "url": "https://page.kakao.com/content/70987189",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
-    },
-    {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
@@ -86,6 +76,16 @@
       "title": "샤크",
       "url": "https://page.kakao.com/content/48990437",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
+    },
+    {
+      "title": "악녀님이 남자인 걸 나만 몰라",
+      "url": "https://page.kakao.com/content/68369348",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+    },
+    {
+      "title": "보답은 결혼으로 부탁할게요!",
+      "url": "https://page.kakao.com/content/70987189",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
     },
     {
       "title": "이제 울어도 될까요?",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T00:44:20+09:00",
+  "updated_at": "2026-11-07T01:47:09+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -163,9 +163,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "메디컬 환생",
-      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
+    },
+    {
+      "title": "인 마이 클로젯",
+      "url": "https://www.lezhin.com/ko/comic/in_my_closet",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4577344495091712/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -173,24 +183,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+      "title": "그 끝에 있는 것",
+      "url": "https://www.lezhin.com/ko/comic/end",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "캔디맨",
+      "url": "https://www.lezhin.com/ko/comic/candy_man",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5780080926720000/images/tall.jpg"
     },
     {
-      "title": "지상낙원의 부적응자",
-      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
       "title": "클라우드",
@@ -198,14 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "백억년을 자는 남자",
-      "url": "https://www.lezhin.com/ko/comic/sleepingman",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
-    },
-    {
-      "title": "그녀가 공작저로 가야 했던 사정",
-      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
+      "title": "지상낙원의 부적응자",
+      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
     }
   ]
 }
