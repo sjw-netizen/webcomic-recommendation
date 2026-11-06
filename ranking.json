@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업 : 라그나로크",
-      "url": "https://page.kakao.com/content/64612703",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업 : 라그나로크",
+      "url": "https://page.kakao.com/content/64612703",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
       "title": "네 목을 비트는 새벽",
@@ -83,24 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
-      "title": "모두의 황녀님",
-      "url": "https://page.kakao.com/content/61951206",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=d2Upa/dJMcagOznQ4/LoWEdoqE3slFiezBzBz111&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "백작가의 망나니가 되었다",
-      "url": "https://page.kakao.com/content/55553244",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
+      "title": "모두의 황녀님",
+      "url": "https://page.kakao.com/content/61951206",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=d2Upa/dJMcagOznQ4/LoWEdoqE3slFiezBzBz111&filename=th3"
     },
     {
       "title": "힘숨찐 어린이가 아빠를 찾습니다",
       "url": "https://page.kakao.com/content/68288343",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
+    },
+    {
+      "title": "서브 남주네 기사단장입니다",
+      "url": "https://page.kakao.com/content/68234732",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-06T21:54:07+09:00",
+  "updated_at": "2026-11-06T23:06:50+09:00",
   "lezhin": [
     {
-      "title": "못난이 공녀가 되었습니다",
-      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
+      "title": "그녀가 공작저로 가야 했던 사정",
+      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
     },
     {
-      "title": "악당의 딸은 회귀해봤자",
-      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
+      "title": "대표님의 삐뚤어진 사랑",
+      "url": "https://www.lezhin.com/ko/comic/ceos_crooked_love",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5459019290705920/images/tall.jpg"
     },
     {
-      "title": "하루종일 조아영",
-      "url": "https://www.lezhin.com/ko/comic/joayoung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4537933260652544/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -178,34 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "남의 BL만화",
+      "url": "https://www.lezhin.com/ko/comic/others_bl_comic",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4519516459565056/images/tall.jpg"
     },
     {
-      "title": "고양이 아가씨와 경호원들",
-      "url": "https://www.lezhin.com/ko/comic/cat_lady",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011761132866636/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "아가씨와 우렁총각",
-      "url": "https://www.lezhin.com/ko/comic/snail",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
+      "title": "이웃집 길드원",
+      "url": "https://www.lezhin.com/ko/comic/neighbor_bf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.jpg"
     },
     {
-      "title": "우리사이느은",
-      "url": "https://www.lezhin.com/ko/comic/woori",
-      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
+      "title": "백억년을 자는 남자",
+      "url": "https://www.lezhin.com/ko/comic/sleepingman",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
     },
     {
-      "title": "그녀가 공작저로 가야 했던 사정",
-      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
+      "title": "노멀 모드",
+      "url": "https://www.lezhin.com/ko/comic/normal_mode",
+      "cover": "https://ccdn.lezhin.com/v2/comics/97/images/tall.jpg"
     }
   ]
 }
