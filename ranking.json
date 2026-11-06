@@ -53,14 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "보답은 결혼으로 부탁할게요!",
-      "url": "https://page.kakao.com/content/70987189",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
-    },
-    {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+    },
+    {
+      "title": "보답은 결혼으로 부탁할게요!",
+      "url": "https://page.kakao.com/content/70987189",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
     },
     {
       "title": "이제 울어도 될까요?",
@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     },
     {
-      "title": "네 목을 비트는 새벽",
-      "url": "https://page.kakao.com/content/67971553",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
-    },
-    {
       "title": "나 혼자만 레벨업 : 라그나로크",
       "url": "https://page.kakao.com/content/64612703",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
+    },
+    {
+      "title": "네 목을 비트는 새벽",
+      "url": "https://page.kakao.com/content/67971553",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -83,19 +83,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "SSS급 죽어야 사는 헌터",
-      "url": "https://page.kakao.com/content/56243215",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "서브 남주네 기사단장입니다",
-      "url": "https://page.kakao.com/content/68234732",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bmNdfz/dJMcadw60aW/Te9U1FzwHmnaU3OY0C4sHk&filename=th3"
+      "title": "SSS급 죽어야 사는 헌터",
+      "url": "https://page.kakao.com/content/56243215",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
+    },
+    {
+      "title": "모두의 황녀님",
+      "url": "https://page.kakao.com/content/61951206",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=d2Upa/dJMcagOznQ4/LoWEdoqE3slFiezBzBz111&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업",
@@ -155,12 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-06T19:58:05+09:00",
+  "updated_at": "2026-11-06T20:50:16+09:00",
   "lezhin": [
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "메디컬 환생",
+      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+    },
+    {
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
+    },
+    {
+      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -168,29 +178,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "우리사이느은",
-      "url": "https://www.lezhin.com/ko/comic/woori",
-      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
-    },
-    {
-      "title": "너의 돈이 보여",
-      "url": "https://www.lezhin.com/ko/comic/moneylover",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
-    },
-    {
-      "title": "아가씨와 우렁총각",
-      "url": "https://www.lezhin.com/ko/comic/snail",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "천지해",
@@ -198,14 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     },
     {
-      "title": "숙부는 무너뜨리고 싶었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/uncle_ruin",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787714028631/images/tall.jpg"
+      "title": "넷카마 펀치!!!",
+      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
+    },
+    {
+      "title": "안개 바다 위의 샤베트",
+      "url": "https://www.lezhin.com/ko/comic/shabetsea",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011770946139370/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     }
   ]
 }
