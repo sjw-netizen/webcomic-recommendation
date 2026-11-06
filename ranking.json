@@ -53,14 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
-    },
-    {
       "title": "눈먼 공작과 약혼했다",
       "url": "https://page.kakao.com/content/68090786",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
       "title": "로그인 무림",
@@ -78,9 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+      "title": "흑표 가문의 설표 아기님",
+      "url": "https://page.kakao.com/content/65913268",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
     },
     {
       "title": "보답은 결혼으로 부탁할게요!",
@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
       "title": "네 목을 비트는 새벽",
       "url": "https://page.kakao.com/content/67971553",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
+    },
+    {
+      "title": "악녀님이 남자인 걸 나만 몰라",
+      "url": "https://page.kakao.com/content/68369348",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T01:47:09+09:00",
+  "updated_at": "2026-11-07T02:44:37+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,14 +168,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "우리사이느은",
-      "url": "https://www.lezhin.com/ko/comic/woori",
-      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
-    },
-    {
-      "title": "인 마이 클로젯",
-      "url": "https://www.lezhin.com/ko/comic/in_my_closet",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4577344495091712/images/tall.jpg"
+      "title": "이번 생, 끝까지 살아남겠습니다",
+      "url": "https://www.lezhin.com/ko/comic/this_life_survival",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776819700730/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -183,29 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
+      "title": "너의 돈이 보여",
+      "url": "https://www.lezhin.com/ko/comic/moneylover",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
+    },
+    {
       "title": "그 끝에 있는 것",
       "url": "https://www.lezhin.com/ko/comic/end",
       "cover": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.jpg"
     },
     {
-      "title": "캔디맨",
-      "url": "https://www.lezhin.com/ko/comic/candy_man",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5780080926720000/images/tall.jpg"
+      "title": "그녀가 공작저로 가야 했던 사정",
+      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
       "title": "클라우드",
       "url": "https://www.lezhin.com/ko/comic/cloud",
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
-    },
-    {
-      "title": "지상낙원의 부적응자",
-      "url": "https://www.lezhin.com/ko/comic/misfit_in_paradise",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785139197610/images/tall.jpg"
     }
   ]
 }
