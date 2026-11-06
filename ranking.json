@@ -68,19 +68,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
-      "title": "SSS급 죽어야 사는 헌터",
-      "url": "https://page.kakao.com/content/56243215",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
-    },
-    {
       "title": "이제 울어도 될까요?",
       "url": "https://page.kakao.com/content/68053528",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
-    },
-    {
-      "title": "천재 궁수의 스트리밍",
-      "url": "https://page.kakao.com/content/64007563",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=4XuuT/dJMb99VVpKn/LhUYoJYmGxCeDhFucmtZR1&filename=th3"
     },
     {
       "title": "네 목을 비트는 새벽",
@@ -88,19 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "모두의 황녀님",
+      "url": "https://page.kakao.com/content/61951206",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=6hbts/hAJmLQDxNo/C2kX9mAKrtePsJ8JqaZVN1&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "SSS급 죽어야 사는 헌터",
+      "url": "https://page.kakao.com/content/56243215",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "백작가의 망나니가 되었다",
+      "url": "https://page.kakao.com/content/55553244",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ooxqn/dJMcag6ypQJ/ZtCKlS9BZj4eGpr43OwXJ1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-06T14:53:33+09:00",
+  "updated_at": "2026-11-06T16:03:40+09:00",
   "lezhin": [
     {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
-    },
-    {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
+      "title": "까마귀 기사",
+      "url": "https://www.lezhin.com/ko/comic/crowknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -178,24 +173,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "타의적 로맨스",
+      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
     },
     {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
-    },
-    {
-      "title": "너, 왜 이렇게 커? [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/why_big_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011727411644131/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
       "title": "매운맛 커플",
@@ -203,9 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "낮에 뜨는 별",
+      "url": "https://www.lezhin.com/ko/comic/stars_rise_day",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6719108801691648/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     }
   ]
 }
