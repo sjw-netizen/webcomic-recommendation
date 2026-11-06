@@ -63,9 +63,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업 : 라그나로크",
-      "url": "https://page.kakao.com/content/64612703",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
+      "title": "이제 울어도 될까요?",
+      "url": "https://page.kakao.com/content/68053528",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     },
     {
       "title": "SSS급 죽어야 사는 헌터",
@@ -73,19 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
     },
     {
-      "title": "이제 울어도 될까요?",
-      "url": "https://page.kakao.com/content/68053528",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
+      "title": "나 혼자만 레벨업 : 라그나로크",
+      "url": "https://page.kakao.com/content/64612703",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "남주가 제 건강에 집착합니다",
-      "url": "https://page.kakao.com/content/66974798",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cp3pUq/dJMcacFjoJS/flJ3uBaZ8v5uqEiktTDOFK&filename=th3"
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
       "title": "천재 궁수의 스트리밍",
@@ -93,9 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=4XuuT/dJMb99VVpKn/LhUYoJYmGxCeDhFucmtZR1&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+      "title": "네 목을 비트는 새벽",
+      "url": "https://page.kakao.com/content/67971553",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
+    },
+    {
+      "title": "남주가 제 건강에 집착합니다",
+      "url": "https://page.kakao.com/content/66974798",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cp3pUq/dJMcacFjoJS/flJ3uBaZ8v5uqEiktTDOFK&filename=th3"
     },
     {
       "title": "백작가의 망나니가 되었다",
@@ -155,8 +155,13 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-06T09:54:19+09:00",
+  "updated_at": "2026-11-06T11:03:49+09:00",
   "lezhin": [
+    {
+      "title": "선화의 그늘가",
+      "url": "https://www.lezhin.com/ko/comic/narcissus",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6174950587957248/images/tall.jpg"
+    },
     {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
@@ -168,44 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
+      "title": "못난이 공녀가 되었습니다",
+      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
+    },
+    {
+      "title": "너의 HEART를 나에게 줄래?",
+      "url": "https://www.lezhin.com/ko/comic/giveme_ur_heart",
+      "cover": "https://ccdn.lezhin.com/v2/comics/18/images/tall.jpg"
+    },
+    {
+      "title": "커튼콜 아래그랑",
+      "url": "https://www.lezhin.com/ko/comic/curtain_call",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5/images/tall.jpg"
+    },
+    {
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
+    },
+    {
+      "title": "메디컬 환생",
+      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
+    {
       "title": "포인트 슈팅",
       "url": "https://www.lezhin.com/ko/comic/point_shooting",
       "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
-    },
-    {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
-    },
-    {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
-    },
-    {
-      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
-    },
-    {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
     }
   ]
 }
