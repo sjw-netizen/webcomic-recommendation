@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
-    },
-    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -93,14 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
-    },
-    {
       "title": "흑표 가문의 설표 아기님",
       "url": "https://page.kakao.com/content/65913268",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
+    },
+    {
+      "title": "갓 오브 블랙필드",
+      "url": "https://page.kakao.com/content/54498159",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T00:31:34+09:00",
+  "updated_at": "2026-11-08T01:33:19+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -173,9 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+      "title": "너의 돈이 보여",
+      "url": "https://www.lezhin.com/ko/comic/moneylover",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
+    },
+    {
+      "title": "아가씨와 우렁총각",
+      "url": "https://www.lezhin.com/ko/comic/snail",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
     },
     {
       "title": "우리사이느은",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     },
     {
-      "title": "못난이 공녀가 되었습니다",
-      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
-    },
-    {
-      "title": "2반 이희수",
-      "url": "https://www.lezhin.com/ko/comic/heesu",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5647927024418816/images/tall.jpg"
-    },
-    {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "신데렐라 리미트",
-      "url": "https://www.lezhin.com/ko/comic/limit",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6170000663052288/images/tall.jpg"
-    },
-    {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     }
   ]
 }
