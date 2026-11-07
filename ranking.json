@@ -73,9 +73,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "점괘보는 공녀님",
-      "url": "https://page.kakao.com/content/62596697",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
       "title": "템빨",
@@ -83,9 +83,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+      "title": "갓 오브 블랙필드",
+      "url": "https://page.kakao.com/content/54498159",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+    },
+    {
+      "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
+      "url": "https://page.kakao.com/content/70435619",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsIYEK/dJMcahmieJ4/kHqGJQq1ziC4G4qVKksFsK&filename=th3"
     },
     {
       "title": "악녀님이 남자인 걸 나만 몰라",
@@ -93,14 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+      "title": "점괘보는 공녀님",
+      "url": "https://page.kakao.com/content/62596697",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T06:30:43+09:00",
+  "updated_at": "2026-11-08T07:31:41+09:00",
   "lezhin": [
-    {
-      "title": "못난이 공녀가 되었습니다",
-      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
     },
     {
       "title": "판도라의 선택",
@@ -173,19 +173,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "레바툰",
+      "url": "https://www.lezhin.com/ko/comic/revatoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+      "title": "남의 BL만화",
+      "url": "https://www.lezhin.com/ko/comic/others_bl_comic",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4519516459565056/images/tall.jpg"
     },
     {
       "title": "그저 여명일 뿐",
@@ -193,19 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5880496104734720/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "몸캠 BJ의 이중생활 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/momcam_bj",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.jpg"
+      "title": "히든 직업 갬블러로 인생 역전 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/hidden_job",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011759367488018/images/tall.jpg"
     },
     {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+      "title": "니나잘해",
+      "url": "https://www.lezhin.com/ko/comic/ninajalhae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5718912282722304/images/tall.jpg"
     }
   ]
 }
