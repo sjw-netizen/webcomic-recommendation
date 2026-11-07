@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "흑표 가문의 설표 아기님",
@@ -88,6 +88,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
     },
     {
+      "title": "보답은 결혼으로 부탁할게요!",
+      "url": "https://page.kakao.com/content/70987189",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dDciwz/dJMcahl0KEv/mpo9Ap4pOrLfYrSse8eNK0&filename=th3"
+    },
+    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
@@ -96,11 +101,6 @@
       "title": "야수의 전부인이 되겠습니다",
       "url": "https://page.kakao.com/content/71072373",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T09:50:34+09:00",
+  "updated_at": "2026-11-07T10:52:55+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,14 +168,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
     },
     {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,29 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "아가씨와 우렁총각",
+      "url": "https://www.lezhin.com/ko/comic/snail",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
     },
     {
-      "title": "울프 인더 하우스[개정판]",
-      "url": "https://www.lezhin.com/ko/comic/wolf_inda_house_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5005186239102976/images/tall.jpg"
+      "title": "소꿉친구의 가이드가 되었다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
     },
     {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "석류를 삼킨 뱀 [개정판][연재]",
+      "url": "https://www.lezhin.com/ko/comic/seokryu_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011767074341653/images/tall.jpg"
     },
     {
-      "title": "은밀한 나의 동거인",
-      "url": "https://www.lezhin.com/ko/comic/my_covert_housemate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6522936663801856/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "천지해",
       "url": "https://www.lezhin.com/ko/comic/cheonjihae",
       "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+    },
+    {
+      "title": "바퀴멘터리",
+      "url": "https://www.lezhin.com/ko/comic/baquimentary",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
     }
   ]
 }
