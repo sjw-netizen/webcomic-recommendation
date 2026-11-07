@@ -78,6 +78,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "이제 울어도 될까요?",
-      "url": "https://page.kakao.com/content/68053528",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
-    },
-    {
-      "title": "샤크",
-      "url": "https://page.kakao.com/content/48990437",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
       "title": "네 목을 비트는 새벽",
       "url": "https://page.kakao.com/content/67971553",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bljrB7/dJMcaiwS5Qs/4QBAUglmbhDkkS1e7GWG00&filename=th3"
+    },
+    {
+      "title": "이제 울어도 될까요?",
+      "url": "https://page.kakao.com/content/68053528",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T14:42:33+09:00",
+  "updated_at": "2026-11-07T15:48:22+09:00",
   "lezhin": [
     {
       "title": "금요정의 금요극장",
@@ -163,9 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "신기록",
-      "url": "https://www.lezhin.com/ko/comic/shingi",
-      "cover": "https://ccdn.lezhin.com/v2/comics/43/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,24 +173,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "여름의 밀도 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/summer_dense_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565419298/images/tall.jpg"
-    },
-    {
-      "title": "남보다 못한 사이 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/old_picture_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011744182538244/images/tall.jpg"
+      "title": "도리도심",
+      "url": "https://www.lezhin.com/ko/comic/doridosim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6404357085200384/images/tall.jpg"
     },
     {
       "title": "아가씨와 우렁총각",
@@ -198,14 +183,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
     },
     {
+      "title": "홀딩룸 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/holding_room_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5694477051428864/images/tall.jpg"
+    },
+    {
+      "title": "새디스틱 뷰티:외전B [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/sadi_bt_b",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4777537292140544/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+    },
+    {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "포인트 슈팅",
-      "url": "https://www.lezhin.com/ko/comic/point_shooting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
     }
   ]
 }
