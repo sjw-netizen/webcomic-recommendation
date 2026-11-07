@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "흑표 가문의 설표 아기님",
@@ -83,9 +83,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
+    },
+    {
+      "title": "SSS급 죽어야 사는 헌터",
+      "url": "https://page.kakao.com/content/56243215",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
     },
     {
       "title": "이제 울어도 될까요?",
@@ -93,14 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
-    },
-    {
-      "title": "힘숨찐 어린이가 아빠를 찾습니다",
-      "url": "https://page.kakao.com/content/68288343",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=pi1WZ/dJMcafhnB09/g4sOV251jqqSfrO36DsjDk&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T17:45:30+09:00",
+  "updated_at": "2026-11-07T18:41:52+09:00",
   "lezhin": [
+    {
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "나는 네가 -라고 생각해",
-      "url": "https://www.lezhin.com/ko/comic/i_think_you_are",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5123961411272704/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -173,19 +173,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "캔디 윰윰 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/candy_yumyum_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011789114351455/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "환관제조일기",
+      "url": "https://www.lezhin.com/ko/comic/castration",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
+    },
+    {
+      "title": "연성의 귀부인 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/yeonseong_lady_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011774253198584/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
       "title": "아가씨와 우렁총각",
@@ -193,19 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
     },
     {
-      "title": "타의적 로맨스",
-      "url": "https://www.lezhin.com/ko/comic/involuntary_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5908808241709056/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "레바툰",
-      "url": "https://www.lezhin.com/ko/comic/revatoon",
-      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+      "title": "음지탐구보고서",
+      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
     }
   ]
 }
