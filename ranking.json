@@ -88,19 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
-      "title": "갓 오브 블랙필드",
-      "url": "https://page.kakao.com/content/54498159",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+      "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
+      "url": "https://page.kakao.com/content/70435619",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsIYEK/dJMcahmieJ4/kHqGJQq1ziC4G4qVKksFsK&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,13 +155,8 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T02:29:37+09:00",
+  "updated_at": "2026-11-08T03:36:15+09:00",
   "lezhin": [
-    {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
@@ -173,39 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
+      "title": "메디컬 환생",
+      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+    },
+    {
+      "title": "너의 HEART를 나에게 줄래?",
+      "url": "https://www.lezhin.com/ko/comic/giveme_ur_heart",
+      "cover": "https://ccdn.lezhin.com/v2/comics/18/images/tall.jpg"
+    },
+    {
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
+    },
+    {
+      "title": "아가씨와 우렁총각",
+      "url": "https://www.lezhin.com/ko/comic/snail",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
+    },
+    {
+      "title": "못난이 공녀가 되었습니다",
+      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
+    },
+    {
       "title": "우리사이느은",
       "url": "https://www.lezhin.com/ko/comic/woori",
       "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     },
     {
-      "title": "너의 사랑에 대하여",
-      "url": "https://www.lezhin.com/ko/comic/about_your_luv",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5350681733824512/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
-    },
-    {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "결혼시차 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/marriage_jet_lag_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790062669091/images/tall.jpg"
-    },
-    {
       "title": "눈먼 짐승의 시간 [연재]",
       "url": "https://www.lezhin.com/ko/comic/blind_beast",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011768195441450/images/tall.jpg"
+    },
+    {
+      "title": "이번 생, 끝까지 살아남겠습니다",
+      "url": "https://www.lezhin.com/ko/comic/this_life_survival",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776819700730/images/tall.jpg"
     }
   ]
 }
