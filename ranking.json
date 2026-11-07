@@ -78,6 +78,21 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     },
     {
+      "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
+      "url": "https://page.kakao.com/content/70435619",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsIYEK/dJMcahmieJ4/kHqGJQq1ziC4G4qVKksFsK&filename=th3"
+    },
+    {
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+    },
+    {
+      "title": "점괘보는 공녀님",
+      "url": "https://page.kakao.com/content/62596697",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
+    },
+    {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
@@ -86,21 +101,6 @@
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "얼떨결에 죽은 남편을 부활시켜 버렸다",
-      "url": "https://page.kakao.com/content/70435619",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bsIYEK/dJMcahmieJ4/kHqGJQq1ziC4G4qVKksFsK&filename=th3"
-    },
-    {
-      "title": "점괘보는 공녀님",
-      "url": "https://page.kakao.com/content/62596697",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=c1c4UW/dJMcagt0cpI/8nnIv69hxAVjcP72Kmm3P1&filename=th3"
-    },
-    {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T04:36:55+09:00",
+  "updated_at": "2026-11-08T05:30:39+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -168,26 +168,6 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "우리사이느은",
-      "url": "https://www.lezhin.com/ko/comic/woori",
-      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
-    },
-    {
-      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
-    },
-    {
-      "title": "악당의 딸은 회귀해봤자",
-      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
-    },
-    {
-      "title": "도리도심",
-      "url": "https://www.lezhin.com/ko/comic/doridosim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6404357085200384/images/tall.jpg"
-    },
-    {
       "title": "클라우드",
       "url": "https://www.lezhin.com/ko/comic/cloud",
       "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
@@ -198,14 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5880496104734720/images/tall.jpg"
     },
     {
-      "title": "시크릿 동맹",
-      "url": "https://www.lezhin.com/ko/comic/secretcontract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6406678520922112/images/tall.jpg"
+      "title": "그림자의 영역 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "형을 땡땡하다",
+      "url": "https://www.lezhin.com/ko/comic/hotel_phryne_",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744076537861/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     }
   ]
 }
