@@ -78,29 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cHm2Uj/dJMcabNaTgl/snqCDHi7pyQpKEMapzkztk&filename=th3"
     },
     {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "SSS급 죽어야 사는 헌터",
-      "url": "https://page.kakao.com/content/56243215",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
-    },
-    {
-      "title": "이제 울어도 될까요?",
-      "url": "https://page.kakao.com/content/68053528",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
+      "title": "악녀님이 남자인 걸 나만 몰라",
+      "url": "https://page.kakao.com/content/68369348",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업",
       "url": "https://page.kakao.com/content/50866481",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업 : 라그나로크",
+      "url": "https://page.kakao.com/content/64612703",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
+    },
+    {
+      "title": "이제 울어도 될까요?",
+      "url": "https://page.kakao.com/content/68053528",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqFOpL/dJMcah7ESrp/l5MxOyzyTAtKTng7ASimH0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
     }
   ],
-  "updated_at": "2026-11-07T18:41:52+09:00",
+  "updated_at": "2026-11-07T19:37:13+09:00",
   "lezhin": [
     {
-      "title": "4컷용사",
-      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
-      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,24 +178,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "판도라의 선택",
-      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
-    },
-    {
-      "title": "환관제조일기",
-      "url": "https://www.lezhin.com/ko/comic/castration",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
-    },
-    {
-      "title": "연성의 귀부인 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/yeonseong_lady_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011774253198584/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -198,14 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "아가씨와 우렁총각",
-      "url": "https://www.lezhin.com/ko/comic/snail",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
+      "title": "넷카마 펀치!!!",
+      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+    },
+    {
+      "title": "모든 시선이 나에게 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/all_eyes_on_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011768812005339/images/tall.jpg"
+    },
+    {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     }
   ]
 }
