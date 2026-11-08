@@ -78,24 +78,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
       "title": "악녀님이 남자인 걸 나만 몰라",
       "url": "https://page.kakao.com/content/68369348",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업",
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/3498027167/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T20:31:51+09:00",
+  "updated_at": "2026-11-08T21:40:41+09:00",
   "lezhin": [
-    {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
     {
       "title": "애신록",
       "url": "https://www.lezhin.com/ko/comic/aesillok",
       "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+    },
+    {
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
       "title": "자취요리왕",
@@ -173,24 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
-    },
-    {
       "title": "판도라의 선택",
       "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "메디컬 환생",
-      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
-    },
-    {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "0의 고백",
@@ -198,14 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
     },
     {
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+    },
+    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "농담이 진담된다",
+      "url": "https://www.lezhin.com/ko/comic/nd_be_jd",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011752807162181/images/tall.jpg"
+    },
+    {
+      "title": "집사랑",
+      "url": "https://www.lezhin.com/ko/comic/butlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     }
   ]
 }
