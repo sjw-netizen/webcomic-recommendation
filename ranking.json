@@ -83,11 +83,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
-    },
-    {
       "title": "데뷔 못 하면 죽는 병 걸림",
       "url": "https://page.kakao.com/content/59782511",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
@@ -96,6 +91,11 @@
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bnIc0l/dJMcahzHSTF/wQ4HEPLkwOrKfYTbhNlxS1&filename=th3"
+    },
+    {
+      "title": "악녀님이 남자인 걸 나만 몰라",
+      "url": "https://page.kakao.com/content/68369348",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/3498027167/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T18:40:52+09:00",
+  "updated_at": "2026-11-08T19:37:26+09:00",
   "lezhin": [
-    {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
-    },
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+    },
+    {
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     },
     {
       "title": "자취요리왕",
@@ -173,9 +173,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
-      "title": "박배우 X 김남팬",
-      "url": "https://www.lezhin.com/ko/comic/parkxkim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "판도라의 선택",
@@ -183,14 +183,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+      "title": "메디컬 환생",
+      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
     },
     {
       "title": "우기",
@@ -198,14 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     },
     {
-      "title": "가십(gossip)",
-      "url": "https://www.lezhin.com/ko/comic/gossip",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
     },
     {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     }
   ]
 }
