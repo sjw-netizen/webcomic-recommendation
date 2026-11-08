@@ -68,14 +68,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
       "url": "https://page.kakao.com/content/66264838",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "검술명가 막내아들",
@@ -105,9 +105,19 @@
   ],
   "ridi": [
     {
+      "title": "던전을 그리는 화가",
+      "url": "https://ridibooks.com/books/6305000001",
+      "cover": "https://img.ridicdn.net/cover/6305000033/xxlarge"
+    },
+    {
       "title": "록사나 : 여주인공의 오빠를 지키는 방법",
       "url": "https://ridibooks.com/books/4921002551",
       "cover": "https://img.ridicdn.net/cover/4921002606/xxlarge"
+    },
+    {
+      "title": "삭풍이 불어오면",
+      "url": "https://ridibooks.com/books/6400000001",
+      "cover": "https://img.ridicdn.net/cover/6400000015/xxlarge"
     },
     {
       "title": "악인 남편",
@@ -120,24 +130,9 @@
       "cover": "https://img.ridicdn.net/cover/4895004143/xxlarge"
     },
     {
-      "title": "던전을 그리는 화가",
-      "url": "https://ridibooks.com/books/6305000001",
-      "cover": "https://img.ridicdn.net/cover/6305000033/xxlarge"
-    },
-    {
-      "title": "삭풍이 불어오면",
-      "url": "https://ridibooks.com/books/6400000001",
-      "cover": "https://img.ridicdn.net/cover/6400000015/xxlarge"
-    },
-    {
       "title": "약탈혼",
       "url": "https://ridibooks.com/books/1746021078",
       "cover": "https://img.ridicdn.net/cover/1746037027/xxlarge"
-    },
-    {
-      "title": "적국의 왕자로 사는 법",
-      "url": "https://ridibooks.com/books/5337000001",
-      "cover": "https://img.ridicdn.net/cover/5337000126/xxlarge"
     },
     {
       "title": "상수리나무 아래",
@@ -150,12 +145,17 @@
       "cover": "https://img.ridicdn.net/cover/1746036935/xxlarge"
     },
     {
-      "title": "러브:제로(Love:Zero) [개정판]",
-      "url": "https://ridibooks.com/books/5103000638",
-      "cover": "https://img.ridicdn.net/cover/5103000807/xxlarge"
+      "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
+      "url": "https://ridibooks.com/books/4158001245",
+      "cover": "https://img.ridicdn.net/cover/4158001305/xxlarge"
+    },
+    {
+      "title": "괴물 황자를 길들여버렸다",
+      "url": "https://ridibooks.com/books/3498025521",
+      "cover": "https://img.ridicdn.net/cover/3498027167/xxlarge"
     }
   ],
-  "updated_at": "2026-11-08T08:30:07+09:00",
+  "updated_at": "2026-11-08T09:51:02+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,14 +163,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "무책임 공주는 힘들어!",
-      "url": "https://www.lezhin.com/ko/comic/irresponsible_princess",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4686578887491584/images/tall.jpg"
+      "title": "죽었던 남편이 계략남으로 돌아왔다",
+      "url": "https://www.lezhin.com/ko/comic/dead_husband_returns_schemer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011775806385153/images/tall.jpg"
     },
     {
-      "title": "못난이 공녀가 되었습니다",
-      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
+    },
+    {
+      "title": "이번 생, 끝까지 살아남겠습니다",
+      "url": "https://www.lezhin.com/ko/comic/this_life_survival",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776819700730/images/tall.jpg"
+    },
+    {
+      "title": "블랙보이",
+      "url": "https://www.lezhin.com/ko/comic/blackboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -178,9 +188,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "메디컬 환생",
-      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+    },
+    {
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -188,24 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "미친개 도련님 만들기 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/crazy_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5019476033732608/images/tall.jpg"
-    },
-    {
-      "title": "몸캠 BJ의 이중생활 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/momcam_bj",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011776929129080/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
-    },
-    {
-      "title": "그림자의 영역 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
+      "title": "못난이 공녀가 되었습니다",
+      "url": "https://www.lezhin.com/ko/comic/ugly_lady_becoming",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011774325496856/images/tall.jpg"
     }
   ]
 }
