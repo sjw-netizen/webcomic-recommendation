@@ -73,14 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "철혈검가 사냥개의 회귀",
-      "url": "https://page.kakao.com/content/61614855",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "철혈검가 사냥개의 회귀",
+      "url": "https://page.kakao.com/content/61614855",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
       "title": "흑막 범고래 아기님",
@@ -98,9 +98,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bdHbKf/dJMcajxAf1b/xHBZJnm2Qukk1KDOKDiDO1&filename=th3"
     },
     {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+      "title": "악당들에게 키워지는 중입니다",
+      "url": "https://page.kakao.com/content/61822163",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bJ50LF/dJMcafnTUvZ/OjWTRZZ71EGCTjuthrL2jk&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/3498027167/xxlarge"
     }
   ],
-  "updated_at": "2026-11-09T03:36:07+09:00",
+  "updated_at": "2026-11-09T04:38:57+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+    },
+    {
+      "title": "농담이 진담된다",
+      "url": "https://www.lezhin.com/ko/comic/nd_be_jd",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011752807162181/images/tall.jpg"
     },
     {
       "title": "헤어짐의 방법",
@@ -173,24 +178,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "까마귀 기사",
-      "url": "https://www.lezhin.com/ko/comic/crowknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
-    },
-    {
-      "title": "가십(gossip)",
-      "url": "https://www.lezhin.com/ko/comic/gossip",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
-    },
-    {
       "title": "판도라의 선택",
       "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "그래 나다. 서브광공",
+      "url": "https://www.lezhin.com/ko/comic/sub_kwanggong",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5098885154537472/images/tall.jpg"
     },
     {
       "title": "나의 천사를 찾아서 [연재]",
@@ -198,14 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     },
     {
-      "title": "원룸 조교님 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
+      "title": "적반하장의 허슬플레이",
+      "url": "https://www.lezhin.com/ko/comic/hustleplay",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011736835202719/images/tall.jpg"
+    },
+    {
+      "title": "그림자의 영역 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
     }
   ]
 }
