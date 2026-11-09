@@ -68,14 +68,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     },
     {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
     },
     {
       "title": "로그인 무림",
@@ -96,11 +101,6 @@
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
-    },
-    {
-      "title": "아기는 악당을 키운다",
-      "url": "https://page.kakao.com/content/68276174",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bxQ4VT/dJMcahfCKks/1nWX9upWV8ItGQsgqnQWk0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T04:51:20+09:00",
+  "updated_at": "2026-11-10T05:48:00+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -163,19 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
-    },
-    {
-      "title": "불공정 연애",
-      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
-    },
-    {
-      "title": "불편한 진실",
-      "url": "https://www.lezhin.com/ko/comic/another_secret",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5674520276107264/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,19 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "가십(gossip)",
+      "url": "https://www.lezhin.com/ko/comic/gossip",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
     },
     {
-      "title": "새벽을 지나 아침으로",
-      "url": "https://www.lezhin.com/ko/comic/past_dawn",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5107370022469632/images/tall.jpg"
-    },
-    {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
     },
     {
       "title": "집사랑",
@@ -203,9 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
-      "title": "안 건강한 연애와 건강한 연애의 창과 방패 같은 사랑",
-      "url": "https://www.lezhin.com/ko/comic/spear_shield",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011790758494000/images/tall.jpg"
+      "title": "쓰레기 기둥서방 하나 군은 죽고 싶어 해",
+      "url": "https://www.lezhin.com/ko/comic/hana_kun",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011745804329704/images/tall.jpg"
+    },
+    {
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+    },
+    {
+      "title": "신데렐라 리미트",
+      "url": "https://www.lezhin.com/ko/comic/limit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6170000663052288/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     }
   ]
 }
