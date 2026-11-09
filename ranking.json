@@ -78,11 +78,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cLmA39/dJMcadQlpPT/Kf829q4WUX0VRSoDPsVqvK&filename=th3"
     },
     {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
       "url": "https://page.kakao.com/content/66264838",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
+      "title": "여주의 시스콤 오빠와 이혼하겠습니다",
+      "url": "https://page.kakao.com/content/62812341",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=q3LGr/dJMcabzvM6n/4DrLJfkrvmrUKGXlolWMs1&filename=th3"
     }
   ],
   "ridi": [
@@ -115,47 +115,47 @@
       "cover": "https://img.ridicdn.net/cover/4921002606/xxlarge"
     },
     {
+      "title": "상류 사회",
+      "url": "https://ridibooks.com/books/5536000001",
+      "cover": "https://img.ridicdn.net/cover/5536000113/xxlarge"
+    },
+    {
+      "title": "국경의 아샤",
+      "url": "https://ridibooks.com/books/4158001267",
+      "cover": "https://img.ridicdn.net/cover/4158001309/xxlarge"
+    },
+    {
+      "title": "완벽한 저주의 나쁜 예",
+      "url": "https://ridibooks.com/books/3543003558",
+      "cover": "https://img.ridicdn.net/cover/3543003702/xxlarge"
+    },
+    {
       "title": "삭풍이 불어오면",
       "url": "https://ridibooks.com/books/6400000001",
       "cover": "https://img.ridicdn.net/cover/6400000015/xxlarge"
     },
     {
-      "title": "악인 남편",
-      "url": "https://ridibooks.com/books/6039000001",
-      "cover": "https://img.ridicdn.net/cover/6039000053/xxlarge"
+      "title": "소꿉친구들이 나를 죽이려 한다",
+      "url": "https://ridibooks.com/books/5611000087",
+      "cover": "https://img.ridicdn.net/cover/5611000353/xxlarge"
     },
     {
-      "title": "나를 홀린 이웃집 스타",
-      "url": "https://ridibooks.com/books/4895003124",
-      "cover": "https://img.ridicdn.net/cover/4895004143/xxlarge"
+      "title": "절대역",
+      "url": "https://ridibooks.com/books/5103000037",
+      "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     },
     {
-      "title": "약탈혼",
-      "url": "https://ridibooks.com/books/1746021078",
-      "cover": "https://img.ridicdn.net/cover/1746037027/xxlarge"
+      "title": "체리 트랩 [개정판]",
+      "url": "https://ridibooks.com/books/3000017626",
+      "cover": "https://img.ridicdn.net/cover/3000017999/xxlarge"
     },
     {
-      "title": "상수리나무 아래",
-      "url": "https://ridibooks.com/books/4766000001",
-      "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
-    },
-    {
-      "title": "세상만 구하고 은퇴하겠습니다",
-      "url": "https://ridibooks.com/books/1746023143",
-      "cover": "https://img.ridicdn.net/cover/1746036935/xxlarge"
-    },
-    {
-      "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
-      "url": "https://ridibooks.com/books/4158001245",
-      "cover": "https://img.ridicdn.net/cover/4158001305/xxlarge"
-    },
-    {
-      "title": "괴물 황자를 길들여버렸다",
-      "url": "https://ridibooks.com/books/3498025521",
-      "cover": "https://img.ridicdn.net/cover/3498027167/xxlarge"
+      "title": "눈먼 짐승의 시간",
+      "url": "https://ridibooks.com/books/4928004518",
+      "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-09T08:30:40+09:00",
+  "updated_at": "2026-11-09T09:53:45+09:00",
   "lezhin": [
     {
       "title": "애신록",
@@ -163,14 +163,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     },
     {
-      "title": "집사랑",
-      "url": "https://www.lezhin.com/ko/comic/butlove",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
-    },
-    {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+      "title": "자취요리왕",
+      "url": "https://www.lezhin.com/ko/comic/homecooking",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -183,29 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
+      "title": "금요정의 금요극장",
+      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
+    },
+    {
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+    },
+    {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     },
     {
-      "title": "어는 점+발화점",
-      "url": "https://www.lezhin.com/ko/comic/freezing_point",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6368164427202560/images/tall.jpg"
+      "title": "눈먼 짐승의 시간 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/blind_beast",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011768195441450/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "하테마테",
-      "url": "https://www.lezhin.com/ko/comic/hate_mate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
+      "title": "끝에서부터 한걸음",
+      "url": "https://www.lezhin.com/ko/comic/step_from_the_end",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6678169846874112/images/tall.jpg"
     }
   ]
 }
