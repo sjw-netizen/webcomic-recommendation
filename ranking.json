@@ -78,9 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "노가다 김씨, 자동사냥으로 꿀 빱니다",
-      "url": "https://page.kakao.com/content/70511208",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bAQtor/dJMcaaHz7fn/xwOsh8hOf2KZv3LChQMo31&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -93,9 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=q3LGr/dJMcabzvM6n/4DrLJfkrvmrUKGXlolWMs1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "노가다 김씨, 자동사냥으로 꿀 빱니다",
+      "url": "https://page.kakao.com/content/70511208",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bAQtor/dJMcaaHz7fn/xwOsh8hOf2KZv3LChQMo31&filename=th3"
     },
     {
       "title": "흑막 범고래 아기님",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-09T13:58:23+09:00",
+  "updated_at": "2026-11-09T15:03:30+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -168,9 +168,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "자취요리왕",
-      "url": "https://www.lezhin.com/ko/comic/homecooking",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
+      "title": "아가씨와 우렁총각",
+      "url": "https://www.lezhin.com/ko/comic/snail",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5310249108766720/images/tall.jpg"
+    },
+    {
+      "title": "집사랑",
+      "url": "https://www.lezhin.com/ko/comic/butlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
       "title": "헤어짐의 방법",
@@ -178,19 +183,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
-      "title": "이번 생, 끝까지 살아남겠습니다",
-      "url": "https://www.lezhin.com/ko/comic/this_life_survival",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011776819700730/images/tall.jpg"
-    },
-    {
-      "title": "나의 천사를 찾아서 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/find_angel",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
-    },
-    {
-      "title": "나우이",
-      "url": "https://www.lezhin.com/ko/comic/naui",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -198,14 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "하얀천사에게 날개는 없다",
+      "url": "https://www.lezhin.com/ko/comic/white",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5750159751512064/images/tall.jpg"
     },
     {
-      "title": "넷카마 펀치!!!",
-      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
+      "title": "끝에서부터 한걸음",
+      "url": "https://www.lezhin.com/ko/comic/step_from_the_end",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6678169846874112/images/tall.jpg"
+    },
+    {
+      "title": "나는 네가 -라고 생각해",
+      "url": "https://www.lezhin.com/ko/comic/i_think_you_are",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5123961411272704/images/tall.jpg"
     }
   ]
 }
