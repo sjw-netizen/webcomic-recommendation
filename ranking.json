@@ -73,14 +73,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "흑막 범고래 아기님",
@@ -91,16 +101,6 @@
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
-    },
-    {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
-      "title": "여주의 시스콤 오빠와 이혼하겠습니다",
-      "url": "https://page.kakao.com/content/62812341",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=q3LGr/dJMcabzvM6n/4DrLJfkrvmrUKGXlolWMs1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-09T09:53:45+09:00",
+  "updated_at": "2026-11-09T11:02:20+09:00",
   "lezhin": [
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
       "title": "자취요리왕",
@@ -168,24 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "불공정 연애",
+      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -193,19 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+      "title": "해온의 임자",
+      "url": "https://www.lezhin.com/ko/comic/haeon_imja",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
     },
     {
-      "title": "눈먼 짐승의 시간 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/blind_beast",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768195441450/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "끝에서부터 한걸음",
-      "url": "https://www.lezhin.com/ko/comic/step_from_the_end",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6678169846874112/images/tall.jpg"
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+    },
+    {
+      "title": "디기탈리스",
+      "url": "https://www.lezhin.com/ko/comic/digitalis",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4949787657502720/images/tall.jpg"
     }
   ]
 }
