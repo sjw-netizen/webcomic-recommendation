@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-09T12:51:14+09:00",
+  "updated_at": "2026-11-09T13:58:23+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -163,14 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "그녀가 공작저로 가야 했던 사정",
-      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
+      "title": "자취요리왕",
+      "url": "https://www.lezhin.com/ko/comic/homecooking",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
       "title": "헤어짐의 방법",
@@ -178,24 +178,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
-    },
-    {
-      "title": "우리사이느은",
-      "url": "https://www.lezhin.com/ko/comic/woori",
-      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
-    },
-    {
-      "title": "허상의 관계",
-      "url": "https://www.lezhin.com/ko/comic/imaginary_relationship",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5434703149858816/images/tall.jpg"
-    },
-    {
-      "title": "눈먼 짐승의 시간 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/blind_beast",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011768195441450/images/tall.jpg"
+      "title": "이번 생, 끝까지 살아남겠습니다",
+      "url": "https://www.lezhin.com/ko/comic/this_life_survival",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776819700730/images/tall.jpg"
     },
     {
       "title": "나의 천사를 찾아서 [연재]",
@@ -203,9 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+    },
+    {
+      "title": "넷카마 펀치!!!",
+      "url": "https://www.lezhin.com/ko/comic/netkama_punch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5220724927823872/images/tall.jpg"
     }
   ]
 }
