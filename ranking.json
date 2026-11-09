@@ -63,14 +63,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
-      "title": "쌍둥이 왕녀로 살아남기",
-      "url": "https://page.kakao.com/content/67704232",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "쌍둥이 왕녀로 살아남기",
+      "url": "https://page.kakao.com/content/67704232",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     },
     {
       "title": "로그인 무림",
@@ -78,19 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "후계자는 모르겠고 힐링이나 하렵니다",
-      "url": "https://page.kakao.com/content/69613701",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
-    },
-    {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
-    },
-    {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업",
@@ -98,9 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+    },
+    {
+      "title": "후계자는 모르겠고 힐링이나 하렵니다",
+      "url": "https://page.kakao.com/content/69613701",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
+    },
+    {
+      "title": "아기는 악당을 키운다",
+      "url": "https://page.kakao.com/content/68276174",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bxQ4VT/dJMcahfCKks/1nWX9upWV8ItGQsgqnQWk0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T06:44:36+09:00",
+  "updated_at": "2026-11-10T07:41:10+09:00",
   "lezhin": [
+    {
+      "title": "불공정 연애",
+      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
+    },
+    {
+      "title": "시크릿 동맹",
+      "url": "https://www.lezhin.com/ko/comic/secretcontract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6406678520922112/images/tall.jpg"
+    },
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
-    {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "집사랑",
@@ -173,9 +178,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+    },
+    {
       "title": "걸손전 [개정판]",
       "url": "https://www.lezhin.com/ko/comic/geolsonjeon_15",
       "cover": "https://ccdn.lezhin.com/v2/comics/5395549069836288/images/tall.jpg"
     },
     {
-      "title": "언니의 취향",
-      "url": "https://www.lezhin.com/ko/comic/sisters_taste",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6241627023933440/images/tall.jpg"
-    },
-    {
-      "title": "레인보우 도넛 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/rainbow_donut_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011730423376428/images/tall.jpg"
+      "title": "나우이",
+      "url": "https://www.lezhin.com/ko/comic/naui",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4974692363730944/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
       "url": "https://www.lezhin.com/ko/comic/error_zone",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "죽여주는 복수선언",
-      "url": "https://www.lezhin.com/ko/comic/declare_revenge",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4853285570084864/images/tall.jpg"
     }
   ]
 }
