@@ -73,19 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
-    },
-    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
+      "title": "후계자는 모르겠고 힐링이나 하렵니다",
+      "url": "https://page.kakao.com/content/69613701",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -93,9 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "후계자는 모르겠고 힐링이나 하렵니다",
-      "url": "https://page.kakao.com/content/69613701",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T05:48:00+09:00",
+  "updated_at": "2026-11-10T06:44:36+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -168,14 +168,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "가십(gossip)",
-      "url": "https://www.lezhin.com/ko/comic/gossip",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
+      "title": "집사랑",
+      "url": "https://www.lezhin.com/ko/comic/butlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
       "title": "0의 고백",
@@ -183,29 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
     },
     {
-      "title": "집사랑",
-      "url": "https://www.lezhin.com/ko/comic/butlove",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "쓰레기 기둥서방 하나 군은 죽고 싶어 해",
-      "url": "https://www.lezhin.com/ko/comic/hana_kun",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745804329704/images/tall.jpg"
+      "title": "걸손전 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/geolsonjeon_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5395549069836288/images/tall.jpg"
     },
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "언니의 취향",
+      "url": "https://www.lezhin.com/ko/comic/sisters_taste",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6241627023933440/images/tall.jpg"
     },
     {
-      "title": "신데렐라 리미트",
-      "url": "https://www.lezhin.com/ko/comic/limit",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6170000663052288/images/tall.jpg"
+      "title": "레인보우 도넛 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/rainbow_donut_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011730423376428/images/tall.jpg"
     },
     {
-      "title": "천지해",
-      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "죽여주는 복수선언",
+      "url": "https://www.lezhin.com/ko/comic/declare_revenge",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4853285570084864/images/tall.jpg"
     }
   ]
 }
