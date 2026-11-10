@@ -68,9 +68,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
     },
     {
-      "title": "나는 이 빙의를 끝내려 한다",
-      "url": "https://page.kakao.com/content/71166123",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "눈먼 공작과 약혼했다",
@@ -78,14 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "쌍둥이 왕녀로 살아남기",
-      "url": "https://page.kakao.com/content/67704232",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
+      "title": "나는 이 빙의를 끝내려 한다",
+      "url": "https://page.kakao.com/content/71166123",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
     },
     {
       "title": "미친 빌런이 정신을 되찾음",
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
-      "title": "세이렌: 악당과 계약 가족이 되었다",
-      "url": "https://page.kakao.com/content/57860238",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=oOydo/dJMcafgCGQ1/Gj9eXhIpj1qBUdC94HqOv1&filename=th3"
+      "title": "악녀 언니를 구하러 온 용감한 강아지입니다",
+      "url": "https://page.kakao.com/content/67494982",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=k1E3c/dJMcaaHz6Ir/j5s9sz7Y8UvJfY0K9ZpUiK&filename=th3"
     },
     {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cDi51d/dJMcaf2Yd1l/KagMxfn9fc15UhkfmmtCJ0&filename=th3"
+    },
+    {
+      "title": "쌍둥이 왕녀로 살아남기",
+      "url": "https://page.kakao.com/content/67704232",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-11T03:42:50+09:00",
+  "updated_at": "2026-11-11T04:47:08+09:00",
   "lezhin": [
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "풀스 오리지널",
+      "url": "https://www.lezhin.com/ko/comic/fools_original",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
+    },
+    {
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -168,44 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "가십(gossip)",
-      "url": "https://www.lezhin.com/ko/comic/gossip",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "허상의 관계",
-      "url": "https://www.lezhin.com/ko/comic/imaginary_relationship",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5434703149858816/images/tall.jpg"
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "늑대가 날 책임지겠대 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "강우주의보 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/rain_warning_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792662049862/images/tall.jpg"
+      "title": "남의 BL만화",
+      "url": "https://www.lezhin.com/ko/comic/others_bl_comic",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4519516459565056/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "금요정의 금요극장",
-      "url": "https://www.lezhin.com/ko/comic/goldpixinema",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
-    },
-    {
-      "title": "너의 돈이 보여",
-      "url": "https://www.lezhin.com/ko/comic/moneylover",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
+      "title": "죽기 싫어서 영웅을 키우기로 했습니다",
+      "url": "https://www.lezhin.com/ko/comic/hero_maker",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011767747700482/images/tall.jpg"
     }
   ]
 }
