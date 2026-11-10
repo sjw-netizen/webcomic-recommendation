@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     },
     {
-      "title": "나는 이 빙의를 끝내려 한다",
-      "url": "https://page.kakao.com/content/71166123",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
-    },
-    {
       "title": "눈먼 공작과 약혼했다",
       "url": "https://page.kakao.com/content/68090786",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
+    },
+    {
+      "title": "나는 이 빙의를 끝내려 한다",
+      "url": "https://page.kakao.com/content/71166123",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
     },
     {
       "title": "템빨",
@@ -73,19 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "후계자는 모르겠고 힐링이나 하렵니다",
-      "url": "https://page.kakao.com/content/69613701",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
-    },
-    {
-      "title": "군림천하",
-      "url": "https://page.kakao.com/content/67137961",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eqnl7k/hAMCdCQmiE/GGHPqCd3eiXth8Uq95yjhk&filename=th3"
-    },
-    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
+      "title": "후계자는 모르겠고 힐링이나 하렵니다",
+      "url": "https://page.kakao.com/content/69613701",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -93,14 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
+      "title": "군림천하",
+      "url": "https://page.kakao.com/content/67137961",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eqnl7k/hAMCdCQmiE/GGHPqCd3eiXth8Uq95yjhk&filename=th3"
+    },
+    {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
       "url": "https://page.kakao.com/content/66264838",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T12:45:17+09:00",
+  "updated_at": "2026-11-10T13:47:44+09:00",
   "lezhin": [
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "그녀의 암캐",
-      "url": "https://www.lezhin.com/ko/comic/her_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/376/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+    },
+    {
+      "title": "집사랑",
+      "url": "https://www.lezhin.com/ko/comic/butlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,39 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
-    {
       "title": "데일리 위치",
       "url": "https://www.lezhin.com/ko/comic/dailywitch",
       "cover": "https://ccdn.lezhin.com/v2/comics/5479198263607296/images/tall.jpg"
     },
     {
-      "title": "나는 네가 -라고 생각해",
-      "url": "https://www.lezhin.com/ko/comic/i_think_you_are",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5123961411272704/images/tall.jpg"
+      "title": "늑대가 날 책임지겠대 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "마녀도시 리린이야기",
-      "url": "https://www.lezhin.com/ko/comic/lilinstory",
-      "cover": "https://ccdn.lezhin.com/v2/comics/174/images/tall.jpg"
+      "title": "적반하장의 허슬플레이",
+      "url": "https://www.lezhin.com/ko/comic/hustleplay",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011736835202719/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     },
     {
-      "title": "해온의 임자",
-      "url": "https://www.lezhin.com/ko/comic/haeon_imja",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
+      "title": "익애계약 -짓궂은 그이의 사랑법-",
+      "url": "https://www.lezhin.com/ko/comic/beloved_contract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011747902425581/images/tall.jpg"
     }
   ]
 }
