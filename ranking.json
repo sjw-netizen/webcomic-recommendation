@@ -78,29 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
     },
     {
-      "title": "눈먼 공작과 약혼했다",
-      "url": "https://page.kakao.com/content/68090786",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
-    },
-    {
       "title": "미친 빌런이 정신을 되찾음",
       "url": "https://page.kakao.com/content/70776768",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "눈먼 공작과 약혼했다",
+      "url": "https://page.kakao.com/content/68090786",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
+    },
+    {
+      "title": "픽 미 업!",
+      "url": "https://page.kakao.com/content/60914825",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
+    },
+    {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cDi51d/dJMcaf2Yd1l/KagMxfn9fc15UhkfmmtCJ0&filename=th3"
-    },
-    {
-      "title": "쌍둥이 왕녀로 살아남기",
-      "url": "https://page.kakao.com/content/67704232",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
-    },
-    {
-      "title": "여자인 걸 왜 모르지? : 나의 유죄인간",
-      "url": "https://page.kakao.com/content/60800000",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IdStI/hAd4ZyAxju/nM2jHbZlkFQzxBcRynQCK1&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-11T05:40:00+09:00",
+  "updated_at": "2026-11-11T06:36:28+09:00",
   "lezhin": [
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "까마귀 기사",
+      "url": "https://www.lezhin.com/ko/comic/crowknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.jpg"
+    },
+    {
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -173,39 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     },
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "죽여주는 복수선언",
+      "url": "https://www.lezhin.com/ko/comic/declare_revenge",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4853285570084864/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
-      "title": "부랄친구",
-      "url": "https://www.lezhin.com/ko/comic/bff",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.jpg"
-    },
-    {
-      "title": "해온의 임자",
-      "url": "https://www.lezhin.com/ko/comic/haeon_imja",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
-    },
-    {
-      "title": "소꿉친구의 가이드가 되었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
-    },
-    {
-      "title": "광안 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/madeye_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6405062063357952/images/tall.jpg"
+      "title": "삼국지 가후전 R",
+      "url": "https://www.lezhin.com/ko/comic/gahu_r",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.jpg"
     },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
     }
   ]
 }
