@@ -63,19 +63,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
     },
     {
-      "title": "쌍둥이 왕녀로 살아남기",
-      "url": "https://page.kakao.com/content/67704232",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "쌍둥이 왕녀로 살아남기",
+      "url": "https://page.kakao.com/content/67704232",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
+    },
+    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "후계자는 모르겠고 힐링이나 하렵니다",
@@ -91,11 +96,6 @@
       "title": "나 혼자만 레벨업",
       "url": "https://page.kakao.com/content/50866481",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -130,9 +130,14 @@
       "cover": "https://img.ridicdn.net/cover/3543003702/xxlarge"
     },
     {
-      "title": "삭풍이 불어오면",
-      "url": "https://ridibooks.com/books/6400000001",
-      "cover": "https://img.ridicdn.net/cover/6400000015/xxlarge"
+      "title": "도련님은 하녀에게 입을 맞추고 싶어서",
+      "url": "https://ridibooks.com/books/6407000001",
+      "cover": "https://img.ridicdn.net/cover/6407000016/xxlarge"
+    },
+    {
+      "title": "두근두근 공략기",
+      "url": "https://ridibooks.com/books/505096916",
+      "cover": "https://img.ridicdn.net/cover/505112613/xxlarge"
     },
     {
       "title": "소꿉친구들이 나를 죽이려 한다",
@@ -140,22 +145,17 @@
       "cover": "https://img.ridicdn.net/cover/5611000353/xxlarge"
     },
     {
-      "title": "절대역",
-      "url": "https://ridibooks.com/books/5103000037",
-      "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
-    },
-    {
-      "title": "체리 트랩 [개정판]",
-      "url": "https://ridibooks.com/books/3000017626",
-      "cover": "https://img.ridicdn.net/cover/3000017999/xxlarge"
-    },
-    {
       "title": "눈먼 짐승의 시간",
       "url": "https://ridibooks.com/books/4928004518",
       "cover": "https://img.ridicdn.net/cover/4928005706/xxlarge"
+    },
+    {
+      "title": "절대역",
+      "url": "https://ridibooks.com/books/5103000037",
+      "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T08:35:27+09:00",
+  "updated_at": "2026-11-10T09:52:40+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -163,14 +163,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "하테마테",
-      "url": "https://www.lezhin.com/ko/comic/hate_mate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
     },
     {
-      "title": "불공정 연애",
-      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+    },
+    {
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     },
     {
       "title": "늑대가 날 책임지겠대 [연재]",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
       "title": "애증의 밤",
       "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "오크의 포로가 된 엘프 여사령관",
-      "url": "https://www.lezhin.com/ko/comic/totokkan",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.jpg"
-    },
-    {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
-    },
-    {
       "title": "해온의 임자",
       "url": "https://www.lezhin.com/ko/comic/haeon_imja",
       "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
-    },
-    {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     }
   ]
 }
