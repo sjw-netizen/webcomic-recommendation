@@ -68,6 +68,11 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     },
     {
+      "title": "눈먼 공작과 약혼했다",
+      "url": "https://page.kakao.com/content/68090786",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
+    },
+    {
       "title": "나는 이 빙의를 끝내려 한다",
       "url": "https://page.kakao.com/content/71166123",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
@@ -83,19 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "눈먼 공작과 약혼했다",
-      "url": "https://page.kakao.com/content/68090786",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "막내가 뭔갈 많이 숨김",
       "url": "https://page.kakao.com/content/68042237",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cDi51d/dJMcaf2Yd1l/KagMxfn9fc15UhkfmmtCJ0&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
@@ -155,22 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-11T00:42:24+09:00",
+  "updated_at": "2026-11-11T01:45:59+09:00",
   "lezhin": [
-    {
-      "title": "자취요리왕",
-      "url": "https://www.lezhin.com/ko/comic/homecooking",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
-    },
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
-    {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
     },
     {
       "title": "호우주의보",
@@ -178,34 +168,44 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
       "title": "집사랑",
       "url": "https://www.lezhin.com/ko/comic/butlove",
       "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
-      "title": "농담이 진담된다",
-      "url": "https://www.lezhin.com/ko/comic/nd_be_jd",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011752807162181/images/tall.jpg"
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     },
     {
-      "title": "데일리 위치",
-      "url": "https://www.lezhin.com/ko/comic/dailywitch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5479198263607296/images/tall.jpg"
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
     },
     {
-      "title": "하얀천사에게 날개는 없다",
-      "url": "https://www.lezhin.com/ko/comic/white",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5750159751512064/images/tall.jpg"
+      "title": "자취요리왕",
+      "url": "https://www.lezhin.com/ko/comic/homecooking",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+    },
+    {
+      "title": "우렁강도",
+      "url": "https://www.lezhin.com/ko/comic/ureong_robber",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6441012229439488/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     }
   ]
 }
