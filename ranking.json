@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bR9caq/dJMcad5aNK4/VmxtWrNGOkbKjXpmkX8XE0&filename=th3"
     },
     {
-      "title": "눈먼 공작과 약혼했다",
-      "url": "https://page.kakao.com/content/68090786",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
-    },
-    {
       "title": "나는 이 빙의를 끝내려 한다",
       "url": "https://page.kakao.com/content/71166123",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
+    },
+    {
+      "title": "눈먼 공작과 약혼했다",
+      "url": "https://page.kakao.com/content/68090786",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
       "title": "템빨",
@@ -78,14 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
     },
     {
+      "title": "군림천하",
+      "url": "https://page.kakao.com/content/67137961",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eqnl7k/hAMCdCQmiE/GGHPqCd3eiXth8Uq95yjhk&filename=th3"
+    },
+    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
-    },
-    {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -93,9 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
-      "title": "군림천하",
-      "url": "https://page.kakao.com/content/67137961",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eqnl7k/hAMCdCQmiE/GGHPqCd3eiXth8Uq95yjhk&filename=th3"
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업",
@@ -155,17 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T11:47:38+09:00",
+  "updated_at": "2026-11-10T12:45:17+09:00",
   "lezhin": [
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     },
     {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+      "title": "그녀의 암캐",
+      "url": "https://www.lezhin.com/ko/comic/her_dog",
+      "cover": "https://ccdn.lezhin.com/v2/comics/376/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -173,14 +173,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "자취요리왕",
-      "url": "https://www.lezhin.com/ko/comic/homecooking",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "0의 고백",
-      "url": "https://www.lezhin.com/ko/comic/zero_goback",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+      "title": "데일리 위치",
+      "url": "https://www.lezhin.com/ko/comic/dailywitch",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5479198263607296/images/tall.jpg"
+    },
+    {
+      "title": "나는 네가 -라고 생각해",
+      "url": "https://www.lezhin.com/ko/comic/i_think_you_are",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5123961411272704/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -188,24 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "이혼신청",
-      "url": "https://www.lezhin.com/ko/comic/application_for_divorce",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5469854076567552/images/tall.jpg"
+      "title": "마녀도시 리린이야기",
+      "url": "https://www.lezhin.com/ko/comic/lilinstory",
+      "cover": "https://ccdn.lezhin.com/v2/comics/174/images/tall.jpg"
+    },
+    {
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
     },
     {
       "title": "해온의 임자",
       "url": "https://www.lezhin.com/ko/comic/haeon_imja",
       "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "죽여주는 복수선언",
-      "url": "https://www.lezhin.com/ko/comic/declare_revenge",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4853285570084864/images/tall.jpg"
     }
   ]
 }
