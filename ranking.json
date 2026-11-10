@@ -73,24 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=CJ5fC/dJMcajxyWcK/026k1HBmFw1bP0vP6rQTh0&filename=th3"
     },
     {
-      "title": "로그인 무림",
-      "url": "https://page.kakao.com/content/54872059",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
-    },
-    {
       "title": "후계자는 모르겠고 힐링이나 하렵니다",
       "url": "https://page.kakao.com/content/69613701",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZrgjF/dJMcaamYLz3/ICZfZsEhlxHlqmXmFNujyk&filename=th3"
     },
     {
-      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
-      "url": "https://page.kakao.com/content/66264838",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+      "title": "로그인 무림",
+      "url": "https://page.kakao.com/content/54872059",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -98,9 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=i8OG4/dJMcaaHz62q/hDN9JgqRUxB3bGPuqyecCK&filename=th3"
+      "title": "막내 공녀의 총애를 독차지했더니, 모두 내게 집착한다",
+      "url": "https://page.kakao.com/content/66264838",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bU4CHp/dJMcajoGnnm/4WE42Dp80Hu05M0aqL2flK&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "소설 속 엑스트라",
+      "url": "https://page.kakao.com/content/59365151",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=fdwIS/dJMcadjZvJe/buP6H2RsueiBjLUaHgtO91&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,12 @@
       "cover": "https://img.ridicdn.net/cover/5103000812/xxlarge"
     }
   ],
-  "updated_at": "2026-11-10T21:55:00+09:00",
+  "updated_at": "2026-11-10T23:05:22+09:00",
   "lezhin": [
-    {
-      "title": "불공정 연애",
-      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
-    },
     {
       "title": "애증의 밤",
       "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
-    },
-    {
-      "title": "판도라의 선택",
-      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -183,14 +173,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "판도라의 선택",
+      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
+    },
+    {
+      "title": "개쓰레기 공작이랑 누가 결혼해?",
+      "url": "https://www.lezhin.com/ko/comic/who_marries_trash_duke",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776059352977/images/tall.jpg"
+    },
+    {
+      "title": "너드 프로젝트(Nerd Project) [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/nerd_project_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5280450204205056/images/tall.jpg"
+    },
+    {
       "title": "악당의 딸은 회귀해봤자",
       "url": "https://www.lezhin.com/ko/comic/villain_daughter",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
-    },
-    {
-      "title": "여자 제갈량",
-      "url": "https://www.lezhin.com/ko/comic/girlgongmyung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/313/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -198,14 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+      "title": "너의 돈이 보여",
+      "url": "https://www.lezhin.com/ko/comic/moneylover",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6732978288328704/images/tall.jpg"
     },
     {
-      "title": "흑막 남편과의 이혼에 실패한 것 같다",
-      "url": "https://www.lezhin.com/ko/comic/yihonsilpae",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011760430200983/images/tall.jpg"
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     }
   ]
 }
