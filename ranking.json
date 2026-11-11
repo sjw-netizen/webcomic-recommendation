@@ -58,19 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bLBZd4/dJMcafMYhiW/LtmJzPI5kOc6wdmbkmCEhK&filename=th3"
     },
     {
-      "title": "무한의 마법사",
-      "url": "https://page.kakao.com/content/60910969",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
-    },
-    {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "로그인 무림",
-      "url": "https://page.kakao.com/content/54872059",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+      "title": "무한의 마법사",
+      "url": "https://page.kakao.com/content/60910969",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
     },
     {
       "title": "눈먼 공작과 약혼했다",
@@ -83,14 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=o8o96/dJMcagea3Xu/Xtnu2mYEZc3YCh0Y71JLyk&filename=th3"
     },
     {
-      "title": "미친 빌런이 정신을 되찾음",
-      "url": "https://page.kakao.com/content/70776768",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
+      "title": "로그인 무림",
+      "url": "https://page.kakao.com/content/54872059",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
       "title": "나는 이 빙의를 끝내려 한다",
@@ -101,6 +91,16 @@
       "title": "나 혼자만 레벨업",
       "url": "https://page.kakao.com/content/50866481",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "미친 빌런이 정신을 되찾음",
+      "url": "https://page.kakao.com/content/70776768",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hwCfS/dJMcacdw5wU/39ehZHHLPgkOTZvQZyfVJK&filename=th3"
+    },
+    {
+      "title": "괴담에 떨어져도 출근을 해야 하는구나",
+      "url": "https://page.kakao.com/content/69229506",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=i8OG4/dJMcaaHz62q/hDN9JgqRUxB3bGPuqyecCK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/3543003702/xxlarge"
     }
   ],
-  "updated_at": "2026-11-11T20:50:41+09:00",
+  "updated_at": "2026-11-11T21:57:32+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -163,49 +163,49 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+    },
+    {
+      "title": "애신록",
+      "url": "https://www.lezhin.com/ko/comic/aesillok",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+    },
+    {
+      "title": "0의 고백",
+      "url": "https://www.lezhin.com/ko/comic/zero_goback",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.jpg"
+    },
+    {
+      "title": "자취요리왕",
+      "url": "https://www.lezhin.com/ko/comic/homecooking",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
+    },
+    {
+      "title": "우리사이느은",
+      "url": "https://www.lezhin.com/ko/comic/woori",
+      "cover": "https://ccdn.lezhin.com/v2/comics/272/images/tall.jpg"
+    },
+    {
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
+    },
+    {
+      "title": "나의 천사를 찾아서 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/find_angel",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011787560084508/images/tall.jpg"
+    },
+    {
       "title": "애증의 밤",
       "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "그녀가 공작저로 가야 했던 사정",
-      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
-    },
-    {
-      "title": "악당의 딸은 회귀해봤자",
-      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
-    },
-    {
-      "title": "메디컬 환생",
-      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
-    },
-    {
-      "title": "허상의 관계",
-      "url": "https://www.lezhin.com/ko/comic/imaginary_relationship",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5434703149858816/images/tall.jpg"
-    },
-    {
-      "title": "죽었던 남편이 계략남으로 돌아왔다",
-      "url": "https://www.lezhin.com/ko/comic/dead_husband_returns_schemer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011775806385153/images/tall.jpg"
-    },
-    {
-      "title": "불멸의 날들",
-      "url": "https://www.lezhin.com/ko/comic/ImmortalDays",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.jpg"
-    },
-    {
-      "title": "페이백(PAYBACK) [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/payback_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4917322736533504/images/tall.jpg"
-    },
-    {
-      "title": "마녀로 환생하여 성기사를 키웠다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/seonggisakijab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011757843472398/images/tall.jpg"
+      "title": "풀스 오리지널",
+      "url": "https://www.lezhin.com/ko/comic/fools_original",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
     }
   ]
 }
