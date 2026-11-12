@@ -88,14 +88,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "무한의 마법사",
-      "url": "https://page.kakao.com/content/60910969",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
-    },
-    {
       "title": "나 혼자만 레벨업",
       "url": "https://page.kakao.com/content/50866481",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
+      "title": "무한의 마법사",
+      "url": "https://page.kakao.com/content/60910969",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
     },
     {
       "title": "이번 생은 가주가 되겠습니다",
@@ -155,27 +155,47 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-12T17:54:32+09:00",
+  "updated_at": "2026-11-12T18:54:00+09:00",
   "lezhin": [
-    {
-      "title": "박배우 X 김남팬",
-      "url": "https://www.lezhin.com/ko/comic/parkxkim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
-    },
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "불공정 연애",
-      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
     },
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "메디컬 환생",
+      "url": "https://www.lezhin.com/ko/comic/medical_rebirth",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
+    },
+    {
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
+    },
+    {
+      "title": "풀스 오리지널",
+      "url": "https://www.lezhin.com/ko/comic/fools_original",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
       "title": "해온의 임자",
@@ -186,26 +206,6 @@
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "비싸지 않은 낭만 [개정판][연재]",
-      "url": "https://www.lezhin.com/ko/comic/cheap_romance_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011765760355761/images/tall.jpg"
-    },
-    {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
-    },
-    {
-      "title": "판도라의 선택",
-      "url": "https://www.lezhin.com/ko/comic/pandoras_choice",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5487695569879040/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     }
   ]
 }
