@@ -88,11 +88,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
-    },
-    {
       "title": "나 혼자만 레벨업",
       "url": "https://page.kakao.com/content/50866481",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
@@ -101,6 +96,11 @@
       "title": "재앙급 영웅님이 귀환하셨다",
       "url": "https://page.kakao.com/content/58474045",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b3IJSK/dJMcai4fhkV/CjATPsXsEQmEEum5Lslcr0&filename=th3"
+    },
+    {
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/3543003702/xxlarge"
     }
   ],
-  "updated_at": "2026-11-12T08:44:28+09:00",
+  "updated_at": "2026-11-12T09:59:19+09:00",
   "lezhin": [
     {
-      "title": "자취요리왕",
-      "url": "https://www.lezhin.com/ko/comic/homecooking",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.jpg"
+      "title": "헤어짐의 방법",
+      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+    },
+    {
+      "title": "상호 불가침 안 합니다",
+      "url": "https://www.lezhin.com/ko/comic/cant_inviolable",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011741920328658/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -168,34 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "하테마테",
-      "url": "https://www.lezhin.com/ko/comic/hate_mate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
-    },
-    {
-      "title": "풀스 오리지널",
-      "url": "https://www.lezhin.com/ko/comic/fools_original",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
-    },
-    {
-      "title": "선화의 그늘가",
-      "url": "https://www.lezhin.com/ko/comic/narcissus",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6174950587957248/images/tall.jpg"
-    },
-    {
-      "title": "끝에서부터 한걸음",
-      "url": "https://www.lezhin.com/ko/comic/step_from_the_end",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6678169846874112/images/tall.jpg"
-    },
-    {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
-    },
-    {
       "title": "가십(gossip)",
       "url": "https://www.lezhin.com/ko/comic/gossip",
       "cover": "https://ccdn.lezhin.com/v2/comics/6408655787589632/images/tall.jpg"
+    },
+    {
+      "title": "결혼부터 하죠",
+      "url": "https://www.lezhin.com/ko/comic/marry_first",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011776841696367/images/tall.jpg"
     },
     {
       "title": "호우주의보",
@@ -203,9 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "수상한 회장님의 비밀",
-      "url": "https://www.lezhin.com/ko/comic/secret_of_strange_ceo",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5477527140499456/images/tall.jpg"
+      "title": "옆자리 짝꿍의 비밀",
+      "url": "https://www.lezhin.com/ko/comic/secretofjjak",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.jpg"
+    },
+    {
+      "title": "연애경험없는 여기사에게 들이대 보았다",
+      "url": "https://www.lezhin.com/ko/comic/femaleknight",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4506351437676544/images/tall.jpg"
+    },
+    {
+      "title": "그녀가 공작저로 가야 했던 사정",
+      "url": "https://www.lezhin.com/ko/comic/gongjakjeo",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011744164337567/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     }
   ]
 }
