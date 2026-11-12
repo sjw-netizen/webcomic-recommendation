@@ -53,14 +53,19 @@
   ],
   "kakao": [
     {
+      "title": "주치의는 할 일 다 하고 사표 씁니다",
+      "url": "https://page.kakao.com/content/60056677",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bLBZd4/dJMcafMYhiW/LtmJzPI5kOc6wdmbkmCEhK&filename=th3"
+    },
+    {
       "title": "막장소설 속 악녀의 딸입니다",
       "url": "https://page.kakao.com/content/71315964",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=uFQWq/dJMcacypsjk/qB2sS7QKuyzEhyK1Q028g1&filename=th3"
     },
     {
-      "title": "주치의는 할 일 다 하고 사표 씁니다",
-      "url": "https://page.kakao.com/content/60056677",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bLBZd4/dJMcafMYhiW/LtmJzPI5kOc6wdmbkmCEhK&filename=th3"
+      "title": "픽 미 업!",
+      "url": "https://page.kakao.com/content/60914825",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     },
     {
       "title": "나 혼자만 레벨업 : 라그나로크",
@@ -73,24 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
-    },
-    {
-      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
-      "url": "https://page.kakao.com/content/64380474",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "템빨",
       "url": "https://page.kakao.com/content/54727849",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "나 혼자만 레벨업",
-      "url": "https://page.kakao.com/content/50866481",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
     },
     {
       "title": "무한의 마법사",
@@ -101,6 +96,11 @@
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
+    },
+    {
+      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+      "url": "https://page.kakao.com/content/64380474",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     }
   ],
-  "updated_at": "2026-11-12T18:54:00+09:00",
+  "updated_at": "2026-11-12T19:56:07+09:00",
   "lezhin": [
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -173,14 +173,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6739798266806272/images/tall.jpg"
     },
     {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
-    },
-    {
       "title": "풀스 오리지널",
       "url": "https://www.lezhin.com/ko/comic/fools_original",
       "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
+    },
+    {
+      "title": "그래 나다. 서브광공",
+      "url": "https://www.lezhin.com/ko/comic/sub_kwanggong",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5098885154537472/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -188,9 +188,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "불공정 연애",
+      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
     },
     {
       "title": "애증의 밤",
@@ -198,14 +198,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "해온의 임자",
-      "url": "https://www.lezhin.com/ko/comic/haeon_imja",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6676914430476288/images/tall.jpg"
-    },
-    {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     }
   ]
 }
