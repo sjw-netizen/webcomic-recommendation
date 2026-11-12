@@ -53,11 +53,6 @@
   ],
   "kakao": [
     {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
-    },
-    {
       "title": "막장소설 속 악녀의 딸입니다",
       "url": "https://page.kakao.com/content/71315964",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=uFQWq/dJMcacypsjk/qB2sS7QKuyzEhyK1Q028g1&filename=th3"
@@ -68,9 +63,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bLBZd4/dJMcafMYhiW/LtmJzPI5kOc6wdmbkmCEhK&filename=th3"
     },
     {
-      "title": "나 혼자만 레벨업 : 라그나로크",
-      "url": "https://page.kakao.com/content/64612703",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
+      "title": "픽 미 업!",
+      "url": "https://page.kakao.com/content/60914825",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     },
     {
       "title": "눈먼 공작과 약혼했다",
@@ -78,14 +73,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcxwRR/dJMcahmh2RN/PiiTnk4eYmgpf3KARSUbFK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
-      "url": "https://page.kakao.com/content/64380474",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
+      "title": "나 혼자만 레벨업 : 라그나로크",
+      "url": "https://page.kakao.com/content/64612703",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bcncro/dJMb992JnR6/vsRxZyL9isfkQntD8zwIN1&filename=th3"
     },
     {
       "title": "무한의 마법사",
@@ -93,14 +83,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
     },
     {
+      "title": "결혼도 안 했는데 무슨 이혼인가요, 폐하",
+      "url": "https://page.kakao.com/content/64380474",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=doW6UL/dJMcafIw8CK/RVxr7YnkkzmV2qQOI5aOk0&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
-    },
-    {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,17 +155,22 @@
       "cover": "https://img.ridicdn.net/cover/3543003702/xxlarge"
     }
   ],
-  "updated_at": "2026-11-12T14:55:55+09:00",
+  "updated_at": "2026-11-12T16:08:00+09:00",
   "lezhin": [
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+    },
     {
       "title": "킬러가 사랑에 빠졌을 때",
       "url": "https://www.lezhin.com/ko/comic/killer",
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
-    },
-    {
-      "title": "집사랑",
-      "url": "https://www.lezhin.com/ko/comic/butlove",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6456906317627392/images/tall.jpg"
     },
     {
       "title": "애증의 밤",
@@ -173,39 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     },
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "대포와 스탬프",
+      "url": "https://www.lezhin.com/ko/comic/guns_and_stamps",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6010643150995456/images/tall.jpg"
     },
     {
-      "title": "하테마테",
-      "url": "https://www.lezhin.com/ko/comic/hate_mate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743749831374/images/tall.jpg"
+      "title": "상호 불가침 안 합니다",
+      "url": "https://www.lezhin.com/ko/comic/cant_inviolable",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011741920328658/images/tall.jpg"
     },
     {
-      "title": "선화의 그늘가",
-      "url": "https://www.lezhin.com/ko/comic/narcissus",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6174950587957248/images/tall.jpg"
+      "title": "시크릿 동맹",
+      "url": "https://www.lezhin.com/ko/comic/secretcontract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6406678520922112/images/tall.jpg"
     },
     {
-      "title": "헤어짐의 방법",
-      "url": "https://www.lezhin.com/ko/comic/way_of_parting",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4968332980977664/images/tall.jpg"
+      "title": "BJ 알렉스[개정판]",
+      "url": "https://www.lezhin.com/ko/comic/bjalex_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5367962326859776/images/tall.jpg"
     },
     {
-      "title": "불공정 연애",
-      "url": "https://www.lezhin.com/ko/comic/unfair_relationship_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5071457909669888/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "늑대가 날 책임지겠대 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/wolf_care_me",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011777357542057/images/tall.jpg"
-    },
-    {
-      "title": "미성년",
-      "url": "https://www.lezhin.com/ko/comic/immature",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4509144894210048/images/tall.jpg"
+      "title": "죽여주는 복수선언",
+      "url": "https://www.lezhin.com/ko/comic/declare_revenge",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4853285570084864/images/tall.jpg"
     }
   ]
 }
