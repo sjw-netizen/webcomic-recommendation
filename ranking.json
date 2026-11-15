@@ -53,14 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "로그아웃이 너무 어렵다",
-      "url": "https://page.kakao.com/content/71329760",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=BaQZE/dJMb99VXw2j/viTV8D4e9A8kxkASaguEk0&filename=th3"
-    },
-    {
       "title": "남편은 됐고, 돈이나 벌렵니다",
       "url": "https://page.kakao.com/content/59978716",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
+    },
+    {
+      "title": "로그아웃이 너무 어렵다",
+      "url": "https://page.kakao.com/content/71329760",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=BaQZE/dJMb99VXw2j/viTV8D4e9A8kxkASaguEk0&filename=th3"
     },
     {
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
@@ -78,9 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+      "title": "갓 오브 블랙필드",
+      "url": "https://page.kakao.com/content/54498159",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
     },
     {
       "title": "검술명가 막내아들",
@@ -88,22 +88,37 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
-      "title": "갓 오브 블랙필드",
-      "url": "https://page.kakao.com/content/54498159",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
-    },
-    {
-      "title": "악녀님이 남자인 걸 나만 몰라",
-      "url": "https://page.kakao.com/content/68369348",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=st0fT/dJMcab7jR4V/3IGpYosPKtHCGVFFPxpFL1&filename=th3"
+      "title": "로그인 무림",
+      "url": "https://page.kakao.com/content/54872059",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
       "title": "금손 아기님이 전부 다 고침!",
       "url": "https://page.kakao.com/content/71022922",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bEFbex/dJMcai54C5F/xrI7A2KIb4Pi9PP4IkHKk0&filename=th3"
+    },
+    {
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     }
   ],
   "ridi": [
+    {
+      "title": "던전을 그리는 화가",
+      "url": "https://ridibooks.com/books/6305000001",
+      "cover": "https://img.ridicdn.net/cover/6305000034/xxlarge"
+    },
+    {
+      "title": "록사나 : 여주인공의 오빠를 지키는 방법",
+      "url": "https://ridibooks.com/books/4921002551",
+      "cover": "https://img.ridicdn.net/cover/4921002606/xxlarge"
+    },
+    {
+      "title": "도련님은 하녀에게 입을 맞추고 싶어서",
+      "url": "https://ridibooks.com/books/6407000001",
+      "cover": "https://img.ridicdn.net/cover/6407000016/xxlarge"
+    },
     {
       "title": "악인 남편",
       "url": "https://ridibooks.com/books/6039000001",
@@ -115,19 +130,9 @@
       "cover": "https://img.ridicdn.net/cover/4895004214/xxlarge"
     },
     {
-      "title": "록사나 : 여주인공의 오빠를 지키는 방법",
-      "url": "https://ridibooks.com/books/4921002551",
-      "cover": "https://img.ridicdn.net/cover/4921002606/xxlarge"
-    },
-    {
-      "title": "던전을 그리는 화가",
-      "url": "https://ridibooks.com/books/6305000001",
-      "cover": "https://img.ridicdn.net/cover/6305000034/xxlarge"
-    },
-    {
-      "title": "도련님은 하녀에게 입을 맞추고 싶어서",
-      "url": "https://ridibooks.com/books/6407000001",
-      "cover": "https://img.ridicdn.net/cover/6407000016/xxlarge"
+      "title": "오월의 정원에서",
+      "url": "https://ridibooks.com/books/6253000001",
+      "cover": "https://img.ridicdn.net/cover/6253000034/xxlarge"
     },
     {
       "title": "적국의 왕자로 사는 법",
@@ -140,14 +145,9 @@
       "cover": "https://img.ridicdn.net/cover/4766000172/xxlarge"
     },
     {
-      "title": "약탈혼",
-      "url": "https://ridibooks.com/books/1746021078",
-      "cover": "https://img.ridicdn.net/cover/1746037149/xxlarge"
-    },
-    {
-      "title": "오월의 정원에서",
-      "url": "https://ridibooks.com/books/6253000001",
-      "cover": "https://img.ridicdn.net/cover/6253000034/xxlarge"
+      "title": "국경의 아샤",
+      "url": "https://ridibooks.com/books/4158001267",
+      "cover": "https://img.ridicdn.net/cover/4158001309/xxlarge"
     },
     {
       "title": "삭풍이 불어오면",
@@ -155,27 +155,17 @@
       "cover": "https://img.ridicdn.net/cover/6400000016/xxlarge"
     }
   ],
-  "updated_at": "2026-11-15T06:13:26+09:00",
+  "updated_at": "2026-11-15T10:37:39+09:00",
   "lezhin": [
-    {
-      "title": "절세무신 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/jeolsemushin",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5746034984943616/images/tall.jpg"
-    },
-    {
-      "title": "대표님, 오늘은 아니에요",
-      "url": "https://www.lezhin.com/ko/comic/not_today_boss",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4571921605001216/images/tall.jpg"
-    },
     {
       "title": "애신록",
       "url": "https://www.lezhin.com/ko/comic/aesillok",
       "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
     },
     {
-      "title": "박배우 X 김남팬",
-      "url": "https://www.lezhin.com/ko/comic/parkxkim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+      "title": "허상의 관계",
+      "url": "https://www.lezhin.com/ko/comic/imaginary_relationship",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5434703149858816/images/tall.jpg"
     },
     {
       "title": "킬러가 사랑에 빠졌을 때",
@@ -183,29 +173,39 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     },
     {
-      "title": "농담이 진담된다",
-      "url": "https://www.lezhin.com/ko/comic/nd_be_jd",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011752807162181/images/tall.jpg"
+      "title": "풀하우스 (FULL HOUSE)",
+      "url": "https://www.lezhin.com/ko/comic/fullhouse",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5075239796277248/images/tall.jpg"
     },
     {
-      "title": "청춘어람",
-      "url": "https://www.lezhin.com/ko/comic/better_spring",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5695752626765824/images/tall.jpg"
+      "title": "밍기뉴",
+      "url": "https://www.lezhin.com/ko/comic/minguinho",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5597285332811776/images/tall.jpg"
     },
     {
-      "title": "논픽션 프레이즈",
-      "url": "https://www.lezhin.com/ko/comic/nonfiction_praise",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011753245937574/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "게임하다 눈맞을 운명입니다",
-      "url": "https://www.lezhin.com/ko/comic/destiny_to_love",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6288947252887552/images/tall.jpg"
+      "title": "알콩달콤 로맨스 시리즈",
+      "url": "https://www.lezhin.com/ko/comic/sweet_romanco",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5846640054304768/images/tall.jpg"
     },
     {
-      "title": "우주 최강 대스타",
-      "url": "https://www.lezhin.com/ko/comic/greatest_star",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5398869388886016/images/tall.jpg"
+      "title": "박배우 X 김남팬",
+      "url": "https://www.lezhin.com/ko/comic/parkxkim",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+    },
+    {
+      "title": "풀스 오리지널",
+      "url": "https://www.lezhin.com/ko/comic/fools_original",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
     }
   ]
 }
