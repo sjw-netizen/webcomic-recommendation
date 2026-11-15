@@ -53,11 +53,6 @@
   ],
   "kakao": [
     {
-      "title": "남편은 됐고, 돈이나 벌렵니다",
-      "url": "https://page.kakao.com/content/59978716",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
-    },
-    {
       "title": "로그아웃이 너무 어렵다",
       "url": "https://page.kakao.com/content/71329760",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=BaQZE/dJMb99VXw2j/viTV8D4e9A8kxkASaguEk0&filename=th3"
@@ -66,6 +61,11 @@
       "title": "괴담에 떨어져도 출근을 해야 하는구나",
       "url": "https://page.kakao.com/content/69229506",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=i8OG4/dJMcaaHz62q/hDN9JgqRUxB3bGPuqyecCK&filename=th3"
+    },
+    {
+      "title": "남편은 됐고, 돈이나 벌렵니다",
+      "url": "https://page.kakao.com/content/59978716",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
     },
     {
       "title": "점괘보는 공녀님",
@@ -78,9 +78,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "갓 오브 블랙필드",
-      "url": "https://page.kakao.com/content/54498159",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
+      "title": "데뷔 못 하면 죽는 병 걸림",
+      "url": "https://page.kakao.com/content/59782511",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+    },
+    {
+      "title": "마법학교 앞점멸 천재가 되었다",
+      "url": "https://page.kakao.com/content/64227839",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cYvxt1/dJMcah0OKzC/almKyqGDlHqRfapcaXbon0&filename=th3"
     },
     {
       "title": "검술명가 막내아들",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
     },
     {
+      "title": "나 혼자만 레벨업",
+      "url": "https://page.kakao.com/content/50866481",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=Cf0LJ/hynaH4y8E5/l5Qk7VWfAsyYkE8yKmRFdk&filename=th3"
+    },
+    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
-    },
-    {
-      "title": "금손 아기님이 전부 다 고침!",
-      "url": "https://page.kakao.com/content/71022922",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bEFbex/dJMcai54C5F/xrI7A2KIb4Pi9PP4IkHKk0&filename=th3"
-    },
-    {
-      "title": "데뷔 못 하면 죽는 병 걸림",
-      "url": "https://page.kakao.com/content/59782511",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
     }
   ],
   "ridi": [
@@ -155,57 +155,57 @@
       "cover": "https://img.ridicdn.net/cover/6400000016/xxlarge"
     }
   ],
-  "updated_at": "2026-11-15T10:37:39+09:00",
+  "updated_at": "2026-11-15T17:59:04+09:00",
   "lezhin": [
     {
-      "title": "애신록",
-      "url": "https://www.lezhin.com/ko/comic/aesillok",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6482377777020928/images/tall.jpg"
+      "title": "기사단장 엘프 씨도 소녀이고 싶다.",
+      "url": "https://www.lezhin.com/ko/comic/elf_knights_templar",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011749774112836/images/tall.jpg"
     },
     {
-      "title": "허상의 관계",
-      "url": "https://www.lezhin.com/ko/comic/imaginary_relationship",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5434703149858816/images/tall.jpg"
+      "title": "마법진 구루구루 애장판",
+      "url": "https://www.lezhin.com/ko/comic/guruguru",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5749481984032768/images/tall.jpg"
     },
     {
-      "title": "킬러가 사랑에 빠졌을 때",
-      "url": "https://www.lezhin.com/ko/comic/killer",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+      "title": "내가 너무 귀여운 걸 어쩌겠어! [연재]",
+      "url": "https://www.lezhin.com/ko/comic/im_so_cute",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5438298670039040/images/tall.jpg"
     },
     {
-      "title": "풀하우스 (FULL HOUSE)",
-      "url": "https://www.lezhin.com/ko/comic/fullhouse",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5075239796277248/images/tall.jpg"
+      "title": "사연 있는 선배의 여친이 되었습니다 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/sayeonnams_gf",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4870967763206144/images/tall.jpg"
     },
     {
-      "title": "밍기뉴",
-      "url": "https://www.lezhin.com/ko/comic/minguinho",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5597285332811776/images/tall.jpg"
+      "title": "매리는 외박중",
+      "url": "https://www.lezhin.com/ko/comic/marry_staying_out",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5595799179558912/images/tall.jpg"
     },
     {
-      "title": "남고 소년",
-      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+      "title": "귀신 상사를 두근거리게 하고 싶어",
+      "url": "https://www.lezhin.com/ko/comic/oni_boss",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4685650686443520/images/tall.jpg"
     },
     {
-      "title": "알콩달콤 로맨스 시리즈",
-      "url": "https://www.lezhin.com/ko/comic/sweet_romanco",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5846640054304768/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "박배우 X 김남팬",
-      "url": "https://www.lezhin.com/ko/comic/parkxkim",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5993567737348096/images/tall.jpg"
+      "title": "오늘도 월월",
+      "url": "https://www.lezhin.com/ko/comic/today_bowwow",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011750672662158/images/tall.jpg"
     },
     {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "난공불락의 마왕성에 어서 오세요",
+      "url": "https://www.lezhin.com/ko/comic/impregnable_demonic_castle",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734408245194/images/tall.jpg"
     },
     {
-      "title": "풀스 오리지널",
-      "url": "https://www.lezhin.com/ko/comic/fools_original",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011743735774350/images/tall.jpg"
+      "title": "2회차 인생은 최애의 식량입니다?!",
+      "url": "https://www.lezhin.com/ko/comic/2nd_life_food",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6515660304875520/images/tall.jpg"
     }
   ]
 }
