@@ -53,24 +53,14 @@
   ],
   "kakao": [
     {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
-    },
-    {
       "title": "악녀 언니가 재력을 숨김",
       "url": "https://page.kakao.com/content/65666421",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cgTLj3/dJMcagOGro1/2lS9ywxJUKqz0FcYE9lLc1&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
-      "title": "너에게 빼앗을 왕관",
-      "url": "https://page.kakao.com/content/68369749",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3"
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
     },
     {
       "title": "절대자도 아빠는 처음이라",
@@ -78,14 +68,24 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ctMuc/dJMb9Om5GE2/OmqhAnOGs0unnuGFi6DrE0&filename=th3"
     },
     {
+      "title": "너에게 빼앗을 왕관",
+      "url": "https://page.kakao.com/content/68369749",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
+      "title": "로그인 무림",
+      "url": "https://page.kakao.com/content/54872059",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+    },
+    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
-    },
-    {
-      "title": "괴담에 떨어져도 출근을 해야 하는구나",
-      "url": "https://page.kakao.com/content/69229506",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=i8OG4/dJMcaaHz62q/hDN9JgqRUxB3bGPuqyecCK&filename=th3"
     },
     {
       "title": "남편은 됐고, 돈이나 벌렵니다",
@@ -93,9 +93,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
     },
     {
-      "title": "아기는 악당을 키운다",
-      "url": "https://page.kakao.com/content/68276174",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bxQ4VT/dJMcahfCKks/1nWX9upWV8ItGQsgqnQWk0&filename=th3"
+      "title": "만렙 영웅님께서 귀환하신다!",
+      "url": "https://page.kakao.com/content/55775689",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=92IML/dJMcah4frkd/8k51MNWuDiRNxfXbW0ewv0&filename=th3"
     },
     {
       "title": "로그아웃이 너무 어렵다",
@@ -110,14 +110,14 @@
       "cover": "https://img.ridicdn.net/cover/6305000034/xxlarge"
     },
     {
-      "title": "상류 사회",
-      "url": "https://ridibooks.com/books/5536000001",
-      "cover": "https://img.ridicdn.net/cover/5536000114/xxlarge"
-    },
-    {
       "title": "국경의 아샤",
       "url": "https://ridibooks.com/books/4158001267",
       "cover": "https://img.ridicdn.net/cover/4158001328/xxlarge"
+    },
+    {
+      "title": "상류 사회",
+      "url": "https://ridibooks.com/books/5536000001",
+      "cover": "https://img.ridicdn.net/cover/5536000114/xxlarge"
     },
     {
       "title": "완벽한 저주의 나쁜 예",
@@ -130,82 +130,82 @@
       "cover": "https://img.ridicdn.net/cover/4921002606/xxlarge"
     },
     {
-      "title": "절대역",
-      "url": "https://ridibooks.com/books/5103000037",
-      "cover": "https://img.ridicdn.net/cover/5103000037/xxlarge"
-    },
-    {
-      "title": "눈먼 짐승의 시간",
-      "url": "https://ridibooks.com/books/4928004518",
-      "cover": "https://img.ridicdn.net/cover/4928005716/xxlarge"
-    },
-    {
-      "title": "악인 남편",
-      "url": "https://ridibooks.com/books/6039000001",
-      "cover": "https://img.ridicdn.net/cover/6039000054/xxlarge"
-    },
-    {
       "title": "도련님은 하녀에게 입을 맞추고 싶어서",
       "url": "https://ridibooks.com/books/6407000001",
       "cover": "https://img.ridicdn.net/cover/6407000017/xxlarge"
     },
     {
-      "title": "오월의 정원에서",
-      "url": "https://ridibooks.com/books/6253000001",
-      "cover": "https://img.ridicdn.net/cover/6253000034/xxlarge"
+      "title": "절대역",
+      "url": "https://ridibooks.com/books/5103000037",
+      "cover": "https://img.ridicdn.net/cover/5103000037/xxlarge"
+    },
+    {
+      "title": "쓰레기의 사정 [개정판]",
+      "url": "https://ridibooks.com/books/5719000002",
+      "cover": "https://img.ridicdn.net/cover/5719000137/xxlarge"
+    },
+    {
+      "title": "언아더 헤븐",
+      "url": "https://ridibooks.com/books/6283000001",
+      "cover": "https://img.ridicdn.net/cover/6283000106/xxlarge"
+    },
+    {
+      "title": "눈먼 짐승의 시간",
+      "url": "https://ridibooks.com/books/4928004518",
+      "cover": "https://img.ridicdn.net/cover/4928005716/xxlarge"
     }
   ],
-  "updated_at": "2026-11-17T05:08:20+09:00",
+  "updated_at": "2026-11-17T12:33:18+09:00",
   "lezhin": [
     {
-      "title": "대표님의 삐뚤어진 사랑",
-      "url": "https://www.lezhin.com/ko/comic/ceos_crooked_love",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5459019290705920/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+    },
+    {
+      "title": "황비는 두 번 죽지 않는다",
+      "url": "https://www.lezhin.com/ko/comic/wont_die_twice",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6131794373312512/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "백억년을 자는 남자",
+      "url": "https://www.lezhin.com/ko/comic/sleepingman",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
+    },
+    {
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "포인트 슈팅",
+      "url": "https://www.lezhin.com/ko/comic/point_shooting",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
+    },
+    {
+      "title": "레바툰",
+      "url": "https://www.lezhin.com/ko/comic/revatoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "죽어서 되돌아간 마법학교 생활을, 옛 연인과 프롤로그부터 ※단, 호감도는 0",
+      "url": "https://www.lezhin.com/ko/comic/return_magicschool_life",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6534515204489216/images/tall.jpg"
     },
     {
       "title": "히어로즈 플랜비",
       "url": "https://www.lezhin.com/ko/comic/planb",
       "cover": "https://ccdn.lezhin.com/v2/comics/312/images/tall.jpg"
-    },
-    {
-      "title": "커튼콜 아래그랑",
-      "url": "https://www.lezhin.com/ko/comic/curtain_call",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5/images/tall.jpg"
-    },
-    {
-      "title": "하루종일 조아영",
-      "url": "https://www.lezhin.com/ko/comic/joayoung",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4537933260652544/images/tall.jpg"
-    },
-    {
-      "title": "블랙보이",
-      "url": "https://www.lezhin.com/ko/comic/blackboy",
-      "cover": "https://ccdn.lezhin.com/v2/comics/235/images/tall.jpg"
-    },
-    {
-      "title": "먹는 존재",
-      "url": "https://www.lezhin.com/ko/comic/ee",
-      "cover": "https://ccdn.lezhin.com/v2/comics/119/images/tall.jpg"
-    },
-    {
-      "title": "바람",
-      "url": "https://www.lezhin.com/ko/comic/wind",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6400253992501248/images/tall.jpg"
-    },
-    {
-      "title": "이림이야기",
-      "url": "https://www.lezhin.com/ko/comic/ilimstory",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.jpg"
-    },
-    {
-      "title": "옆자리 짝꿍의 비밀",
-      "url": "https://www.lezhin.com/ko/comic/secretofjjak",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.jpg"
-    },
-    {
-      "title": "고양이 아가씨와 경호원들",
-      "url": "https://www.lezhin.com/ko/comic/cat_lady",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011761132866636/images/tall.jpg"
     }
   ]
 }
