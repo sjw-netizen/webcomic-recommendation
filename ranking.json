@@ -53,6 +53,11 @@
   ],
   "kakao": [
     {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
+    },
+    {
       "title": "재능 삼킨 마법사",
       "url": "https://page.kakao.com/content/58489471",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=gPLZ6/dJMcagnpvvR/oq38BwkOIHVTcL58KilK0k&filename=th3"
@@ -68,14 +73,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bjfcFA/dJMcabe61lY/0YGEBdSrXb3jCN7iE4EznK&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
       "url": "https://page.kakao.com/content/69283472",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+    },
+    {
+      "title": "인소의 법칙",
+      "url": "https://page.kakao.com/content/52610652",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
     },
     {
       "title": "악녀 언니가 재력을 숨김",
@@ -88,19 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bqlkUj/dJMcabzB6Yj/SXk35AhTaU9U5kJOL8PGT0&filename=th3"
     },
     {
-      "title": "인소의 법칙",
-      "url": "https://page.kakao.com/content/52610652",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=b4dWR3/dJMcaiox3ay/C6VzeAll8cK9XnxWK9KyJk&filename=th3"
+      "title": "남편은 됐고, 돈이나 벌렵니다",
+      "url": "https://page.kakao.com/content/59978716",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
     },
     {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
-    },
-    {
-      "title": "픽 미 업!",
-      "url": "https://page.kakao.com/content/60914825",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=yk7fM/dJMcabylQTY/5U5J4oLkHTzceagcUKsHH0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,22 +155,37 @@
       "cover": "https://img.ridicdn.net/cover/5719000137/xxlarge"
     }
   ],
-  "updated_at": "2026-11-18T12:28:02+09:00",
+  "updated_at": "2026-11-18T21:49:42+09:00",
   "lezhin": [
     {
-      "title": "리얼 어카운트",
-      "url": "https://www.lezhin.com/ko/comic/real_account",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4570491567276032/images/tall.jpg"
+      "title": "클라우드",
+      "url": "https://www.lezhin.com/ko/comic/cloud",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.jpg"
     },
     {
-      "title": "우물에 잠긴 달",
-      "url": "https://www.lezhin.com/ko/comic/moon_sink_well",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011730187896177/images/tall.jpg"
+      "title": "너를 찾는 파도 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/surge_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6329970682167296/images/tall.jpg"
     },
     {
-      "title": "시바토라",
-      "url": "https://www.lezhin.com/ko/comic/shibatora",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6008529005838336/images/tall.jpg"
+      "title": "남고 소년",
+      "url": "https://www.lezhin.com/ko/comic/highschoolboy",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+    },
+    {
+      "title": "절친",
+      "url": "https://www.lezhin.com/ko/comic/best_friends",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792557507797/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
@@ -178,34 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "여고생 괴식가 키리타니",
-      "url": "https://www.lezhin.com/ko/comic/kiritani",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6654850214526976/images/tall.jpg"
+      "title": "내가 원하는 건",
+      "url": "https://www.lezhin.com/ko/comic/alliwantis",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6694684605874176/images/tall.jpg"
     },
     {
-      "title": "여배우의 발칙한 동거남",
-      "url": "https://www.lezhin.com/ko/comic/actress_cohabitation",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4967757996425216/images/tall.jpg"
+      "title": "황비님의 비밀수업",
+      "url": "https://www.lezhin.com/ko/comic/queens_secret_class",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4562605903773696/images/tall.jpg"
     },
     {
-      "title": "밤을 걷는 고양이",
-      "url": "https://www.lezhin.com/ko/comic/yoruaruku_neko",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6161647552233472/images/tall.jpg"
-    },
-    {
-      "title": "퍼펙트 크라임 [개정판] [웹툰판]",
-      "url": "https://www.lezhin.com/ko/comic/perfect_crime_re",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6454009619087360/images/tall.jpg"
-    },
-    {
-      "title": "연, 분홍",
-      "url": "https://www.lezhin.com/ko/comic/walts_of_the_flowers",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5137701139513344/images/tall.jpg"
-    },
-    {
-      "title": "암흑기사인 내가 최강의 성기사를 목표로 합니다",
-      "url": "https://www.lezhin.com/ko/comic/seikishi_wo_mezashimasu",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6547682124693504/images/tall.jpg"
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
     }
   ]
 }
