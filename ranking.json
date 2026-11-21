@@ -73,24 +73,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "이번 생은 제대로 키워 드리겠습니다, 폐하!",
-      "url": "https://page.kakao.com/content/58396566",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=kGRZj/hAHIo3JwuQ/hx7XsZXYGsgoNE82M87krk&filename=th3"
-    },
-    {
       "title": "로그인 무림",
       "url": "https://page.kakao.com/content/54872059",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
+      "title": "이번 생은 제대로 키워 드리겠습니다, 폐하!",
+      "url": "https://page.kakao.com/content/58396566",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=kGRZj/hAHIo3JwuQ/hx7XsZXYGsgoNE82M87krk&filename=th3"
+    },
+    {
       "title": "독식하는 재벌 3세",
       "url": "https://page.kakao.com/content/71430117",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eIF8Bf/dJMcah7N0ax/kBpeZaXY789Yry8tz1fRwk&filename=th3"
-    },
-    {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     },
     {
       "title": "전설급 영웅은 아카데미 우등생",
@@ -101,6 +96,11 @@
       "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
       "url": "https://page.kakao.com/content/69283472",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+    },
+    {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     }
   ],
   "ridi": [
@@ -125,14 +125,19 @@
       "cover": "https://img.ridicdn.net/cover/1746037155/xxlarge"
     },
     {
+      "title": "적국의 왕자로 사는 법",
+      "url": "https://ridibooks.com/books/5337000001",
+      "cover": "https://img.ridicdn.net/cover/5337000128/xxlarge"
+    },
+    {
       "title": "러브:제로(Love:Zero) [개정판]",
       "url": "https://ridibooks.com/books/5103000638",
       "cover": "https://img.ridicdn.net/cover/5103000818/xxlarge"
     },
     {
-      "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
-      "url": "https://ridibooks.com/books/4158001245",
-      "cover": "https://img.ridicdn.net/cover/4158001325/xxlarge"
+      "title": "약탈혼",
+      "url": "https://ridibooks.com/books/1746021078",
+      "cover": "https://img.ridicdn.net/cover/1746037175/xxlarge"
     },
     {
       "title": "국경의 아샤",
@@ -140,22 +145,17 @@
       "cover": "https://img.ridicdn.net/cover/4158001328/xxlarge"
     },
     {
-      "title": "회귀자와 맹인 성녀",
-      "url": "https://ridibooks.com/books/6344000001",
-      "cover": "https://img.ridicdn.net/cover/6344000027/xxlarge"
+      "title": "상류 사회",
+      "url": "https://ridibooks.com/books/5536000001",
+      "cover": "https://img.ridicdn.net/cover/5536000114/xxlarge"
     },
     {
-      "title": "삭풍이 불어오면",
-      "url": "https://ridibooks.com/books/6400000001",
-      "cover": "https://img.ridicdn.net/cover/6400000017/xxlarge"
-    },
-    {
-      "title": "내게 빌어봐",
-      "url": "https://ridibooks.com/books/1746023794",
-      "cover": "https://img.ridicdn.net/cover/1746037169/xxlarge"
+      "title": "블랙우드 경은 하녀의 죽음에 책임이 있다",
+      "url": "https://ridibooks.com/books/4158001245",
+      "cover": "https://img.ridicdn.net/cover/4158001325/xxlarge"
     }
   ],
-  "updated_at": "2026-11-21T04:48:53+09:00",
+  "updated_at": "2026-11-21T10:13:51+09:00",
   "lezhin": [
     {
       "title": "게임은 살인이다",
@@ -168,29 +168,29 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "나무 한 그루",
-      "url": "https://www.lezhin.com/ko/comic/a_tree",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5238784944242688/images/tall.jpg"
+      "title": "나는 너의 귀여운 카피캣!",
+      "url": "https://www.lezhin.com/ko/comic/copycat",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5305536612728832/images/tall.jpg"
     },
     {
-      "title": "자궁 연애",
-      "url": "https://www.lezhin.com/ko/comic/womb_romance",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011794998654403/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "괴롭혀주세요 악역 아가씨",
-      "url": "https://www.lezhin.com/ko/comic/villain_girl",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011767768669244/images/tall.jpg"
+      "title": "우기",
+      "url": "https://www.lezhin.com/ko/comic/rainy_season",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
     },
     {
-      "title": "황후 애첩 스캔들 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/empress_scandal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399287469/images/tall.jpg"
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
     },
     {
-      "title": "부랄친구",
-      "url": "https://www.lezhin.com/ko/comic/bff",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.jpg"
+      "title": "영원한 계약 [연재]",
+      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
     },
     {
       "title": "오류탐구영역",
@@ -203,9 +203,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     },
     {
-      "title": "전갈의 시간",
-      "url": "https://www.lezhin.com/ko/comic/time_of_scorpion",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011778550265966/images/tall.jpg"
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     }
   ]
 }
