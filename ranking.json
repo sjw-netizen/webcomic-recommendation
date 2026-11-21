@@ -78,16 +78,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
     },
     {
-      "title": "이번 생은 제대로 키워 드리겠습니다, 폐하!",
-      "url": "https://page.kakao.com/content/58396566",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=kGRZj/hAHIo3JwuQ/hx7XsZXYGsgoNE82M87krk&filename=th3"
-    },
-    {
-      "title": "독식하는 재벌 3세",
-      "url": "https://page.kakao.com/content/71430117",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eIF8Bf/dJMcah7N0ax/kBpeZaXY789Yry8tz1fRwk&filename=th3"
-    },
-    {
       "title": "전설급 영웅은 아카데미 우등생",
       "url": "https://page.kakao.com/content/65703020",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciUnOJ/dJMcabzvW5f/harYjdmJS26wGikQUqExJ1&filename=th3"
@@ -98,9 +88,19 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
     },
     {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
+      "title": "이번 생은 제대로 키워 드리겠습니다, 폐하!",
+      "url": "https://page.kakao.com/content/58396566",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=kGRZj/hAHIo3JwuQ/hx7XsZXYGsgoNE82M87krk&filename=th3"
+    },
+    {
+      "title": "독식하는 재벌 3세",
+      "url": "https://page.kakao.com/content/71430117",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=eIF8Bf/dJMcah7N0ax/kBpeZaXY789Yry8tz1fRwk&filename=th3"
+    },
+    {
+      "title": "천하제일인의 소꿉친구",
+      "url": "https://page.kakao.com/content/64688681",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cnImpG/dJMcacxTNrZ/eO952UwZx1DHN7wAK7jKj0&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,32 @@
       "cover": "https://img.ridicdn.net/cover/4158001325/xxlarge"
     }
   ],
-  "updated_at": "2026-11-21T10:13:51+09:00",
+  "updated_at": "2026-11-21T18:26:09+09:00",
   "lezhin": [
+    {
+      "title": "레바툰",
+      "url": "https://www.lezhin.com/ko/comic/revatoon",
+      "cover": "https://ccdn.lezhin.com/v2/comics/260/images/tall.jpg"
+    },
     {
       "title": "게임은 살인이다",
       "url": "https://www.lezhin.com/ko/comic/gamesal",
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "피장파장의 오류",
+      "url": "https://www.lezhin.com/ko/comic/you_too",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6399994036813824/images/tall.jpg"
+    },
+    {
+      "title": "환관제조일기",
+      "url": "https://www.lezhin.com/ko/comic/castration",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6528753551540224/images/tall.jpg"
+    },
+    {
+      "title": "표준규격전사",
+      "url": "https://www.lezhin.com/ko/comic/standardheroes",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -168,44 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "나는 너의 귀여운 카피캣!",
-      "url": "https://www.lezhin.com/ko/comic/copycat",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5305536612728832/images/tall.jpg"
+      "title": "상놈 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/lowborn_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565432630/images/tall.jpg"
     },
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "여름의 밀도 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/summer_dense_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565419298/images/tall.jpg"
     },
     {
-      "title": "우기",
-      "url": "https://www.lezhin.com/ko/comic/rainy_season",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011734578265949/images/tall.jpg"
-    },
-    {
-      "title": "악당의 딸은 회귀해봤자",
-      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
-    },
-    {
-      "title": "영원한 계약 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/eternal_contract",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "발화",
+      "url": "https://www.lezhin.com/ko/comic/inflame",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
     },
     {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "표준규격전사",
-      "url": "https://www.lezhin.com/ko/comic/standardheroes",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4733152235356160/images/tall.jpg"
     }
   ]
 }
