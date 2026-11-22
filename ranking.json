@@ -68,11 +68,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZCOVV/dJMcad47N1q/xP3gxsS46ZZkEqpPffpfP1&filename=th3"
     },
     {
-      "title": "공주보다 시녀가 천직이었습니다",
-      "url": "https://page.kakao.com/content/63655107",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
-    },
-    {
       "title": "전설급 영웅은 아카데미 우등생",
       "url": "https://page.kakao.com/content/65703020",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciUnOJ/dJMcabzvW5f/harYjdmJS26wGikQUqExJ1&filename=th3"
@@ -83,14 +78,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "검술명가 막내아들",
-      "url": "https://page.kakao.com/content/59264548",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
-    },
-    {
-      "title": "로그인 무림",
-      "url": "https://page.kakao.com/content/54872059",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bPdObq/dJMcad4876c/g2x6ruodJZkFHJsMkxh7pk&filename=th3"
+      "title": "공주보다 시녀가 천직이었습니다",
+      "url": "https://page.kakao.com/content/63655107",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
     },
     {
       "title": "갓 오브 블랙필드",
@@ -101,6 +91,16 @@
       "title": "데뷔 못 하면 죽는 병 걸림",
       "url": "https://page.kakao.com/content/59782511",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=j8EWZ/dJMcaiQIXFR/Q1U8X13TsNHAbvBkljGQek&filename=th3"
+    },
+    {
+      "title": "검술명가 막내아들",
+      "url": "https://page.kakao.com/content/59264548",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QPRV9/dJMcah6hx33/fuPZqPkHIqxb4cjbST2rKk&filename=th3"
+    },
+    {
+      "title": "점괘보는 공녀님",
+      "url": "https://page.kakao.com/content/62596697",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bpLrC8/dJMcafozp6O/ulLjWvM9eOodnMf0MkIqvK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,12 +155,27 @@
       "cover": "https://img.ridicdn.net/cover/3776004078/xxlarge"
     }
   ],
-  "updated_at": "2026-11-22T07:55:50+09:00",
+  "updated_at": "2026-11-22T11:56:02+09:00",
   "lezhin": [
+    {
+      "title": "롤플레잉겜만화",
+      "url": "https://www.lezhin.com/ko/comic/rpg_comics",
+      "cover": "https://ccdn.lezhin.com/v2/comics/390/images/tall.jpg"
+    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
+    },
+    {
+      "title": "애증의 밤",
+      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+    },
+    {
+      "title": "상놈 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/lowborn_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565432630/images/tall.jpg"
     },
     {
       "title": "포인트 슈팅",
@@ -168,19 +183,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5829925558091776/images/tall.jpg"
     },
     {
-      "title": "발화",
-      "url": "https://www.lezhin.com/ko/comic/inflame",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6608868420026368/images/tall.jpg"
-    },
-    {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
-    },
-    {
-      "title": "소꿉친구의 가이드가 되었다 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/sokkupguide",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011745902996743/images/tall.jpg"
+      "title": "LOVE WINS",
+      "url": "https://www.lezhin.com/ko/comic/lovewins",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4527189402124288/images/tall.jpg"
     },
     {
       "title": "영원한 계약 [연재]",
@@ -188,24 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "오류탐구영역",
+      "url": "https://www.lezhin.com/ko/comic/error_zone",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "이번에는 닿기를",
-      "url": "https://www.lezhin.com/ko/comic/this_time_touch",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6585948657745920/images/tall.jpg"
-    },
-    {
-      "title": "매드 독",
-      "url": "https://www.lezhin.com/ko/comic/mad_dog",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.jpg"
+      "title": "여름의 밀도 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/summer_dense_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565419298/images/tall.jpg"
     }
   ]
 }
