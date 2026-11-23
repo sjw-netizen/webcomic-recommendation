@@ -58,39 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=wvhVX/dJMcaiFHvxY/k9sTAu7MvA5z1kpfc7Mqpk&filename=th3"
     },
     {
-      "title": "이번 생은 가주가 되겠습니다",
-      "url": "https://page.kakao.com/content/56566288",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
-    },
-    {
-      "title": "철혈검가 사냥개의 회귀",
-      "url": "https://page.kakao.com/content/61614855",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
-    },
-    {
       "title": "왕은 길 위에서 태어난다",
       "url": "https://page.kakao.com/content/71303946",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=QEa0u/dJMcahGp3xM/1zdk5Y4oR2M1KtH5l5ttFk&filename=th3"
     },
     {
-      "title": "소년탐정 김전일 완전판",
-      "url": "https://page.kakao.com/content/48421575",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=tQaC5/hyoXDkZ4yt/39FPjTBsg3NFKfJKhGCka0&filename=th3"
-    },
-    {
-      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
-      "url": "https://page.kakao.com/content/69283472",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
-    },
-    {
-      "title": "빌어먹을 환생2",
-      "url": "https://page.kakao.com/content/71357137",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZCOVV/dJMcad47N1q/xP3gxsS46ZZkEqpPffpfP1&filename=th3"
-    },
-    {
-      "title": "공주보다 시녀가 천직이었습니다",
-      "url": "https://page.kakao.com/content/63655107",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
+      "title": "이번 생은 가주가 되겠습니다",
+      "url": "https://page.kakao.com/content/56566288",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
     },
     {
       "title": "템빨",
@@ -98,9 +73,34 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
+      "title": "공주보다 시녀가 천직이었습니다",
+      "url": "https://page.kakao.com/content/63655107",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
+    },
+    {
+      "title": "빌어먹을 환생2",
+      "url": "https://page.kakao.com/content/71357137",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZCOVV/dJMcad47N1q/xP3gxsS46ZZkEqpPffpfP1&filename=th3"
+    },
+    {
+      "title": "황제와 비밀 연애 중인데 나는 그걸 몰라",
+      "url": "https://page.kakao.com/content/69283472",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=hjs9m/dJMcah7Lcpd/zDp1VDyuvK0Cm5BHqmnrrK&filename=th3"
+    },
+    {
+      "title": "철혈검가 사냥개의 회귀",
+      "url": "https://page.kakao.com/content/61614855",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bA6oBe/dJMcabwX2Iy/wEdVzdqoIIGoXk1aNd6R31&filename=th3"
+    },
+    {
       "title": "은해상단 막내아들",
       "url": "https://page.kakao.com/content/66578139",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=iGBo6/dJMcahcM8CU/At2vXCOIkIs2bueQsPUC8k&filename=th3"
+    },
+    {
+      "title": "남편은 됐고, 돈이나 벌렵니다",
+      "url": "https://page.kakao.com/content/59978716",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=olkA3/dJMcaaUZydh/vsPVEN073IM7kQFkSr9b5K&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/5778000080/xxlarge"
     }
   ],
-  "updated_at": "2026-11-23T09:06:14+09:00",
+  "updated_at": "2026-11-23T17:45:28+09:00",
   "lezhin": [
     {
       "title": "남고 소년",
@@ -163,19 +163,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+      "title": "용애어부가",
+      "url": "https://www.lezhin.com/ko/comic/dragonlove",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777526215706/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+      "title": "이세계 삼촌",
+      "url": "https://www.lezhin.com/ko/comic/anotherworld_uncle",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6491769883394048/images/tall.jpg"
     },
     {
-      "title": "강우주의보 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/rain_warning_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792662049862/images/tall.jpg"
+      "title": "피장파장의 오류",
+      "url": "https://www.lezhin.com/ko/comic/you_too",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6399994036813824/images/tall.jpg"
+    },
+    {
+      "title": "연애편지 대신 써드릴까요?",
+      "url": "https://www.lezhin.com/ko/comic/write_loveletter_instead",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011748599270451/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -183,29 +188,24 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "상놈 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/lowborn_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792565432630/images/tall.jpg"
+      "title": "원룸 조교님 [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/jogyonim_all",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011781499120795/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "황후 애첩 스캔들 [연재]",
-      "url": "https://www.lezhin.com/ko/comic/empress_scandal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011762399287469/images/tall.jpg"
+      "title": "4컷용사",
+      "url": "https://www.lezhin.com/ko/comic/cartoon_hero",
+      "cover": "https://ccdn.lezhin.com/v2/comics/248/images/tall.jpg"
     },
     {
-      "title": "매운맛 커플",
-      "url": "https://www.lezhin.com/ko/comic/hotcouple",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.jpg"
-    },
-    {
-      "title": "바퀴멘터리",
-      "url": "https://www.lezhin.com/ko/comic/baquimentary",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
     }
   ]
 }
