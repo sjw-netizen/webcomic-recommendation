@@ -58,14 +58,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bo1XHN/dJMcaatUYTS/fhD06tzEKm4Nb0oYYwozEk&filename=th3"
     },
     {
-      "title": "템빨",
-      "url": "https://page.kakao.com/content/54727849",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
-    },
-    {
       "title": "총애를 거절하는데 왜 집착하나요",
       "url": "https://page.kakao.com/content/64555234",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=wvhVX/dJMcaiFHvxY/k9sTAu7MvA5z1kpfc7Mqpk&filename=th3"
+    },
+    {
+      "title": "템빨",
+      "url": "https://page.kakao.com/content/54727849",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
       "title": "왕은 길 위에서 태어난다",
@@ -83,11 +83,6 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
     },
     {
-      "title": "너에게 빼앗을 왕관",
-      "url": "https://page.kakao.com/content/68369749",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3"
-    },
-    {
       "title": "이번 생은 가주가 되겠습니다",
       "url": "https://page.kakao.com/content/56566288",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SOvFC/dJMcaaUVxKE/TFaVuMuu4rut6IJw9C7UxK&filename=th3"
@@ -98,9 +93,14 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ZCOVV/dJMcad47N1q/xP3gxsS46ZZkEqpPffpfP1&filename=th3"
     },
     {
-      "title": "결혼 장사2 ~잊히지 않을 노래~",
-      "url": "https://page.kakao.com/content/67242927",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=SEVza/dJMcahzOgse/8YpW3TgwmSGktGYdXAHCck&filename=th3"
+      "title": "너에게 빼앗을 왕관",
+      "url": "https://page.kakao.com/content/68369749",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=cciPHk/dJMcadDVPsd/etR6gGwiklTkIr8X0ZvMLK&filename=th3"
+    },
+    {
+      "title": "갓 오브 블랙필드",
+      "url": "https://page.kakao.com/content/54498159",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=8DP8F/dJMb99MLk28/6pJ7SiEqYXkYSciAYACKNK&filename=th3"
     }
   ],
   "ridi": [
@@ -115,6 +115,11 @@
       "cover": "https://img.ridicdn.net/cover/4921002607/xxlarge"
     },
     {
+      "title": "빙의했더니 괴담이 돼 버렸다",
+      "url": "https://ridibooks.com/books/6057000055",
+      "cover": "https://img.ridicdn.net/cover/6057000102/xxlarge"
+    },
+    {
       "title": "상류 사회",
       "url": "https://ridibooks.com/books/5536000001",
       "cover": "https://img.ridicdn.net/cover/5536000115/xxlarge"
@@ -125,14 +130,19 @@
       "cover": "https://img.ridicdn.net/cover/4158001329/xxlarge"
     },
     {
-      "title": "빙의했더니 괴담이 돼 버렸다",
-      "url": "https://ridibooks.com/books/6057000055",
-      "cover": "https://img.ridicdn.net/cover/6057000102/xxlarge"
-    },
-    {
       "title": "완벽한 저주의 나쁜 예",
       "url": "https://ridibooks.com/books/3543003558",
       "cover": "https://img.ridicdn.net/cover/3543003708/xxlarge"
+    },
+    {
+      "title": "도련님은 하녀에게 입을 맞추고 싶어서",
+      "url": "https://ridibooks.com/books/6407000001",
+      "cover": "https://img.ridicdn.net/cover/6407000018/xxlarge"
+    },
+    {
+      "title": "세상만 구하고 은퇴하겠습니다",
+      "url": "https://ridibooks.com/books/1746023143",
+      "cover": "https://img.ridicdn.net/cover/1746037155/xxlarge"
     },
     {
       "title": "소꿉친구들이 나를 죽이려 한다",
@@ -140,37 +150,32 @@
       "cover": "https://img.ridicdn.net/cover/5611000354/xxlarge"
     },
     {
-      "title": "악인 남편",
-      "url": "https://ridibooks.com/books/6039000001",
-      "cover": "https://img.ridicdn.net/cover/6039000055/xxlarge"
-    },
-    {
-      "title": "눈먼 짐승의 시간",
-      "url": "https://ridibooks.com/books/4928004518",
-      "cover": "https://img.ridicdn.net/cover/4928005726/xxlarge"
-    },
-    {
-      "title": "친애하는 익명의 후원자님께",
-      "url": "https://ridibooks.com/books/5778000001",
-      "cover": "https://img.ridicdn.net/cover/5778000080/xxlarge"
+      "title": "언아더 헤븐",
+      "url": "https://ridibooks.com/books/6283000001",
+      "cover": "https://img.ridicdn.net/cover/6283000107/xxlarge"
     }
   ],
-  "updated_at": "2026-11-24T06:00:33+09:00",
+  "updated_at": "2026-11-24T14:47:12+09:00",
   "lezhin": [
-    {
-      "title": "연애경험없는 여기사에게 들이대 보았다",
-      "url": "https://www.lezhin.com/ko/comic/femaleknight",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4506351437676544/images/tall.jpg"
-    },
     {
       "title": "남고 소년",
       "url": "https://www.lezhin.com/ko/comic/highschoolboy",
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
-      "title": "호우주의보",
-      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
+      "title": "킬러가 사랑에 빠졌을 때",
+      "url": "https://www.lezhin.com/ko/comic/killer",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.jpg"
+    },
+    {
+      "title": "거북이는 잠자는 토끼를 지나칠 수 없어!",
+      "url": "https://www.lezhin.com/ko/comic/cantskiprabbit",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011777435659027/images/tall.jpg"
+    },
+    {
+      "title": "오크의 포로가 된 엘프 여사령관",
+      "url": "https://www.lezhin.com/ko/comic/totokkan",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.jpg"
     },
     {
       "title": "게임은 살인이다",
@@ -178,24 +183,9 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
     },
     {
-      "title": "브리아노의 연구소",
-      "url": "https://www.lezhin.com/ko/comic/brianoslab",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
-    },
-    {
-      "title": "네가 쏟아지다",
-      "url": "https://www.lezhin.com/ko/comic/love_is_pouring_in",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4706278361923584/images/tall.jpg"
-    },
-    {
-      "title": "백억년을 자는 남자",
-      "url": "https://www.lezhin.com/ko/comic/sleepingman",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
-    },
-    {
-      "title": "애증의 밤",
-      "url": "https://www.lezhin.com/ko/comic/night_of_lovehate",
-      "cover": "https://ccdn.lezhin.com/v2/comics/6036937790652416/images/tall.jpg"
+      "title": "호우주의보",
+      "url": "https://www.lezhin.com/ko/comic/heavy_rain",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011792660685735/images/tall.jpg"
     },
     {
       "title": "금요정의 금요극장",
@@ -203,9 +193,19 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "오류탐구영역",
-      "url": "https://www.lezhin.com/ko/comic/error_zone",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
+      "title": "그녀의 암캐",
+      "url": "https://www.lezhin.com/ko/comic/her_dog",
+      "cover": "https://ccdn.lezhin.com/v2/comics/376/images/tall.jpg"
+    },
+    {
+      "title": "백억년을 자는 남자",
+      "url": "https://www.lezhin.com/ko/comic/sleepingman",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5551016703033344/images/tall.jpg"
+    },
+    {
+      "title": "브리아노의 연구소",
+      "url": "https://www.lezhin.com/ko/comic/brianoslab",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
     }
   ]
 }
