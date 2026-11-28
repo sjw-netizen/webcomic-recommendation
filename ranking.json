@@ -68,24 +68,9 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bC9DPM/dJMcafMW4I4/kR0B2HMpIR4MYeGbBTtEAk&filename=th3"
     },
     {
-      "title": "샤크",
-      "url": "https://page.kakao.com/content/48990437",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ciJcwq/dJMcaa8nK8j/MjpQMkAlNGMYZOKQscyxY1&filename=th3"
-    },
-    {
       "title": "공주보다 시녀가 천직이었습니다",
       "url": "https://page.kakao.com/content/63655107",
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=dgFYj/dJMcajdoYUt/kMCoSCkYdIZPrK0qeuYn40&filename=th3"
-    },
-    {
-      "title": "야수의 전부인이 되겠습니다",
-      "url": "https://page.kakao.com/content/71072373",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
-    },
-    {
-      "title": "아무튼 로판 맞습니다",
-      "url": "https://page.kakao.com/content/62323050",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=59opI/dJMcafvmugo/cKFRSbkv1PPYWP4YgWu5kK&filename=th3"
     },
     {
       "title": "SSS급 죽어야 사는 헌터",
@@ -93,14 +78,29 @@
       "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bS0P1I/dJMcabyZrWS/58kmPpAC44UGteY3uFmFH0&filename=th3"
     },
     {
-      "title": "내 약혼자의 애인을 찾습니다",
-      "url": "https://page.kakao.com/content/71424501",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=IEhIm/dJMb99PbIZc/r3LVZYUJbjBnyK1ido3kN0&filename=th3"
+      "title": "멸망한 왕국의 3왕자가 회귀했다",
+      "url": "https://page.kakao.com/content/66881777",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=VMQ0e/dJMcabT46rc/96mQJk2ZY2k2mdj1oig5TK&filename=th3"
     },
     {
-      "title": "악당가의 최강 집사",
-      "url": "https://page.kakao.com/content/70673310",
-      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=G7Mc1/dJMcaaHAAOL/eUp3C6NecVgKw7uXFhUX60&filename=th3"
+      "title": "총애를 거절하는데 왜 집착하나요",
+      "url": "https://page.kakao.com/content/64555234",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=wvhVX/dJMcaiFHvxY/k9sTAu7MvA5z1kpfc7Mqpk&filename=th3"
+    },
+    {
+      "title": "아무튼 로판 맞습니다",
+      "url": "https://page.kakao.com/content/62323050",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=59opI/dJMcafvmugo/cKFRSbkv1PPYWP4YgWu5kK&filename=th3"
+    },
+    {
+      "title": "도망친 서브 여주의 딸로 빙의했다",
+      "url": "https://page.kakao.com/content/71165968",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=bRnjnM/dJMcajqtKYi/BbjztVj1A5zUSXPONDckyK&filename=th3"
+    },
+    {
+      "title": "야수의 전부인이 되겠습니다",
+      "url": "https://page.kakao.com/content/71072373",
+      "cover": "https://page-images.kakaoentcdn.com/download/resource?kid=ktdBk/dJMb999h3V4/Bk2vcKDMnAKZBPKsMn8pdK&filename=th3"
     }
   ],
   "ridi": [
@@ -155,7 +155,7 @@
       "cover": "https://img.ridicdn.net/cover/3776004203/xxlarge"
     }
   ],
-  "updated_at": "2026-11-28T10:21:21+09:00",
+  "updated_at": "2026-11-28T18:59:14+09:00",
   "lezhin": [
     {
       "title": "오류탐구영역",
@@ -163,29 +163,14 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/7011737621132804/images/tall.jpg"
     },
     {
-      "title": "이오해",
-      "url": "https://www.lezhin.com/ko/comic/eohe",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011748851502357/images/tall.jpg"
-    },
-    {
-      "title": "게임은 살인이다",
-      "url": "https://www.lezhin.com/ko/comic/gamesal",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
-    },
-    {
-      "title": "새디스틱 뷰티:외전B [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/sadi_bt_b",
-      "cover": "https://ccdn.lezhin.com/v2/comics/4777537292140544/images/tall.jpg"
-    },
-    {
       "title": "금요정의 금요극장",
       "url": "https://www.lezhin.com/ko/comic/goldpixinema",
       "cover": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.jpg"
     },
     {
-      "title": "음지탐구보고서",
-      "url": "https://www.lezhin.com/ko/comic/shady_research_report",
-      "cover": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.jpg"
+      "title": "너드 프로젝트(Nerd Project) [개정판]",
+      "url": "https://www.lezhin.com/ko/comic/nerd_project_15",
+      "cover": "https://ccdn.lezhin.com/v2/comics/5280450204205056/images/tall.jpg"
     },
     {
       "title": "남고 소년",
@@ -193,19 +178,34 @@
       "cover": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.jpg"
     },
     {
+      "title": "게임은 살인이다",
+      "url": "https://www.lezhin.com/ko/comic/gamesal",
+      "cover": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.jpg"
+    },
+    {
+      "title": "이 무슨 대자연인가",
+      "url": "https://www.lezhin.com/ko/comic/mothernature",
+      "cover": "https://ccdn.lezhin.com/v2/comics/6179963773714432/images/tall.jpg"
+    },
+    {
       "title": "이림이야기",
       "url": "https://www.lezhin.com/ko/comic/ilimstory",
       "cover": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.jpg"
     },
     {
-      "title": "그림자의 영역 [개정판]",
-      "url": "https://www.lezhin.com/ko/comic/shadow_domain_15",
-      "cover": "https://ccdn.lezhin.com/v2/comics/7011787812342431/images/tall.jpg"
-    },
-    {
       "title": "브리아노의 연구소",
       "url": "https://www.lezhin.com/ko/comic/brianoslab",
       "cover": "https://ccdn.lezhin.com/v2/comics/5794272204095488/images/tall.jpg"
+    },
+    {
+      "title": "악당의 딸은 회귀해봤자",
+      "url": "https://www.lezhin.com/ko/comic/villain_daughter",
+      "cover": "https://ccdn.lezhin.com/v2/comics/7011785288738957/images/tall.jpg"
+    },
+    {
+      "title": "천지해",
+      "url": "https://www.lezhin.com/ko/comic/cheonjihae",
+      "cover": "https://ccdn.lezhin.com/v2/comics/59/images/tall.jpg"
     }
   ]
 }
